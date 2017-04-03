@@ -1,0 +1,21 @@
+% Dados pessoais
+\autor{Thiago Silveira Honorato}
+\curso{Engenharia de Software}
+
+% Dados do trabalho
+\titulo{Escolha de Produtos do Tipo CMS em Desenvolvimento WEB a partir de Características de Desempenho}
+\data{2014}
+\palavraChaveUm{Sistemas Gerenciadores de Conteúdo}
+\palavraChaveDois{Desempenho}
+
+% Dados da orientacao
+\orientador{Prof. Msc. Ricardo Ajax Dias Koloski}
+% \coorientador{(quando houver, Titulação Acadêmica e Nome do Orientador)}
+
+% Dados para a ficha catalográfica
+\cdu{02:141:005.6}
+
+% Dados da aprovação do trabalho
+\dataDaAprovacao{27 / 10 /2014}
+\membroConvidadoUm{Profa. Msc. Fabiana Freitas Mendes}
+\membroConvidadoDois{Prof. Dr. Luiz Carlos Miyadaira}

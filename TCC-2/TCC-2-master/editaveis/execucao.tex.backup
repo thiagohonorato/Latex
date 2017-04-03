@@ -1,0 +1,925 @@
+\chapter[CMS]{CMS(Content Management System)}
+\label{CMS}
+
+Este capítulo tem como objetivo apresentar conceitos básicos sobre CMS - \textit{Content Management System}, que do inglês significa Sistemas Gerenciadores de Conteúdo. Nesta seção também será mostrado quais critérios serão utilizados para a escolha dos CMSs a serem avaliados futuramente no trabalho.
+\section{CMS - Definições Básicas}
+
+Um sistema de gerenciamento de conteúdo é um software que mantém o controle da informação presente em uma determinada página web. Estas informações podem ser textos, fotos, músicas, vídeos, ou documentos \cite{xiang}. 
+
+Um CMS, tem como objetivo organizar, favorecer a criação, administrar, distribuir, comunicar e disponibilizar informação em um dado web site \cite{barrere}.
+
+Sistemas de Gerenciamento de Conteúdo são uma boa solução para quem deseja organizar informações e principalmente criar e gerir conteúdos em vários contextos, dentre eles o contexto empresarial \cite{muslu}.
+
+\subsection{CMSs e suas características}
+Sistemas gerenciadores de conteúdo são softwares e todo software possui características funcionais e não funcionais que atendem aos requisitos utilizados para suas concepções.
+\subsubsection{Visão de Requisitos em Engenharia de Software}
+
+Para \citeonline{DePadua_2003}, requisitos são as características que delimitam os critérios de aceitação de um produto. O autor ainda acrescenta que à medida que o processo de desenvolvimento está sendo executado novos requisitos podem surgir, porém acrescentar características a um produto significa em aumentar o custo do projeto e de sua produção. 
+
+Segundo \citeonline{leite}, requisitos de software são o conjunto de características que expressam as necessidades dos clientes e que ao mesmo tempo condicionam a qualidade do software.
+
+De acordo com \citeonline{kotonya}, requisitos de software é a caracterização de serviços que o sistema deve prover, restrições que o sistema deve possuir e conhecimentos que serão precisos para construi-lo. Conhecendo esses elementos, a atividade de análise e negociação é facilitada, pois é possível identificar os envolvidos e também o ponto de partida de um requisito. 
+
+Os autores ainda afirmam que a Engenharia de Requisitos (ER) é a subárea da Engenharia de Software que trata do processo de definição dos requisitos de software. Esse processo é sistemático e atinge diversas atividades, tais como elicitação, análise e negociação, validação e gerência de requisitos.
+
+\subsubsection{Requisitos Funcionais}
+
+\citeonline{DeBortoli} diz que requisitos funcionais definem as funções que o sistema ou componente do sistema, devem executar, ou seja, o comportamento do sistema ou de seus componentes que transforma entradas para produzir saídas.
+
+\citeonline{cysneiros_tese} diz que os requisitos funcionais definem funções ou serviços que um software deve ser capaz de oferecer ou de executar. Estas funções ou serviços na maioria das vezes são definidas como processos que utilizam de entradas para produzir saídas.
+
+\subsubsection{Requisitos Não Funcionais}
+De acordo com \citeonline{cysneiros97}, os requisitos não funcionais, descrevem comportamentos e restrições que o software deve possuir. 
+
+\citeonline{DeBortoli} diz que requisitos não funcionais também são chamados de requisitos de qualidade. Esses requisitos descrevem tanto restrições no produto (desempenho, confiabilidade, interface de usuários, segurança) podendo, devido aos seus níveis de exigência, causar restrições no processo de desenvolvimento como: aumento de custo e prazos de desenvolvimento.
+
+\subsubsection{Classificação dos Requisitos não funcionais}
+
+Existem várias classificações para requisitos não funcionais propostas na literatura. As figuras \ref{RNF} e \ref{RNF1} São algumas delas:
+
+\begin{figure}[h]
+\centering
+\includegraphics[keepaspectratio=true,scale=0.35]{figuras/RNF1.jpg}
+\caption{Classificação de Requisitos Não Funcionais de \cite{mamani}}
+\label{RNF}
+\end{figure}
+
+
+Já \citeonline{sommer92} apresenta uma classificação um pouco diferente. Para este autor, os requisitos não funcionais podem ser agrupados pelas seguintes Classes: Requisitos de Produto, Requisitos Externos e Requisitos de Processo.
+
+\begin{figure}[h]
+\centering
+\includegraphics[keepaspectratio=true,scale=0.35]{figuras/RNF2.jpg}
+\caption{Classificação de Requisitos não Funcionais por \citeonline{sommer92}.}
+\label{RNF1}
+\end{figure}
+
+\subsubsection{Requisitos Não Funcionais de Desempenho}
+\label{requisitos_nao_funcionais}
+
+Uma questão importante durante o desenvolvimento de software é saber gerenciar os requisitos de desempenho do software. Na prática, os requisitos de desempenho, muitas vezes se concentram em tempo de resposta e taxa de transferência, porém a definição de requisitos de desempenho vai muito além destes dois conceitos \cite{Nixon}. Para este autor os requisitos de desempenho merecem atenção especial, pois representam um grande desafio para sistemas de informação e para os demais sistemas de software, pois estes requisitos podem impactar de forma integral o sistema em questão. Isto é, a resposta de uma tal exigência pode alterar várias partes de um sistema. 
+Isso significa que não se pode simplesmente adicionar um módulo que melhore o desempenho do sistema como um todo, é preciso considerar o desempenho ao longo do processo de desenvolvimento.
+
+Para \citeonline{DePadua_2003}, os requisitos de desempenho são requisitos numéricos, estáticos e dinâmicos,  a que o sistema devam obedecer. São exemplos de requisitos estáticos: números de terminais suportados, números de usuários simultâneos e volume de informação que deve ser tratado.
+
+\citeonline{DePadua_2003} acrescenta dizendo que no caso de requisitos dinâmicos podem ser incluídos, por exemplo, o número esperado de transações por unidade de tempo, indicando-se condições de normalidade e de sobrecarga. Para o autor, todos os requisitos de desempenho devem ser descritos de forma quantitativa e mensurável. Isto é, um exemplo de requisito de desempenho mal definido é: “O software deverá ter resposta rápida”. O requisito aceitável seria: “90\% das vezes o tempo de resposta do software deverá ser inferior a X segundos”. Onde "X" seria um número aceitável para o usuário,
+que o deixaria satisfeito com o desempenho do sistema.
+
+\citeonline{patel}, enunciam que todos os CMSs cumprem tarefas comuns de conteúdo, como criar, editar, publicar. Um exemplo de criação é a inserção de um plugin, ou de um determinado texto no site. A edição é a alteração de um determinado conteúdo seja texto ou a troca de um determinado plugin. A publicação é o processo de gerar o conteúdo para que o mesmo possa ser mostrado no site. Mas, além desses requisitos básicos relativos a gerência de conteúdo há a preocupação com vários outros critérios que vão além da administração do conteúdo como: bom suporte ao usuário, a segurança da página, documentação entre outros. 
+
+
+
+
+
+\subsection{Vantagens no uso de CMS para o desenvolvimento web}
+
+O uso de CMSs no contexto de desenvolvimento web possui inúmeros benefícios.
+
+\citeonline{barrere}, \citeonline{costa}, \citeonline{Vantagens} e \citeonline{DosSantos} em seus trabalhos listam algumas dessas vantagens:
+%Para compreender o \textit{modus operandi} do STPC/DF, visitou-se as empresas Expresso São José, Sociedade de Transportes Coletivos de Brasília, Urbi Mobilidade Urbana e Viação Piracicabana. Isso permitiu a visualização da migração do antigo para o novo modelo de transporte público coletivo do Distrito Federal e a descoberta dos problemas técnicos mencionados em \ref{localizacao}, \ref{linha} e \ref{bilhetagem} e também a compreensão do monitoramento feito pelo CCO das empresas.
+\begin{itemize}
+\item Uso de modelos pré - definidos de páginas web (os chamados templates), que garantem a consistência de exibição do site como um todo.
+\item Funcionalidades podem ser incorporadas por meio de componentes pré construídos (os chamados plugins).
+\item Possibilidade de construir e administrar um website sem a necessidade de conhecer linguagens de programação para web.
+\item No contexto empresarial há redução de mão de obra com manutenção de sites por permitir maior desempenho no desenvolvimento.
+\item Permite gerir com facilidade o conteúdo do site separadamente do design. 
+\item Basta ter um browser para criação e manutenção não sendo necessários nenhum software adicional.
+\end{itemize}
+
+\subsection{Desvantagens no uso de CMS para o desenvolvimento web}
+
+Apesar de possuir inúmeras vantagens o uso de CMS ainda apresenta algumas desvantagens. \citeonline{barrere} e \citeonline{DosSantos} listam as seguintes desvantagens, dentre outras: 
+\begin{itemize}
+\item Apesar de trazer consistência a página web o uso de modelos pré-definidos também impõe restrições e limitações características do modelo a ser usado.
+\item A aparência do site fica limitada a quantidade de templates disponíveis para o CMS a ser usado.
+\item Apesar de criar sites com facilidade e  evitar   o desenvolvimento web desde do início, para   se   utilizar   todos   os   recursos   provenientes   de   um   CMS   é   necessário   um certo   tempo   de   estudo   para   um bom   entendimento   e   aproveitamento de suas funcionalidades.
+% \item Não é possível copiar localmente um projeto de página.\textcolor{red}{Rever esta referência.}
+\item O Backup da página só é possível apenas no servidor.
+\end{itemize}
+
+\section{Uso de CMS na indústria de Software}
+\label{uso_CMS}
+
+Devido às inúmeras vantagens de sua utilização o uso de CMSs na indústria de software é bastante ampla. \citeonline{barrere} e \citeonline{DosSantos} apresentam alguns exemplos de uso de CMS na indústria de software na tabela \ref{Uso_CMS}:
+
+
+
+\begin{table}[!ht]
+\begin{center}
+\caption{O Uso de CMS na Indústria}
+\label{Uso_CMS}
+\begin{tabular}{|c|}\hline
+ 
+\textbf{Uso de CMS na indústria de Software}\\\hline
+Blogs\\\hline
+Sites para E-commerce\\\hline
+Sites para empresas ou instituições\\\hline
+Comunidades virtuais\\\hline
+Fóruns de Discussão\\\hline
+Revistas e Jornais on-line\\\hline
+Livros colaborativos\\\hline
+ 
+ 
+\end{tabular}
+ \end{center}
+\end{table}
+
+\section{Critérios para a escolha de CMSs a serem utilizados neste trabalho}
+No mercado de Software existem várias opções de CMSs disponíveis alguns muito populares e já consolidados, enquanto outros mais desconhecidos. Alguns CMSs são software livre enquanto outros proprietários. Dentre várias outras características.
+
+O site  \citeonline{Vision}  apresenta uma visão rápida de vários produtos de CMS disponíveis no mercado. Dentre elas podem se destacar o Plone, Contao, Concrete5, Silverstripe, MODx, que embora não tão conhecidos, são citados pela \cite{Vision}.
+
+O objetivo desta seção é justificar a escolha dos CMSs a serem alvos de estudo no trabalho.
+
+\subsection{Software Livre / Software Proprietário}
+\label{free_software}
+
+A Engenharia de Software é bastante diferente se comparada com as demais engenharias. Uma diferença é que as pessoas que desenvolvem software podem publica-los para que qualquer outra pessoa use sem custo algum. Estes produtos de software são os chamados software livre ou software open source \cite{Yoshi}.
+
+Softwares livres não possuem restrições de uso e podem ser adaptados e modificados livremente para a resolução de um determinado problema \cite{aguiar2007}.
+
+Para o software proprietário a cópia, redistribuição, ou modificação são proibidos pelo seu criador ou distribuidor e em geral apresentam alto custo restringindo a sua utilização \cite{aguiar2007}.
+
+A tabela \ref{tipos_CMS} apresenta 15 soluções em CMS previamente mapeadas em software livre e software proprietário. Essas soluções são segundo os sites \citeonline{opensource_cms}, \citeonline{Vision} , \citeonline{marketing},\citeonline{Vig}, \citeonline{coreMedia}, \citeonline{sherpa} e \citeonline{CMS_Proprietario}.
+
+
+% \caption{Mapeamento de Soluções de CMS em Software Livre e Software Proprietário}
+
+
+\begin{longtable}{|c|c|c|}
+\caption{Mapeamento de CMSs em Software Livre e Software Proprietário}  \label{tipos_CMS}\\
+ 	\hline
+\textbf{CMS} & \textbf{Software Livre} & \textbf{Software Proprietário}\\\hline
+Joomla & x & \\\hline
+Drupal & x & \\\hline
+WordPress & x & \\\hline
+SilverStripe & x & \\\hline
+Plone & x & \\\hline
+Contao & x & \\\hline
+Modx & x & \\\hline
+Concrete5 & x & \\\hline
+Pligg & x & \\\hline
+Vignette &  & x\\\hline
+CoreMedia &  & x\\\hline
+Milenium Cross Media &  & x\\\hline
+Notitia &  & x\\\hline
+Vinias &  & x\\\hline
+Sherpa &  & x\\\hline
+\end{longtable}
+
+Segundo \citeonline{sherpa}, valores de licenciamento de produtos de CMSs proprietários podem ser relevantes. A empresa fornecedora do Sherpa cita valores que podem chegar na ordem de grandeza de milhares de dólares por licença (10k - 75K). Assim sendo, a proposta do software livre de reduzir os custos de aquisição de licenças para o uso de produtos de software foi priorizada na escolha dos CMSs a serem estudados.
+De fato, \citeonline{Karels} afirma que o uso de software livre está cada vez mais popular, pois apresenta várias vantagens, tanto do contexto de uso, quanto do contexto de desenvolvimento.  Dentre algumas vantagens\cite{Karels}:
+
+\begin{itemize}
+ \item O custo de aquisição é baixo. Embora o software proprietário possua mais opções para suporte e treinamento, o seu custo de aquisição é maior se comparado a um software livre.
+ \item O apoio comunitário no processo de desenvolvimento é frequente. Dependendo da comunidade uma dúvida pode ser respondida de forma rápida, como pode demorar várias semanas para ser respondida.
+ \item O projeto pode ter muitos colaboradores voluntários, porém as habilidades e a disponibilidade desses colaboradores podem variar de forma significante.
+ \item Funcionalidades podem ser adicionadas com o projeto em andamento. Essa adição de funcionalidades é priorizada de acordo com as necessidades dos usuários do software livre em questão.
+ 
+\end{itemize}
+
+
+Sendo assim, as opções mapeadas como software livre foram priorizadas nas análises da próxima seção, juntamente com o critério de avaliar suas respectivas popularidades.
+
+\subsection{Popularidade}
+
+O software livre vem se tornando bastante popular nos últimos anos. Essa popularidade se deve à internet, que permite uma distribuição rápida e em larga escala dos softwares que seguem esse modelo. Entretanto a internet não colaborou apenas para a popularidade dos softwares livres, mas também permitiu atrair vários contribuidores bastando apenas o interesse dos mesmos \cite{salgado}. 
+	
+Para o conceito popularidade, serão avaliados os nove CMSs Software Livre mapeados na seção \ref{free_software}. Para justificar este conceito foram escolhidos três parâmetros. São eles:
+
+\begin{itemize}
+\item Número de contribuições – mensurada a partir do número de \textit{commits} no repositório segundo a página das aplicações  \cite{GitHub}. Cabe ressaltar que foi preferido utilizar o número de commits no 
+repositório de contribuições de melhorias do produto, independentemente do número de pessoas cadastradas como contribuintes, na suposição de que, apesar de um número menor de contribuintes, suas
+contribuições eram mais frequentes.
+\item Número de “opiniões favoráveis” na rede social Facebook - Número de pessoas na maior comunidade do CMS na rede social Facebook, segundo pesquisa realizada no site \cite{face}.
+\item Número de “opiniões favoráveis” no Twitter” - Número de pessoas na maior comunidade do CMS na rede social Twitter, segundo pesquisa realizada no site \cite{twitter}.
+\end{itemize}
+
+A partir das investigações feitas nos sites \cite{face}, \cite{twitter} e \cite{GitHub} foram obtidos os dados da tabela \ref{Popularidade} que vem a seguir: 
+
+\begin{table}[!ht]
+\begin{center}
+\caption{Popularidade dos CMSs Mapeados}
+\label{Popularidade}
+\begin{tabular}{|l|l|l|l|}\hline
+\textbf{CMS} & \textbf{Comunidade} & \textbf{Facebook} & \textbf{Twitter} \\\hline
+Joomla &  19.601 & 153.252 & 53.007\\\hline
+Drupal & 16.308 & 73.507 & 53.793\\\hline
+WordPress & 27.330 & 882.869 & 1.219.532\\\hline
+SilverStripe & 13.198 & 3.125 & 3.145\\\hline
+Plone & 66 & 1.385 & 3.476\\\hline
+Contao & 4.539 & 2.732 & 1.841\\\hline
+Modx & 7.686 & 3.235 & 4.406\\\hline
+Concrete5 & 7.121 & 1.763 & 5.492\\\hline
+Pligg & 1.122 & 504 & 820\\\hline
+\end{tabular}
+\end{center}
+\end{table}
+
+As figuras \ref{pop_001}, \ref{pop_002}, \ref{pop_003}, \ref{pop_004}, \ref{pop_005}, \ref{pop_006} mostram a visão gráfica da popularidade a partir da tabela \ref{Popularidade}.
+
+
+\begin{figure}[!ht]
+\centering
+\includegraphics[keepaspectratio=true,scale = 1.4]{figuras/commits.JPG}
+\caption{Popularidade pelo número de commits no git hub.}
+\label{pop_001}
+\end{figure}
+
+\begin{figure}[!h]
+\centering
+\includegraphics[keepaspectratio=true,scale = 0.9]{figuras/commits1.JPG}
+\caption{Percentual de popularidade pelo número de commits no git hub.}
+\label{pop_002}
+\end{figure}
+
+\begin{figure}[!ht]
+\centering
+\includegraphics[keepaspectratio=true,scale = 0.9]{figuras/facebook.JPG}
+\caption{Popularidade de acordo com a rede social Facebook.}
+\label{pop_003}
+\end{figure}
+
+\begin{figure}[!ht]
+\centering
+\includegraphics[keepaspectratio=true,scale = 0.9]{figuras/facebook1.JPG}
+\caption{Percentual de popularidade de acordo com a rede social Facebook.}
+\label{pop_004}
+\end{figure}
+
+\begin{figure}[!ht]
+\centering
+\includegraphics[keepaspectratio=true,scale = 0.9]{figuras/Twitter.JPG}
+\caption{Popularidade de acordo com a rede social Twitter.}
+\label{pop_005}
+\end{figure}
+
+\begin{figure}[!ht]
+\centering
+\includegraphics[keepaspectratio=true,scale = 0.8]{figuras/Twitter1.JPG}
+\caption{Percentual de popularidade de acordo com a rede social Twitter.}
+\label{pop_006}
+\end{figure}
+
+ 
+
+Além dos parâmetros observados outras pesquisas de sites da internet apontam os CMS mais populares:
+
+\begin{itemize}
+\item De acordo com a \citeonline{marketing}, o WordPress é o CMS mais usado no mundo.
+
+\item O WordPress tem licença free, e pode ser instalado com facilidade, a empresa gosta de mencionar a sua rápida instalação de 5 minutos \cite{marketing}.
+
+\item Apesar de ser considerado uma plataforma feita para blogs, o WordPress é bastante mutável e pode ser usado na construção de páginas corporativas, e-commerce, jornais e demais itens mencionados na tabela \ref{Uso_CMS} na seção \ref{uso_CMS} deste trabalho \cite{marketing}. 
+\item Logo depois do WordPress aparece o Joomla como segunda ferramenta de CMS mais usada. O debate sobre qual ferramenta é a melhor já existe há muito tempo, com defensores de ambos os lados. Apesar da competição o Joomla ainda perde em quesitos como simplicidade e funcionalidades, não sendo aconselhado para pessoas iniciantes no desenvolvimento web, segundo o site \citeonline{marketing}. 
+\item O Drupal mesmo apresentando um crescimento no número de usuários, ainda é pequeno se comparado com WordPress ou Joomla. O sistema também é mais complexo do que seus concorrentes, não sendo indicado para usuários leigos, apenas para aqueles que já possuem alguma experiência com desenvolvimento, segundo o site \citeonline{marketing}.
+% (quanto? Faz uma continha de diferença % dos dados da tabela 2 e colocar num gráfico de barras).
+\item \citeonline{opensource_cms}, utilizou um complemento de navegador chamado Wappalyzer, que tem por finalidade descobrir quais tecnologias foram usadas para a construção de tais sites. Dentre essas tecnologias que podem ser encontradas, podem-se destacar CMS, frameworks e ferramentas de análise de código. Com o auxílio desta ferramenta a OpenSource CMS, descobriu que o Wordpress, o Joomla e o Drupal são os mais utilizados na composição dos sites avaliados respectivamente, tomando como exemplo uma amostra de 1 \% de sites da internet.
+\end{itemize}
+
+Com base nas pesquisas efetuadas desta seção foram escolhidos para serem estudados os CMSs: Joomla, Drupal e Wordpress.
+
+\section{Vantagens e Desvantagens dos CMS escolhidos}
+\label{Cms_vantagens}
+
+Esta seção tem como objetivo analisar algumas vantagens e desvantagens dos CMSs escolhidos Joomla, WordPress e Drupal, porém antes de mostrar as vantagens e desvantagens de tais CMSs será apresentada uma visão rápida de cada CMS. 
+
+\begin{enumerate}
+ \item \textbf{Wordpress}: É um software livre que possui licença  GPLv2\footnote{A \textit{General Public License} é uma licença projetada por Stalman para software livre possui 4 princípios básicos. Dentre esses princípios destacam-se A liberdade para executar, distribuir, desenvolver melhorias para o programa e produzir trabalhos derivados, desde que o software derivado, ou seus trabalhos derivados sejam também livres. \cite{smith}}. Tem como principal objetivo a criação de blogs e fornece ao seu usuário vários recursos para a criação destes blogs. Dentre esses recursos pode ser destacado os painéis de administração, que são uma opção para definir o comportamento e a apresentação do site \cite{Reis}.
+\item \textbf{Drupal}: Também é um software livre que possui licença GPLv2. Trabalha com alguns conceitos chaves. Alguns desses conceitos chaves são: Os \textbf{Módulos}  são os conjuntos de códigos que são responsáveis por prover as principais funcionalidades do Drupal; a \textbf{Taxonomia} é o sistema de classificação de conteúdo;  o \textbf{Tema} faz o gerenciamento do que é exibido no site controlando o layout, cores e aspecto gráfico \cite{Reis}.   
+ \item \textbf{Joomla}: Distribuído sob licença GPLv2 é um CMS software livre que permite total customização do layout, tornando possível desde a simplificação de buscas até o suporte à múltiplas línguas(internacionalização)\cite{Reis}. 
+ \end{enumerate}
+
+\citeonline{costa}, \citeonline{Reis} elencam em seus trabalhos várias vantagens e desvantagens dos CMSs Joomla, Wordpress e Drupal. A relação de vantagens e desvantagens de cada CMS está na tabela \ref{Vantagens} a seguir:
+
+% \begin{table}[!ht]
+ 	
+ 	\begin{longtable}{|p{65pt}|p{140pt}|p{220pt}|}
+ 	\caption{Vantagens e Desvantagens dos CMSs, segundo \citeonline{costa},\citeonline{Reis}}
+ 	 \label{Vantagens}\\
+%  	\end{longtable}
+
+ 	\hline
+ 	 {\raggedright \textbf{CMS}}
+ 	 & {\raggedright \textbf{Vantagens}}
+ 	 & {\raggedright \textbf{Desvantagens}}\\
+ 	\hline
+ 	 {\raggedright Joomla}
+ 	 & {\raggedright 
+ 	                  Fácil de instalar.
+ 	                   
+ 	                  Boa usabilidade.		
+			   
+			  Software Livre.		
+			   
+			  Flexibilidade e interatividade alta.
+			  
+			  Forte documentação.
+			  
+			  Comunidade bastante ativa.
+			  
+			  
+%  	             
+	    }
+ 	 & {\raggedright 
+ 	                Taxonomia Limitada.
+ 	                
+ 	                Boa parte de seus plugins e templates são pagos.
+ 	
+ 	
+ 	}\\
+ 	\hline
+ 	 {\raggedright Wordpress}
+ 	 & {\raggedright %\begin{itemize}
+ 	                  Fácil de instalar.
+ 	                  
+ 	                  Boa usabilidade.		
+			  
+			  Software Livre.		
+			  
+			  Flexibilidade e interatividade alta.
+			  
+			  Bom para a construção de blogs.
+			  
+			  Total conformidade com os padrões da World Wide Web Consortium. 
+ 	                 
+ 	                 
+ 	                 }
+ 	 & {\raggedright %\begin{itemize}
+ 	               Taxonomia Limitada.
+ 	               
+ 	               Segurança limitada.
+ 	               
+ 	               Performance Limitada.
+ 	               
+ 	               Mecanismo de busca não é preciso.
+ 	             
+ 	
+ 	}\\
+ 	\hline
+ 	 {\raggedright Drupal} 
+ 	 & {\raggedright %\begin{itemize}{
+			  Boa taxonomia.
+			  
+			  Software Livre.
+			  
+			  Possui mais recursos em nível de desenvolvimento.
+			  
+			  Fácil configuração para interagir com outros sites e tecnologias.
+			  
+			  Liberdade para a alteração de um template específico.
+			  
+			  
+			  
+ 	                 %\end{itemize}}
+ 	 
+ 	 }
+& {\raggedright Curva de aprendizado alta.
+
+		 Usabilidade ruim.	
+		 
+		 Difícil de instalar.
+		 
+		 Inadequado para usuários com pouca experiência no uso de CMS.
+
+  }\\
+ 	\hline
+ 	\end{longtable}
+ 	
+%  \end{table}
+%  
+
+
+
+\section{Comparativos já Realizados}
+
+\citeonline{patel}, propuseram uma pesquisa que buscava avaliar três CMSs Joomla, Wordpress e Drupal com o objetivo de aferir o desempenho desses CMSs observando algumas características. Sua pesquisa foi composta de dois estudos de caso. Em um de seus estudos de caso as avaliações eram feitas em um servidor local. 
+
+Para o servidor local as características observadas são detalhadas na tabela \ref{patel}:
+
+
+% \begin{table}[!ht]
+%  	\label{patel}
+ 	\begin{longtable}{|p{140pt}|p{300pt}|}
+ 	\caption{Características avaliadas pelo experimento de \citeonline{patel}}
+ 	\label{patel}\\
+ 	\hline
+ 	 {\raggedright \textbf{Característica}}
+ 	 & {\raggedright \textbf{Descrição}}\\
+ 	\hline
+ 	 {\raggedright Tempo de carregamento da página}
+ 	 & {\raggedright Tempo em Milissegundos (ms).}\\
+ 	\hline
+ 	 {\raggedright Tamanho da página}
+ 	 & {\raggedright Tamanho total da página em (KB).}\\
+ 	\hline
+ 	 {\raggedright Total de Requisições} 
+ 	 & {\raggedright Número de pedidos enviados ao servidor para se carregar uma página.}\\
+ 	\hline
+ 	 {\raggedright Total de Arquivos CSS}
+ 	 & {\raggedright Número de arquivos CSS usados pelo CMS para fazer uma página.} \\
+ 	\hline
+ 	{\raggedright Total de arquivos JS} 
+ 	 & {\raggedright Número de arquivos Java Script usados pelo CMS para fazer uma página.}\\
+ 	\hline
+ 	{\raggedright PLT} 
+ 	 & {\raggedright Tempo em que se armazena o conteúdo na memória cache antes da página carregar.}\\
+ 	\hline
+ 	{\raggedright PS} 
+ 	 & {\raggedright Quantidade de dados armazenados na memória cache antes da página carregar.}\\
+ 	\hline
+ 	\end{longtable}
+ 	
+%  \end{table}
+
+Depois de estabelecidas as características \citeonline{patel} estabeleceram três experimentos dentro do primeiro cenário do servidor local:
+
+\begin{itemize}
+\item 1ª Experimento - Página comum sem plugins.
+\item 2ª Experimento - Plugin de calendário e informação textual.
+\item 3ª Experimento - Calendário, informação textual, imagem, plugin de relógio.
+\end{itemize}
+
+Após os dados levantados, \citeonline{patel}, obtiveram o rank mostrado na tabela \ref{tabela_patelc} e nas figuras \ref{Rank1}, \ref{Rank2}, \ref{Rank3}:
+
+ \begin{table}[ht]
+\begin{center}
+\caption{Rank gerado a partir do experimento de \citeonline{patel}.}
+ \label{tabela_patelc}
+\begin{tabular}{|l|l|l|l|}\hline
+CMS/ Experimento & \textbf{Wordpress} & \textbf{Joomla} & \textbf{Drupal}\\\hline
+\textbf{1ª Experimento} & 2ª & 3ª & 1ª\\\hline
+\textbf{2ª Experimento} & 3ª & 2ª & 1ª\\\hline
+\textbf{3ª Experimento} & 3ª & 1ª & 2ª\\\hline
+ \end{tabular}
+ \end{center}
+  \end{table}
+  
+\begin{figure}[!ht]
+\centering
+\includegraphics[keepaspectratio=true,scale=0.7]{figuras/exp001.JPG}
+\caption{Rank de melhor desempenho no experimento 1}
+\label{Rank1}
+\end{figure}  
+
+\begin{figure}[!ht]
+\centering
+\includegraphics[keepaspectratio=true,scale=0.7]{figuras/exp002.JPG}
+\caption{Rank de melhor desempenho no experimento 2}
+\label{Rank2}
+\end{figure} 
+
+\begin{figure}[!ht]
+\centering
+\includegraphics[keepaspectratio=true,scale=0.7]{figuras/exp003.JPG}
+\caption{Rank de melhor desempenho no experimento 3}
+\label{Rank3}
+\end{figure} 
+
+As figuras \ref{Rank1}, \ref{Rank2}, \ref{Rank3} e a tabela \ref{tabela_patelc} demonstram que \citeonline{patel} obtiveram a conclusão que para um servidor local e os experimentos propostos o CMS Drupal obteve o melhor desempenho e o WordPress o pior. 
+
+Levando em consideração os experimentos feitos por \citeonline{patel} a grande diferença deste TCC consiste em haver um catálogo de métricas que será desenvolvido com base na ISO-IEC 9126 e estruturado segundo o método GQM apresentado na seção \ref{GQM}. O que não foi explicitado pelos autores nos seus estudos.
+
+Assim sendo a contribuição deste estudo consistiu em respaldar as medições  escolhidas a partir de características de qualidade referenciadas pela norma ISO 9126 para, a partir delas, estabelecer o conjunto de medições a serem usadas no contexto da característica de desempenho.
+Além disso, as medições serão submetidas a avaliação de especialistas(como previsto em TCC 2), para averiguar suas relevâncias e facilidades(ou dificuldades) de execução. Com este procedimento pretende-se obter um framework de medições mais útil e alinhado aos reais interesses dos responsáveis pela
+escolha de um determinado CMS para o desenvolvimento de um determinado software em ambiente WEB e sob o aspecto de desempenho. Desta forma o estudo poderia ser repetido de forma semelhante para outras características não funcionais de interesse futuramente, como: manutenibilidade, confiabilidade, etc.
+
+Conforme visto, requisitos não funcionais carecem de definições mais objetivas para poderem ser considerados como bem definidos. Uma forma de objetivamente quantificar grandezas consiste em utilizar a teoria de métricas de software. A \citeonline{9126} propõe um conjunto de métricas para avaliar grandezas ligadas ao conceito de qualidade em softwares o que, por sua vez, será o foco de estudo do próximo capítulo para o caminho de definir um framework de características que possa ser o mais objetivamente possível utilizado como insumo para a escolha de um determinado CMS em uma organização.
+
+\chapter[Qualidade de Software e Métricas]{Métricas no contexto de avaliação de Qualidade de Software}
+\label{Qualidade_de_Software}
+
+A qualidade de software varia e depende dos princípios que serão aplicados. Algumas das medidas mais comuns são o software sem erros, software que funciona como o estabelecido e o software com resultados precisos. \apud{Jones}{Hamid}.
+
+\citeonline{Hamid}, ainda dizem que medir a qualidade do software na indústria não é uma tarefa fácil e a maioria das empresas não costumam implementar este conceito. Existem várias razões para que a qualidade não seja medida, dentre alguns dos motivos mais comuns são os gestores que não sabem como medir, dificuldades para criar a infraestrutura necessária para a medição e o medo do resultado \apud{Kan}{Hamid}.
+
+É objetivo deste capítulo apresentar conceitos básicos de qualidade de software e as métricas de desempenho que serão definidas para a composição do framework.
+
+\section{Qualidade de Software - Definições}
+
+A qualidade de software pode assumir diversas facetas como as que são apresentadas a seguir:
+
+\begin{itemize}
+\item Padrões de software são necessários para atingir um nível aceitável de qualidade tanto no produto de software, quanto no seu processo de desenvolvimento \apud{Agrawal}{Singh}. 
+
+\item A definição de qualidade de software tem evoluído ao longo do tempo \apud{Prahalad}{Singh}. Este mesmo autor diz que, inicialmente, foi definida como a conformidade com um padrão ou uma especificação. Mais tarde, a definição foi alterada para adaptar-se a ambientes de negócios altamente dinâmicos.
+
+\item Em 1991, a Organização Internacional de Normalização ISO 9126 foi adotada como o padrão para avaliar a qualidade do software. Esta norma define qualidade como "o total das funcionalidades e características de um produto ou serviço que devam satisfazer a determinadas necessidades"\apud{9126}{Singh}.
+
+\item A ISO 9126 complementa ISO 9001, que trata da garantia do processo utilizado para o desenvolvimento de produtos de qualidade \apud{9126}{Singh}. 
+
+\item A densidade de defeitos é uma medida da qualidade externa. Outras medidas ajudam a avaliar a qualidade interna, ou seja a qualidade do processo de desenvolvimento do software pela lógica pregada pela ISO-9126, a qualidade interna, influi na qualidade externa e, por sua vez, na qualidade em uso do produto de software entregue ao seu usuário após o processo de desenvolvimento.\cite{9126} 
+
+\item O número de erros por quantidade de linhas de código representa a densidade de defeitos no produto de software após o seu desenvolvimento e, desta forma, faz parte da dimensão de avaliação da qualidade externa. \cite{9126}
+ 
+\end{itemize}
+
+\section{Tipos de Qualidade de Software segundo a ISO 9126}
+
+A \citeonline{9126}, apresenta a qualidade de um produto de software sob três pilares principais a Qualidade Externa a Qualidade Interna e a Qualidade em Uso. Essa norma apresenta um padrão conceituado para a aferição da qualidade de software apresentando vários modelos de métricas para serem usados em empresas de software que desejam atingir algum nível de qualidade de seus produtos.
+
+É objetivo desta seção detalhar estes conceitos, para que possam ser usados como insumos na escolha de métricas que será apresentada no capítulo \ref{aplicação} deste TCC.
+
+\subsection{Qualidade Externa}
+
+Antes de definir qualidade externa é preciso descrever o que são requisitos de qualidade externa. Requisitos de qualidade externa são aqueles que definem a qualidade a partir de uma visão externa. Estes requisitos estabelecem metas de avaliação dos produtos gerados pelo processo de desenvolvimento do software em vários pontos do seu ciclo de desenvolvimento de um software. Requisitos de qualidade externa derivam das necessidades de qualidade dos usuários e incluem requisitos de qualidade em uso \cite{Nbr_9126}.
+
+Assim a qualidade externa é definida como as características de um produto de software diante de uma visão externa. Sendo assim, a qualidade externa é algo que pode ser observado a partir do produto, ou seja, por exemplo os erros que ele apresenta ao seu usado, ou as características que o usuário percebe no seu uso como produto.
+
+Uma proposta da norma ISO 9126 é expressar requisitos de qualidade por meio de métricas. Durante este processo podem ser descobertos defeitos, porém espera-se que esses defeitos sejam eliminados \cite{Nbr_9126}.
+
+\subsection{Qualidade Interna}
+
+A definição de requisitos de qualidade interna considera o processo  sob o ponto de vista interno do produto, ou seja, como ele é produzido e a partir da observação dos produtos intermediários, normalmente gerados pelo processo de fabricação do produto de software, podendo incluir: modelos dinâmicos ou estáticos, especificações de requisitos, dentre outros documentos característicos do seu processo produtivo. Estes requisitos podem ser usados como metas para a validação de um software durante seu ciclo de vida de desenvolvimento. Da mesma forma que na qualidade externa, uma outra proposta da norma ISO 9126 é expressar requisitos de qualidade interna por meio de métricas que, por sua vez, podem ser usadas como insumos para verificação durante o processo de desenvolvimento. Desta forma, os requisitos de qualidade interna devem ser mensurados quantitativamente usando métricas internas \cite{Nbr_9126}. A qualidade interna é o total de características de um produto de software do ponto de vista 
+interno. É medida e avaliada de acordo com os requisitos de qualidade interna. Detalhes de qualidade interna de um produto de software podem ser aperfeiçoados durante a codificação e atividades de testes, porém sua natureza fundamental se mantem inalterada, a menos que haja mudanças no seu projeto \cite{Nbr_9126}.
+
+Segundo a norma \citeonline{9126} tanto a qualidade interna, quanto as qualidades externas podem ser subdivididas em seis características principais. Essas características são:
+
+\begin{itemize}
+ \item \textbf{Funcionalidade}: Característica que diz respeito a capacidade que o software tem de atender as necessidades explicitas e implícitas quando utilizado sob condições específicas.
+\item \textbf{Confiabilidade}: Característica que diz respeito a capacidade que o software tem de apresentar um nível de desempenho descrito quando usado sob condições específicas.
+\item \textbf{Usabilidade}: Característica que diz respeito a capacidade que o software tem de ser compreendido pelo cliente sob condições específicas.
+\item \textbf{Eficiência}: Característica que diz respeito a capacidade que o software possui de manter um nível aceitável de acordo com a quantidade de recursos usados sob condições específicas.
+\item \textbf{Manutenibilidade}:  Característica que diz respeito a capacidade que um software possui de ser modificado. Um software pode mudar para apresentar melhorias, corrigir defeitos e diante de mudanças nos seus requisitos
+\item \textbf{Portabilidade}: Característica que diz respeito a capacidade que um software tem em ser transferido de um ambiente para outro ambiente diferente.
+
+\end{itemize}
+
+
+Essas características ainda podem ser quebradas em outras subcaracterísticas e essas podem ser mensuradas por meio de métricas internas e externas \cite{Nbr_9126}, conforme mostra a figura \ref{Qualidade} abaixo.
+
+\begin{figure}[h]
+\centering
+\includegraphics[keepaspectratio=true,scale=0.4]{figuras/Qualidade.jpg}
+\caption{Divisão em características da Qualidade Interna/ Externa \cite{Nbr_9126}}
+\label{Qualidade}
+\end{figure}
+
+\subsection{Qualidade Em Uso}
+
+A qualidade em uso é estabelecida diante da percepção do usuário, quando o mesmo utiliza o produto de software em um ambiente ou um contexto de uso especificado. A qualidade em uso pode ser dividida em quatro características:
+\begin{itemize}
+
+\item \textbf{Eficácia}: Característica que diz respeito a capacidade que o software possui de atender a metas específicas sob condições específicas de uso.
+\\
+\item \textbf{Segurança}: Característica que diz respeito a capacidade que o software tem de apresentar níveis de riscos danosos as pessoas, negócios, propriedades, a outros softwares, ou a infraestrutura sob condições específicas de uso.
+\\
+\item \textbf{Satisfação}: Característica que diz respeito a capacidade que o software tem em agradar os seus clientes diante de um contexto de uso específico.
+\\ 
+\item \textbf{Produtividade}: Característica que diz respeito a capacidade que o software tem em permitir que os seus clientes empreguem o esforço adequado sob condições específicas de uso.
+\\
+\end{itemize}
+
+Essas características ainda podem ser quebradas em outras subcaracterísticas e essas podem ser mensuradas por meio de métricas de qualidade em uso \cite{Nbr_9126}, conforme mostra a figura \ref{Qualidade_Uso} a seguir.
+
+\begin{figure}[h]
+\centering
+\includegraphics[keepaspectratio=true,scale=0.5]{figuras/Qualidade_Uso.jpg}
+\caption{Divisão em características da qualidade em uso \cite{Nbr_9126}}
+\label{Qualidade_Uso}
+\end{figure}
+
+A figura \ref{Qualidade_eCiclodevida} apresenta uma visão da qualidade de software ao longo do processo de desenvolvimento de um software ilustrando que a qualidade do processo influencia a qualidade interna. A qualidade interna influencia a qualidade externa
+que por sua vez influencia a qualidade em uso. 
+
+A qualidade em uso depende da qualidade externa que depende da qualidade interna e essa mesma qualidade interna depende da qualidade do processo.
+
+
+
+\begin{figure}[h]
+\centering
+\includegraphics[keepaspectratio=true,scale=0.8]{figuras/qualidade_e_ciclo_devida.JPG}
+\caption{Qualidade e ciclo de vida \cite{Nbr_9126}}
+\label{Qualidade_eCiclodevida}
+\end{figure}
+
+
+
+
+\section{Métricas de Software}
+
+Medição é o processo no qual são atribuídos números e símbolos as características dos itens do mundo real de modo que seja possível descrever com clareza esses atributos \cite[p.~5]{Fenton}.
+
+O resultado numérico é chamado de medida e este resultado pode ser aplicado tanto ao processo de desenvolvimento de software, quanto a um produto de software \cite{sollingen}. Além disso, uma medida pode ser considerada como uma indicação quantitativa da extensão, dimensão, tamanho ou capacidade de um determinado atributo de um processo ou produto \cite[p.~81]{pressman}.
+
+A medição dos atributos das entidades que compõe o software é o processo  de definir, e continuamente coletar e analisar os dados com o objetivo de compreender ou controlar o processo de desenvolvimento de software e seus produtos, para fornecer informações relevantes para a melhoria do processo de desenvolvimento \cite{sollingen}.
+
+Para um processo de desenvolvimento de software ou um produto ser medido é necessário o uso de métricas. Em um processo de medição são usadas várias métricas ao mesmo tempo e essas mesmas métricas são repetidas várias vezes \cite{sollingen}. Durante a medição de um produto de software as métricas podem ter diversas formas de serem mapeadas. As escalas de medição definem várias maneiras em que uma métrica pode ser mapeada por meio de relações numéricas e empíricas. O uso de escalas de medição ajuda a entender o comportamento de entidades e definir valores para seus atributos \cite[pp~45-46]{Fenton}.
+
+Várias classificações de métricas de software podem ser encontrados na literatura são exemplos \cite[pp.~37-42,60,74-83]{Fenton} \cite{moller} \cite[p~.9]{park}:
+
+% \begin{table}
+ 	\begin{longtable}{|p{70pt}|p{220pt}|p{135pt}|}
+ 	\caption{Tipos de métricas de Software.} \label{tipos_metricas}\\
+ 	\hline
+ 	 {\raggedright \textbf{Classificação}}
+ 	 & {\raggedright \textbf{Finalidade}}
+ 	 & {\raggedright \textbf{Exemplo}}\\
+ 	\hline
+ 	 {\raggedright Métricas de Produto}
+ 	 & {\raggedright Medir atributos de produtos, documentos e artefatos oriundos do processo de desenvolvimento de software.}
+ 	 & {\raggedright Tamanho do produto de software.}\\
+ 	\hline
+ 	 {\raggedright Métricas de Processo}
+ 	 & {\raggedright Medir atividades do processo de desenvolvimento de software.}
+ 	 & {\raggedright Densidade de defeitos de testes.}\\
+ 	\hline
+ 	 {\raggedright Métricas de Recurso} 
+ 	 & {\raggedright Medir atributos que são usados durante a execução do processo de desenvolvimento de software.}
+& {\raggedright Tamanho da equipe.}\\
+ 	\hline
+ 	 {\raggedright Métricas Objetivas}
+ 	 & {\raggedright Pode ser quantificada por meio de expressões numéricas ou gráficos.}
+ 	 & {\raggedright Tempo de execução.} \\
+ 	\hline
+ 	{\raggedright Métricas Subjetivas}
+ 	 & {\raggedright Necessitam de avaliação pessoal.}
+ 	 & {\raggedright Nível de satisfação do cliente,  definida em classes como: baixa, média e alta.} \\
+ 	\hline
+ 	{\raggedright Métricas Diretas}
+ 	 & {\raggedright Mede interações em apenas uma única dimensão.}
+ 	 & {\raggedright Número de funcionalidades, Esforço.} \\
+ 	\hline
+ 	{\raggedright Métricas Indiretas}
+ 	 & {\raggedright Mede interações entre mais de uma  dimensão.}
+ 	 & {\raggedright Produtividade.} \\
+ 	\hline
+ 	{\raggedright Métricas de Intervalo}
+ 	 & {\raggedright Preserva a ordem dos resultados, e possui informações a respeito do tamanho dos intervalos que separam seus pontos.}
+ 	 & {\raggedright Escala de Temperatura.} \\
+ 	\hline
+ 	{\raggedright Métricas Absolutas}
+ 	 & {\raggedright Representa uma contagem quantitativa. São aceitos somente multiplicadores unitários.}
+ 	 & {\raggedright Tempo de espera.} \\
+ 	\hline
+ 	{\raggedright Métricas Racionais}
+ 	 & {\raggedright Apresenta razões entre as entidades preservando a ordem e o tamanho dos intervalos.}
+ 	 & {\raggedright Tempo de Rendimento} \\
+ 	\hline
+ 	{\raggedright Métricas Nominais}
+ 	 & {\raggedright Um rótulo é definido como valor do atributo.}
+ 	 & {\raggedright Cor dos olhos.} \\
+ 	\hline
+ 	{\raggedright Métricas Ordinais}
+ 	 & {\raggedright Um rótulo que define noção de ordem ao atributo. Podem ser usados números, mas não se pode realizar operações matemáticas com esses números.}
+ 	 & {\raggedright Alta, média, baixa.} \\
+ 	\hline
+ 	\end{longtable}
+ 
+Na Engenharia de software existem abordagens que auxiliam na definição das métricas, tanto de produtos, quanto de processos de software e recursos. Dois exemplos de métodos bem conhecidos são o GQM  - Goal Question Metrics e o PSM – Practical Software Measurement.
+
+\subsection{GQM (Goal, Question, Method)}
+\label{GQM}
+
+O método GQM (\textit{Goal, Question, Method}) é uma abordagem utilizada para a medição composta por quatro fases \cite{sollingen}.
+
+\begin{figure}[h]
+\centering
+\includegraphics[keepaspectratio=true,scale=0.3]{figuras/GQM_fases.png}
+\caption{Fases do GQM \cite{Koloski}}
+\label{Fases_GQM}
+\end{figure}
+
+\begin{enumerate}
+ \item Fase do Planejamento – Nesta fase o planejamento do projeto de definição das medições é feito, com atividades características como: escolher o(s) objetos(s) a serem mensurados, com suas características para que sejam avaliadas por meio de medições. Além disso a equipe que trabalhará no projeto de definições será formada, assim como todas as etapas do trabalho serão configuradas. 
+\item Fase de Definição -  Nesta fase a estratégia de medição é estabelecida. São definidos os objetivos, as questões, as métricas e as hipóteses e essas definições são documentadas.
+\item Fase de Coleta de Dados - Nesta fase a coleta de dados ocorre resultando em um levantamento de dados.
+\item Fase da Interpretação - Nesta fase os dados são processados de acordo com as métricas definidas para a medição dos resultados, para que as respostas das questões sejam encontradas e para que os objetivos possam ser avaliados.
+
+\end{enumerate}
+
+A figura \ref{Fases_GQM} demonstra o processo do desenvolvimento do GQM:
+ 
+Para \citeonline{Basili}, o GQM pode ser dividido em três níveis principais:
+
+\begin{figure}[h]
+\centering
+\includegraphics[keepaspectratio=true,scale=0.5]{figuras/GQM_niveis.png}
+\caption{Níveis do GQM \cite{Koloski}}
+\label{Niveis_GQM}
+\end{figure}
+
+\begin{enumerate}
+ \item Nível conceitual (Objetivo) – é um objeto que diz respeito a diversos modelos de qualidade, a partir de vários pontos de vista em um dado ambiente particular. Os objetos de medição podem ser:
+\begin{itemize}
+\item Produtos: São artefatos, resultados e outros documentos que são produzidos durante o processo de desenvolvimento do software. Exemplos: Especificações, casos de teste.
+\item Processos: Quaisquer atividades se software. Exemplos: Projetar, testar.
+\item Recursos:  Itens que produzem resultados quando usados por processos. Exemplos: Pessoal, hardware.
+\end{itemize}
+
+\item Nível operacional (Questionamento) – É um conjunto de perguntas que busca caracterizar se a avaliação/realização de um objetivo específico vai de encontro a algum modelo característico.
+\item Nível quantitativo (Métrica) – é um conjunto de dados que está associado as perguntas que são feitas no nível operacional. Pode ser objetiva, ou subjetiva:
+\begin{itemize}
+\item Objetiva: Depende apenas do objeto que está sendo medido e não de opiniões particulares. Exemplo: Tamanho de um software.
+\item Subjetiva: Não depende apenas do objeto que está sendo medido, mas depende também de um conjunto de opiniões particulares. Exemplo: satisfação do usuário.
+\end{itemize}
+
+\end{enumerate}
+
+A estrutura do GQM é mostrada na figura \ref{Estrutura_GQM} a seguir:
+
+\begin{figure}[h]
+\centering
+\includegraphics[keepaspectratio=true,scale=0.4]{figuras/GQM_Estrutura.jpg}
+\caption{Estrutura do GQM \cite{Basili}}
+\label{Estrutura_GQM}
+\end{figure}
+
+Com esta estrutura podemos dizer que a definição das medições se dá a partir de uma abordagem topdown, a partir dos objetivos de medição, questões e suas métricas correspondente, enquanto a avaliação ou análise dos resultados se dá por uma abordagem bottom up, a partir dos resultados das medições que respondem as questões postuladas e, por sua vez, corroboram os objetivos de medição identificados.
+
+\subsection{PSM}
+
+O PSM – \textit{Pratical Software Measurement} é um modelo que estrutura informações com a finalidade de definir medidas que possam ser usadas em um projeto de software \apud{mcgarry}{santos}. Patrocinado pelo Departamento de Defesa e pelo exército norte-americano, tem como objetivo prover um conjunto de práticas, ferramentas e serviços para ajudar os gerentes de projetos a obter informações precisas sobre projetos que estão em andamento, para que estes atinjam suas metas de tempo, custo e qualidade \apud{borges}{deMelo}.	
+
+O PSM foi projetado em cima de três conceitos chaves. São eles \cite{card_jones}:
+
+\begin{itemize}
+ \item Necessidade de Informação.
+\item Modelo de Informação.
+\item Modelo de Processo de Medição.
+\end{itemize}
+
+As Necessidades de Informação são um conjunto de objetivos que servem como insumo para que os gerentes possam monitorar um determinado projeto ou processo de software. As necessidades de informação podem ser obtidas de duas formas \cite{card_jones}):
+\begin{enumerate}
+ \item Objetivos que o gestor deseja alcançar;
+\item Obstáculos que impedem que esses objetivos sejam concretizados. Obstáculos ou questões incluem riscos, problemas e falta de informação em relação a um determinado objetivo.
+
+\end{enumerate}
+
+
+O PSM organiza-se em sete necessidades de informação \cite{card_jones}, conforme a tabela a seguir:
+
+% \textcolor{red}{Vou explicar em pelo menos uma frase o que é cada necessidade de informação e exemplificar com pelo menos uma métrica.}
+
+\begin{longtable}{|p{100pt}|p{220pt}|p{105pt}|}
+ 	\caption{Detalhamento das necessidades da informação do PSM.\cite{bailey}} \label{tipos_metricas}\\
+ 	\hline
+ 	 {\raggedright \textbf{Necessidade da informação}}
+ 	 & {\raggedright \textbf{Descrição}}
+ 	 & {\raggedright \textbf{Exemplo de Medida}}\\
+ 	\hline
+ 	 {\raggedright Cronograma e Progresso}
+ 	 & {\raggedright Relacionados ao  cumprimento de marcos de projeto e à conclusão de unidades de trabalho nos prazos previstos. }
+ 	 & {\raggedright Datas dos Marcos, Tempo de Folga, Unidades Codificadas.}\\
+ 	\hline
+ 	 {\raggedright Recursos e Custo}
+ 	 & {\raggedright Relacionados à adequação entre o trabalho a ser executado e os recursos alocados ao projeto.}
+ 	 & {\raggedright Orçamento, custo, Pessoal Alocado, Tempo disponível.}\\
+ 	\hline
+ 	 {\raggedright Tamanho e Estabilidade do Produto} 
+ 	 & {\raggedright Categoriza informações relacionadas à estabilidade das funcionalidades ou à capacidade requerida do software, como também ao volume necessário de software para atender a essa capacidade.}
+	  & {\raggedright Linhas de Código, Pontos de Função.}\\
+ 	\hline
+ 	 {\raggedright Qualidade do Produto}
+ 	 & {\raggedright Relacionada à capacidade do software produzido de atender sem falhas às necessidades do usuário.}
+ 	 & {\raggedright Defeitos, Complexidade Ciclomática, Tempo de Resposta, Conformidade com Padrões, Erros de Operação, Tempo Médio até a Falha.} \\
+ 	\hline
+ 	{\raggedright Performance do Processo}
+ 	 & {\raggedright Relacionada à capacidade do processo de atender às necessidades apresentadas por cada projeto.}
+ 	 & {\raggedright Produtividade, Defeitos Contidos} \\
+ 	\hline
+ 	{\raggedright Eficácia da Tecnologia}
+ 	 & {\raggedright Trata da viabilidade e adequação das alternativas técnicas propostas, incluindo reuso, maturidade e qualidade dos componentes.}
+ 	 & {\raggedright Cobertura dos Requisitos.} \\
+ 	\hline
+ 	{\raggedright Satisfação do Cliente}
+ 	 & {\raggedright Relaciona-se ao grau em que os produtos e serviços ofertados atendem às expectativas dos clientes.}
+ 	 & {\raggedright Grau de Satisfação, Tempo de Suporte.} \\
+ 	\hline
+ 	\end{longtable}
+
+ Cada necessidade de informação pode ser decomposta em um conceito mensurável. Um conceito mensurável é uma entidade de uma determinada necessidade de informação \cite{card_jones}.  Na tabela a seguir é mostrado a necessidade de informação e seus respectivos conceitos mensuráveis:
+
+ \begin{longtable}{|p{220pt}|p{205pt}|}
+ 	\caption{Conceitos Mensuráveis do PSM.} \label{tipos_metricas}\\
+ 	\hline
+ 	 {\raggedright \textbf{Necessidade da informação}}
+ 	 & {\raggedright \textbf{Conceito Mensurável}}\\
+ 	
+ 	\hline
+ 	 {\raggedright Cronograma e Progresso}
+ 	 & {\raggedright 
+ 	                  Alcance dos Marcos.
+ 	                  
+ 	                  Progresso das Unidades de Trabalho.
+ 	                  
+ 	                  Capacidade Incremental.
+ 	                 
+	   }\\
+ 	
+ 	\hline
+ 	 {\raggedright Recursos e Custo}
+ 	 & {\raggedright 
+ 	                 Esforço do Pessoal.
+ 	                 
+ 	                 Desempenho Financeiro.
+ 	                 
+ 	              Ambiente e Recursos de suporte.
+ 	                
+ 	               } \\
+ 	
+ 	\hline
+ 	 {\raggedright Tamanho e Estabilidade do Produto} 
+ 	 & {\raggedright  
+ 	 
+	
+			 Tamanho e Estabilidade Físicos.
+			 
+ 	                 Tamanho e Estabilidade Funcionais.
+		
+			
+ 	                 } \\
+
+ 	\hline
+ 	 {\raggedright Qualidade do Produto}
+ 	 & {\raggedright
+ 	                  Correção Funcional.
+ 	                  
+ 	                 Suportabilidade - Manutenibilidade.
+ 	                 
+ 	                Eficiência.
+ 	                
+ 	                Portabilidade.
+ 	                
+ 	                  Usabilidade.
+ 	                  
+ 	                  Dependabilidade - Confiabilidade.
+ 	                  
+ 	             
+ 	                 
+ 	          } \\
+
+
+ 	\hline
+ 	{\raggedright Performance do Processo}
+ 	 & {\raggedright 
+ 	                  Conformidade do Processo.
+ 	                  
+ 	                 Eficiência do Processo.
+ 	                 
+ 	              Eficácia do Processo.
+ 	                
+ 	                
+}\\
+ 	
+ 	\hline
+ 	{\raggedright Eficácia da Tecnologia}
+ 	 & {\raggedright 
+ 	                  Adequação da Tecnologia.
+ 	                  
+ 	                  Volatilidade da Tecnologia.
+ 	              
+ }\\
+ 
+ 	\hline
+ 	{\raggedright Satisfação do Cliente}
+ 	 & {\raggedright 
+ 	                  Feedback do Cliente.
+ 	                  
+ 	                 Suporte ao Cliente.
+ 	                
+}\\
+ 	
+ 	\hline
+ 	\end{longtable}
+ 
+Para \citeonline{card} o PSM é uma estrutura que define relações entre necessidades e informações.
+
+Desta forma um indicador é constituído por medidas que podem ser uma ou várias medidas básicas que por sua vez servem para construir medidas derivadas.Indicadores, medidas derivadas, medidas base e entidades são usados para construir medições como mostra a figura \ref{PSM} \cite{mcgarry}, \cite{borges}: 
+
+\begin{figure}[h]
+\centering
+\includegraphics[keepaspectratio=true,scale=0.35]{figuras/PSM.jpg}
+\caption{Construtor de Métricas \cite{mcgarry},\cite{borges} }
+\label{PSM}
+\end{figure}
+
+O modelo de informação define uma relação entre as necessidades de informação mapeadas pelo gestor e os dados dos objetivos que serão coletados (medidas). O modelo de informação também fornece ideias básicas para a medição. Este modelo é definido em três níveis:
+
+\begin{enumerate}
+\item Medidas básicas
+\item Medidas derivadas
+\item Indicadores
+\end{enumerate}
+
+A organização do modelo de informação do PSM é mostrada na imagem \ref{Modelo_PSM}:
+
+\begin{figure}[h]
+\centering
+\includegraphics[keepaspectratio=true,scale=0.6]{figuras/Modelo_Psm.jpg}
+\caption{Modelo de Informação do PSM (\cite{card_jones}) }
+\label{Modelo_PSM}
+\end{figure}
+
+Da perspectiva do Modelo de Processo de Medição o PSM define quatro atividades básicas. São elas \cite{card}):
+
+\begin{itemize}
+\item Planejar Medição: Essa atividade consiste em compreender as necessidades da informação do projeto e a definição de métricas que sejam adequadas para atender essas necessidades.
+\item Executar Medição: Essa atividade consiste na execução do modelo de informação definido na fase anterior, para que se possa chegar aos resultados esperados e que assim possa servir de insumo para que a melhor decisão possa ser tomada pela equipe de Software.
+\item Avaliar Medição: Essa atividade tem como objetivo investigar se o processo está dentro do aceitável. Para que isso seja possível é avaliar o processo de medição e avaliar informações do produto.
+\item Consolidar Medição:  Essa atividade tem como objetivo obter o comprometimento da empresa em relação as medições definidas.
+
+\end{itemize}
+
+Desta forma o PSM é um guia bastante recomendado para empresas que desejam implantar a qualidade de software e ao mesmo tempo manter a gerência dos seus produtos.
+

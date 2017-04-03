@@ -1,0 +1,55 @@
+\select@language {brazil}
+\contentsline {table}{\numberline {1}{\ignorespaces Mapeamento de CMSs em Software Livre e Software Propriet\IeC {\'a}rio}}{36}{table.3.1}
+\contentsline {table}{\numberline {2}{\ignorespaces Popularidade dos CMSs Mapeados \relax }}{38}{table.caption.10}
+\contentsline {table}{\numberline {3}{\ignorespaces Vantagens e Desvantagens dos CMSs, segundo \cite {costa}, \cite {Reis}}}{42}{table.3.3}
+\contentsline {table}{\numberline {4}{\ignorespaces Caracter\IeC {\'\i }sticas avaliadas pelo experimento de \citeonline {patel}}}{43}{table.3.4}
+\contentsline {table}{\numberline {5}{\ignorespaces Ranking gerado a partir do experimento de \citeonline {patel}.\relax }}{44}{table.caption.17}
+\contentsline {table}{\numberline {6}{\ignorespaces SQuaRE X ISO 9126 \cite {iso_25010}}}{53}{table.4.6}
+\contentsline {table}{\numberline {7}{\ignorespaces Tipos de m\IeC {\'e}tricas de Software.}}{56}{table.5.7}
+\contentsline {table}{\numberline {8}{\ignorespaces Tipos de escalas de m\IeC {\'e}tricas de Software Fonte: \cite [p. 9]{park}; \cite [pp. ~45-53]{Fenton}}}{57}{table.5.8}
+\contentsline {table}{\numberline {9}{\ignorespaces Detalhamento das necessidades da informa\IeC {\c c}\IeC {\~a}o do PSM.\cite {bailey}}}{61}{table.5.9}
+\contentsline {table}{\numberline {10}{\ignorespaces Conceitos Mensur\IeC {\'a}veis do PSM.}}{62}{table.5.10}
+\contentsline {table}{\numberline {11}{\ignorespaces Cruzamento de Caracter\IeC {\'\i }sticas aprovadas pelos especialistas com caracter\IeC {\'\i }sticas SquaRE - Qualidade do Produto.}}{83}{table.6.11}
+\contentsline {table}{\numberline {12}{\ignorespaces Cruzamento de Caracter\IeC {\'\i }sticas aprovadas pelos especialistas com caracter\IeC {\'\i }sticas SquaRE - Qualidade em uso.}}{85}{table.6.12}
+\contentsline {table}{\numberline {13}{\ignorespaces Tomada de decis\IeC {\~a}o}}{87}{table.6.13}
+\contentsline {table}{\numberline {14}{\ignorespaces Objetivo de Medi\IeC {\c c}\IeC {\~a}o \cite {sollingen}.}}{87}{table.6.14}
+\contentsline {table}{\numberline {15}{\ignorespaces Objetivo de Medi\IeC {\c c}\IeC {\~a}o \cite {sollingen}.}}{88}{table.6.15}
+\contentsline {table}{\numberline {16}{\ignorespaces Resultados para os indicadores estabelecidos\relax }}{92}{table.caption.47}
+\contentsline {table}{\numberline {17}{\ignorespaces Cargas fatoriais para um fator}}{93}{table.6.17}
+\contentsline {table}{\numberline {18}{\ignorespaces M\IeC {\'e}dia e Desvio Padr\IeC {\~a}o para quest\IeC {\~o}es com carga fatorial insuficiente.\relax }}{94}{table.caption.49}
+\contentsline {table}{\numberline {19}{\ignorespaces Outras medidas para as m\IeC {\'e}tricas mais relevantes\relax }}{99}{table.caption.64}
+\contentsline {table}{\numberline {20}{\ignorespaces Outras medidas para as m\IeC {\'e}tricas mais relevantes\relax }}{99}{table.caption.65}
+\contentsline {table}{\numberline {21}{\ignorespaces Contexto para artigos levantados.}}{119}{table.B.21}
+\contentsline {table}{\numberline {22}{\ignorespaces Contexto para artigos levantados CMSs n\IeC {\~a}o populares.}}{123}{table.B.22}
+\contentsline {table}{\numberline {23}{\ignorespaces Caracter\IeC {\'\i }sticas de CMSs levantadas para CMSs populares.}}{125}{table.B.23}
+\contentsline {table}{\numberline {24}{\ignorespaces Caracter\IeC {\'\i }sticas de CMSs levantadas para CMSs n\IeC {\~a}o populares.}}{130}{table.B.24}
+\contentsline {table}{\numberline {25}{\ignorespaces Cruzamento de caracter\IeC {\'\i }sticas de CMS com caracter\IeC {\'\i }sticas SQuaRE - Qualidade do Produto.}}{132}{table.B.25}
+\contentsline {table}{\numberline {26}{\ignorespaces Cruzamento de caracter\IeC {\'\i }sticas de CMS com caracter\IeC {\'\i }sticas SQuaRE - Qualidade em Uso}}{135}{table.B.26}
+\contentsline {table}{\numberline {27}{\ignorespaces M1 - Cobertura Funcional - Adaptado de \citeonline {iso_25023}}}{148}{table.D.27}
+\contentsline {table}{\numberline {28}{\ignorespaces M2 - Percentual de mensagens claras - Adaptado de \citeonline {iso_25023}}}{148}{table.D.28}
+\contentsline {table}{\numberline {29}{\ignorespaces M3 - Documenta\IeC {\c c}\IeC {\~a}o Plena - Adaptado de \citeonline {iso_25023}}}{149}{table.D.29}
+\contentsline {table}{\numberline {30}{\ignorespaces M4 - Percentual de elementos personaliz\IeC {\'a}veis - Adaptado de \citeonline {iso_25023}}}{150}{table.D.30}
+\contentsline {table}{\numberline {31}{\ignorespaces M5 - Controle de acesso - Adaptado de \citeonline {iso_25023}}}{150}{table.D.31}
+\contentsline {table}{\numberline {32}{\ignorespaces M6 - Preven\IeC {\c c}\IeC {\~a}o a dados corrompidos - Adaptado de \citeonline {iso_25023}}}{151}{table.D.32}
+\contentsline {table}{\numberline {33}{\ignorespaces M7 - Mudan\IeC {\c c}a de configura\IeC {\c c}\IeC {\~a}o - Adaptado de \cite {9126-2}}}{151}{table.D.33}
+\contentsline {table}{\numberline {34}{\ignorespaces M8 - Complexidade de modifica\IeC {\c c}\IeC {\~a}o - Adaptado de \citeonline {iso_25023}}}{152}{table.D.34}
+\contentsline {table}{\numberline {35}{\ignorespaces M9 - Condensabilidade - Adaptado de \citeonline {iso_25023}}}{153}{table.D.35}
+\contentsline {table}{\numberline {36}{\ignorespaces M10 - Percentual de m\IeC {\'o}dulos reus\IeC {\'a}veis - Adaptado de \citeonline {iso_25023}}}{153}{table.D.36}
+\contentsline {table}{\numberline {37}{\ignorespaces M11 - Completude de testes de sistema - Adaptado de \citeonline {iso_25023}}}{154}{table.D.37}
+\contentsline {table}{\numberline {38}{\ignorespaces M12 - Vaz\IeC {\~a}o - Adaptado de \citeonline {iso_25023}}}{154}{table.D.38}
+\contentsline {table}{\numberline {39}{\ignorespaces M13 - Utiliza\IeC {\c c}\IeC {\~a}o de mem\IeC {\'o}ria - Adaptado de \citeonline {iso_25023}}}{155}{table.D.39}
+\contentsline {table}{\numberline {40}{\ignorespaces M14 - Remo\IeC {\c c}\IeC {\~a}o de Falhas - Adaptado de \citeonline {iso_25023}}}{155}{table.D.40}
+\contentsline {table}{\numberline {41}{\ignorespaces M15 - Tempo de Servi\IeC {\c c}o - Adaptado de \citeonline {iso_25023}}}{156}{table.D.41}
+\contentsline {table}{\numberline {42}{\ignorespaces M16 - Percentual de m\IeC {\'o}dulos redundantes instalados - Adaptado de \citeonline {iso_25023}}}{156}{table.D.42}
+\contentsline {table}{\numberline {43}{\ignorespaces M17 - Recupera\IeC {\c c}\IeC {\~a}o ap\IeC {\'o}s falha - Adaptado de \citeonline {iso_25023}}}{157}{table.D.43}
+\contentsline {table}{\numberline {44}{\ignorespaces M18 - Percentual de tarefas completas - Adaptado de \citeonline {iso_25022}}}{157}{table.D.44}
+\contentsline {table}{\numberline {45}{\ignorespaces M19 - Caracter\IeC {\'\i }sticas flex\IeC {\'\i }veis - Adaptado de \citeonline {iso_25022}}}{158}{table.D.45}
+\contentsline {table}{\numberline {46}{\ignorespaces Question\IeC {\'a}rio checklist para a execu\IeC {\c c}\IeC {\~a}o da m\IeC {\'e}trica de Completude Funcional.}}{159}{table.E.46}
+\contentsline {table}{\numberline {47}{\ignorespaces Par\IeC {\^a}metros de corretude gramatical\relax }}{160}{table.caption.74}
+\contentsline {table}{\numberline {48}{\ignorespaces Textos curtos\relax }}{161}{table.caption.75}
+\contentsline {table}{\numberline {49}{\ignorespaces Terminologia\relax }}{161}{table.caption.76}
+\contentsline {table}{\numberline {50}{\ignorespaces Cargas fatoriais para seis fatores}}{162}{table.F.50}
+\contentsline {table}{\numberline {51}{\ignorespaces Cargas fatoriais para cinco fatores}}{163}{table.F.51}
+\contentsline {table}{\numberline {52}{\ignorespaces Cargas fatoriais para quatro fatores}}{163}{table.F.52}
+\contentsline {table}{\numberline {53}{\ignorespaces Cargas fatoriais para tr\IeC {\^e}s fatores}}{164}{table.F.53}
+\contentsline {table}{\numberline {54}{\ignorespaces Cargas fatoriais para dois fatores}}{165}{table.F.54}

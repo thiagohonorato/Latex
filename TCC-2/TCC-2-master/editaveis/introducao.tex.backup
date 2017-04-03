@@ -1,0 +1,171 @@
+\chapter[Introdução]{Introdução}
+% \addcontentsline{toc}{chapter}{Introdução}
+
+Desde os primórdios da década de 50/60 a capacidade de armazenar, processar dados e informações de forma eletrônica evoluiu bastante. Se por um lado, inicialmente o armazenamento e processamento de dados era restrito a um público técnico altamente especializado, atualmente existe uma série de ferramentas de apoio ao desenvolvimento de sites na Internet que servem aos mais variados propósitos, desde a simples divulgação de informações pessoais estáticas, perpassando as redes sociais com seus vários mecanismos de troca de informações, até chegar ao comércio eletrônico, onde milhares de unidades financeiras são comercializadas nas mais diversas áreas da atividade humana.
+
+Neste sentido, este capítulo procura motivar e justificar o estudo deste trabalho de conclusão de curso contemplando o contexto onde se inserem os CMSs.
+
+\section{Motivação e justificativa}
+\label{Contex}
+Nesta seção são apresentadas definições básicas de plataformas de grande porte, sistema cliente-servidor e desenvolvimento web com o intuito de motivar e justificar a escolha do tema a ser apresentado na seção \ref{CMS}.
+
+%\begin{quotation}
+%“Quanto ao significado de transporte coletivo urbano, embora não tenhamos encontrado uma definição legal específica para o termo, sua definição operacional abrange o transporte público não individual, realizado em áreas urbanas, com características de deslocamento diário dos cidadãos.” \cite{brasil2006}.
+%\end{quotation}
+
+\subsection{Plataformas de Grande Porte}
+\label{Contex}
+Um exemplo famoso de desenvolvimento em grande porte é o uso de Mainframes, famosos por sua confiabilidade, estabilidade, segurança, disponibilidade e grande capacidade de processamento de dados. Os componentes de hardware de um mainframe têm capacidade de autocontrole e auto recuperação vastas. A confiabilidade do software do sistema é resultado de imensos testes e da capacidade de fazer atualizações rápidas para os problemas detectados \cite{shu_2013}.
+	
+Além do uso de mainframes é importante destacar também os sistemas monolíticos, que para \citeonline [p.~58]{Tanenbaum} é uma “grande bagunça”, pois consiste apenas em um conjunto de rotinas, onde cada rotina pode chamar qualquer uma das outras conforme a necessidade. Apesar da enorme capacidade de processamento, sistemas monolíticos são bastantes sensíveis a erros, pois devido ao fato das rotinas poderem interagir com outras rotinas de forma muito fácil, quando há um erro, este erro se alastra rapidamente por todo sistema e assim pode causar a interrupção desse sistema.
+	
+Uma vantagem dos sistemas monolíticos, é que atualização ocorre de forma simples, pois basta atualizar a máquina- central e, como os terminais são sem capacidade de processamento local toda a rede estará atualizada.
+\subsection{Desenvolvimento Cliente Servidor}
+\label{Contex}
+De acordo com \citeonline[p.~58]{Tanenbaum}, os sistemas monolíticos eram desprovidos de grandes formalismos em suas estruturas, podendo pedaços de código(funções) chamar outros pedaços(funções) sem grandes restrições.
+
+Com uma das motivações de reduzir a enorme quantidade de funções executadas pelo sistema operacional foi proposto o sistema cliente servidor, que para \citeonline[p.~64]{Tanenbaum}, implementa a maior parte dos procedimentos do sistema operacional na forma de processos de usuário. \citeonline[p.~64]{Tanenbaum}, ainda acrescenta que no momento de solicitar um serviço, como executar uma determinada instrução de leitura, o processo de usuário (agora chamado de processo cliente) envia uma requisição para um processo servidor que então executa a tarefa e fornece uma resposta.
+
+Para \citeonline{Duchessi_98} o sistema Cliente Servidor apresenta inúmeros benefícios. Alguns desses benefícios são:
+
+\begin{itemize}
+ \item Melhoria da acessibilidade do sistema.
+ \item Redução de custos.
+ \item Aumento da produtividade organizacional.
+ \item Aumento na confiabilidade do Sistema.
+\end{itemize}
+
+
+Apesar de evitar a interrupção do sistema diante de um erro em alguma rotina, O sistema cliente servidor apresenta alguns problemas. Um desses problemas é o fato de que como existe processamento por parte do cliente, cada vez que se atualiza um sistema, todos os clientes devem ser atualizados, mesmo que isso seja feito de forma automática, o que foi uma das motivações para o surgimento dos sistemas web.
+
+\subsection{Desenvolvimento Web}
+\label{Contex}
+
+De acordo com \citeonline{junior_2003}, a tecnologia Web funciona de forma relativamente simples, pois a Web é um conjunto de arquivos digitais que ficam armazenados em servidores ligados a Internet e que podem ser recuperados a partir de qualquer computador que tenha conexão com a Internet. Estes arquivos digitais são as chamadas páginas web que compõe a grande rede de informações que é a World Wide Web.
+
+Os mesmos autores ainda afirmam que com o passar do tempo a Web foi adquirindo novos recursos e novas funções e houve um grande progresso quando os usuários web passaram a não só solicitar páginas com conteúdo estático mas também, retornar resultados com conteúdo dinâmico.
+
+\citeonline{Meusel_2008} dizem que uma dimensão importante para páginas web é manter um modelo consistente ao longo de todas as páginas. Aplicações web comuns consistem em elementos como um cabeçalho, um menu e um conteúdo da página agrupados em um esqueleto de página. Possuir uma separação estrutural em pedaços de HTML comuns e de código, permite que tais pedaços possam ser compartilhados entre todas as páginas, o que trás um reuso para uma aplicação web de forma significativa.
+
+Os sistemas web apresentam várias vantagens em relação aos demais sistemas \apud{Conallen}{perizo_2005}, diz que uma dessas vantagens é a manutenção, desenvolvimento e atualização centrada na aplicação. Isto é, diferente do sistema cliente servidor em que todos os clientes têm que ser atualizados quando o servidor é atualizado, nos sistemas web basta o servidor ser atualizado para que os clientes obtenham acesso as atualizações, reduzindo assim o custo de implementação das operações. Porém os sistemas web apresentam desvantagens. Uma desvantagem é que não há padronização para os navegadores de internet, o que acarreta em problemas de incompatibilidade dependendo de qual navegador está sendo usado e de qual versão é tal navegador\apud[p.~144]{Conallen}{perizo_2005}.
+
+
+\section{Tema}
+\label{Tema}
+\citeonline{coelho2011}, diz que qualquer conteúdo para ser divulgado e compartilhado na web, requer atenção especial das linguagens de programação a serem utilizadas. Na maioria das vezes o nível de complexidade para a construção de páginas web é alto e inacessível para leigos. Com esta motivação em 1990 surgiram, os sistemas de gestão de conteúdo (CMS - \textit{Content Management System}) que, para \citeonline{Barcia}, são plataformas que fazem a união entre diversos mecanismos que permitem criar e publicar conteúdo em tempo real, onde usuários não precisam dominar uma programação específica para a construção de páginas na web, e além disso, possuem contato com páginas intuitivas e dinâmicas.
+
+\citeonline{barrere}, declara que sistemas CMS oferecem uma infinidade de diversos outros recursos. Alguns exemplos desses recursos são a fácil publicação e navegação através do conteúdo divulgado e a classificação de conteúdos em categorias. E além disso, pode facilmente agregar funcionalidades como blogs, ou fóruns de discussão.
+
+A partir disso o tema deste trabalho é estudar sistemas CMSs no contexto de desenvolvimento web visando a análise de desempenho desses CMSs.
+
+\chapter[Definições]{Definições de Estudo}
+
+Neste capítulo são definidos o problema a ser trabalhado, os objetivos gerais e específicos, a classificação da pesquisa, e o planejamento de como o trabalho será executado.
+
+\section{Problema Abordado Dentro do Tema}
+\label{probl}
+
+Para \citeonline{DePadua_2003}, o valor de um produto vem de suas características, que se tratando de software podem ser funcionais ou não funcionais. Características funcionais, representam os comportamentos que o sistema deve apresentar diante das ações de seus usuários. Características não funcionais, definem determinados aspectos do comportamento que um sistema deve ter ao executar suas características funcionais. \citeonline{DePadua_2003}, acrescenta que os requisitos funcionais explicam as funcionalidades que o produto deverá realizar em benefício daqueles que usam o sistema, enquanto que a especificação dos requisitos não funcionais completa os requisitos funcionais, descrevendo as restrições e outras características que o sistema deve possuir para que seja atingida a qualidade desejada.
+
+Dentre as várias classificações para requisitos não funcionais propostas por autores conhecidos na literatura, \citeonline{DePadua_2003} destaca um tipo relevante de requisito não funcional como sendo os requisitos de desempenho. Ele diz que, os requisitos de desempenho são requisitos numéricos, estáticos e dinâmicos, a que o produto ou o sistema maior devam obedecer e ainda acrescenta que todos os requisitos de desempenho devem ser especificados de forma quantitativa e mensurável.
+
+Uma forma de enunciar objetivamente grandezas é a partir de medições. Neste sentido, a norma ISO 9126 expressa características não funcionais por meio de medições \citeonline{9126}. 
+No contexto de desenvolvimento de software no Brasil o uso da \cite{Nbr_9126} apesar de pouco expressivo é o maior dentre todas as normas utilizadas por empresas de software que desejam alcançar a qualidade de seus produtos \cite{Marinho}. Os autores afirmam que 5,7 \% de 343 organizações pesquisadas utilizam a \citeonline{Nbr_9126} como padrão para se alcançar a qualidade de software.
+
+Assim sistemas web quando são construídos, também possuem características funcionais e não funcionais que descrevem um conjunto de requisitos que são definidos por um usuário.
+
+Uma forma de construir sistemas web é com o uso de Sistemas Gerenciadores de Conteúdo ou \textit{Content Management System} (CMS), que permitem ao usuário construir sites para a internet com auxílio de vários modelos pré concebidos de páginas web e diversos componentes pré construídos. Seu uso concede ao usuário que deseja desenvolver páginas para internet flexibilidade,pois é possível que esse usuário separe o conteúdo da página do seu design, dentre outras vantagens.
+Como alguns exemplos disponíveis na indústria de software podem ser citados:
+
+\begin{itemize}
+\item Wordpress.
+\item Drupal.
+\item Joomla.
+\end{itemize}
+
+O capítulo \ref{CMS} aprofunda o estudo sobre os CMSs disponíveis, assim como apresenta critérios de seleção para os produtos que serão usados neste estudo. 
+
+\subsection{Declaração do Problema}
+\label{Declaração do Problema}
+Quais seriam as características de desempenho que poderiam ser usadas objetivamente para a escolha de um determinado CMS para o desenvolvimento do software almejado em uma plataforma web.
+
+\section{Objetivos}
+\label{objEspp1}
+Esta seção apresenta os objetivos geral e específicos do trabalho a ser desenvolvido.
+
+\subsection{Objetivo Geral}
+\label{Objetivo Geral}
+Estudar CMS de forma a identificar  características de desempenho que possam ser usadas  na definição de critérios de escolha de um determinado CMS
+a serem usados no desenvolvimento de um sistema padrão WEB.
+
+\subsection{Objetivos Específicos}
+
+\label{objEspp2}
+Para o TCC1 pretende-se cumprir com os seguintes objetivos específicos.
+\begin{enumerate}
+
+\item Estudar produtos do tipo CMSs, afim de entender o que são tais sistemas suas características, vantagens e desvantagens no uso para o desenvolvimento web.
+
+\item Identificar critérios para seleção de produtos do tipo CMS para que possam ser estudados com relação aos seus requisitos não funcionais de desempenho.
+
+%\textcolor{red}{Professor quebrei o primeiro objetivo em dois, pois achei que tinha ficado muito confuso, nao se se desta forma esrá apropriado}
+
+\item Estudar o significado de qualidade de software de forma a entender os conceitos de quaalidade interna, externa e em uso, assim como as influências entre elas.
+
+\item Estudar métricas de software como formas objetivas de avaliar as características de qualidade estudadas nos CMS. Além de metodologias para definição de medições.	
+
+\item Definir um conjunto de métricas para avaliar as características de desempenho dos CMS escolhidos para serem estudados.	
+
+\end{enumerate}
+
+Para o TCC 2 dando continuidade ao trabalho pretende-se:
+\begin{enumerate}
+\item Submeter as características e métricas encontradas à avaliação de especialistas, afim de avaliar se elas são realmente relevantes e se as medições são factíveis para contituirem um framework útil para ser utilizado
+na escolha de um CMS considerando suas condições requeridas de desempenho. 
+\item Estabelecer um conjunto de características e métricas associadas que comporão o framework pretendido.
+\item Revisar as métricas estabelecidas conforme os resultados obtidos pela avaliação de especialistas afim de estabelecer o framework a ser utilizado nos estudos de caso.
+\item Escolher estudos de caso para aplicação do framework.	
+\item Aplicar o Framework aos estudos de caso escolhidos.	
+\item Coletar resultados da aplicação do Framework.	
+\item Elaborar conclusões e recomendações que justifiquem o CMS escolhido.
+\end{enumerate}
+
+\section{Metodologia de Pesquisa}
+\label{Metodologia}
+
+Segundo \citeonline{moresi}. A pesquisa a ser realizada para o Trabalho de Conclusão de Curso - TCC 1 possui como principais características:
+
+\textbf{Quanto à natureza}: É uma \textit{Pesquisa Aplicada}, pois aplica conceitos para que o conhecimento gerado venha a ser utilizado para a realização de práticas que possam ser dirigidas à solução de problemas específicos.
+
+\textbf{Quanto à forma de abordagem do problema}: É uma pesquisa \textit{Qualitativa}, pois não pretende usar avaliações estatísticas para obter conclusões. Para o TCC1 pretende-se justificar a escolha dos CMSs a serem usados como alvo de estudo e estabelecer um conjunto de métricas a serem aplicados no TCC2 com o objetivo principal de mensurar características de desempenho (eficiência) dessas aplicações.
+ 
+
+\textbf{Quanto aos fins}: A pesquisa será um \textit{Estudo de caso} pois, pretende-se avaliar os CMSs dentro do seu proprio contexto de uso, não permitindo assim estabelecer um contexto claro para o estudo, pois este contexto pode ser bastante variável e possuir inúmeras alternativas.O contexto por ser variável permite que a análise de dados seja flexível. Além disso, a pesquisa deve ser \textit{Bibliográfica}, pois o estudo será desenvolvido com base em livros, outras monografias, dissertações, teses, artigos, além do próprio uso da internet como apoio para a realização da pesquisa.
+Além disso, os experimentos serão realizados no contexto dos estudos de caso escolhidos.
+
+\section{Planejamento}
+\label{Cronograma e Execução}
+A imagem \ref{EAP} mostra uma EAP, estrutura analítica de projeto, do trabalho de conclusão de curso. O tempo foi dividido em bimestres, intervalos de tempo de dois meses, e os pacotes de trabalho possuem um índice S, que significa semana, seguido de um indice numérico que significa o número da semana.
+
+\begin{figure}[!htb]
+\centering
+\includegraphics[keepaspectratio=true,scale= 0.35]{figuras/eap.jpg}
+\caption{Estrutura Analítica do Projeto de TCC.}
+\label{EAP}
+\end{figure}
+
+\section{Organização da Pesquisa}
+
+O desenvolvimento da pesquisa será organizado em capítulos que se seguem da seguinte forma.
+
+\begin{itemize}
+\item No capítulo \ref{CMS} serão abordados conceitos chaves para o estudo de CMSs. Alguns destes conceitos são: As vantagens e desvantagens no uso de CMSs para o desenvolvimento web, os critérios de seleção para a escolha dos CMSs que serão objetos de estudo desta pesquisa.
+ 
+\item No capítulo \ref{Qualidade_de_Software} serão abordados conceitos básicos de qualidade de software, conceitos sobre métricas de software e métodos obtidos da literatura que são especializados na definição de medições, para o objetivo de avaliar as características que serão
+utilizadas na escolha de CMSs. Foram estudados os métodos: GQM - \textit{Goal, Question, Method} e o PSM - \textit{Pratical Software Measurement}.
+
+\item No capitulo \ref{aplicação} será feito um GQM com o objetivo de definir preliminarmente as medições necessárias para compor o conjunto de métricas para valiar CMSs conforme suas características de desempenho.
+
+\item O capítulo \ref{final} conterá as conclusões do trabalho de TCC1, assim como as considerações finais e trabalhos futuros que serão realizados no âmbito do TCC2.
+\end{itemize}
+

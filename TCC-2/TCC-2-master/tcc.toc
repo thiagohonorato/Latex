@@ -1,0 +1,142 @@
+\changetocdepth {4}
+\select@language {brazil}
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {1}\MakeTextUppercase {Introdu\IeC {\c c}\IeC {\~a}o}}{19}{chapter.1}
+\contentsline {section}{\numberline {1.1}Motiva\IeC {\c c}\IeC {\~a}o e justificativa}{19}{section.1.1}
+\contentsline {subsection}{\numberline {1.1.1}Plataformas de Grande Porte}{19}{subsection.1.1.1}
+\contentsline {subsection}{\numberline {1.1.2}Desenvolvimento Cliente Servidor}{20}{subsection.1.1.2}
+\contentsline {subsection}{\numberline {1.1.3}Desenvolvimento Web}{20}{subsection.1.1.3}
+\contentsline {section}{\numberline {1.2}Tema}{21}{section.1.2}
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {2}\MakeTextUppercase {Defini\IeC {\c c}\IeC {\~o}es}}{23}{chapter.2}
+\contentsline {section}{\numberline {2.1}Problema Abordado Dentro do Tema}{23}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Quest\IeC {\~a}o de Pesquisa}{23}{subsection.2.1.1}
+\contentsline {section}{\numberline {2.2}Objetivos}{24}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Objetivo Geral}{24}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Objetivos Espec\IeC {\'\i }ficos}{24}{subsection.2.2.2}
+\contentsline {section}{\numberline {2.3}Metodologia de Pesquisa}{24}{section.2.3}
+\contentsline {section}{\numberline {2.4}Revis\IeC {\~a}o de Literatura}{25}{section.2.4}
+\contentsline {subsection}{\numberline {2.4.1}Bases de dados consultadas}{26}{subsection.2.4.1}
+\contentsline {subsection}{\numberline {2.4.2}Express\IeC {\~o}es de Busca elaboradas}{26}{subsection.2.4.2}
+\contentsline {subsection}{\numberline {2.4.3}Crit\IeC {\'e}rios de Sele\IeC {\c c}\IeC {\~a}o}{26}{subsection.2.4.3}
+\contentsline {section}{\numberline {2.5}Coleta de Dados}{26}{section.2.5}
+\contentsline {subsection}{\numberline {2.5.1}Popula\IeC {\c c}\IeC {\~a}o, amostra e sujeitos}{26}{subsection.2.5.1}
+\contentsline {subsection}{\numberline {2.5.2}Instrumentos de Coleta de Dados}{27}{subsection.2.5.2}
+\contentsline {subsection}{\numberline {2.5.3}Procedimentos de Coletas de dados}{28}{subsection.2.5.3}
+\contentsline {section}{\numberline {2.6}Planejamento}{28}{section.2.6}
+\contentsline {section}{\numberline {2.7}Organiza\IeC {\c c}\IeC {\~a}o da Pesquisa}{30}{section.2.7}
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {3}\MakeTextUppercase {CMS}}{31}{chapter.3}
+\contentsline {section}{\numberline {3.1}Revis\IeC {\~a}o de literatura para o cap\IeC {\'\i }tulo}{31}{section.3.1}
+\contentsline {section}{\numberline {3.2}Defini\IeC {\c c}\IeC {\~o}es B\IeC {\'a}sicas}{31}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}CMSs e suas caracter\IeC {\'\i }sticas}{32}{subsection.3.2.1}
+\contentsline {subsubsection}{\numberline {3.2.1.1}Caracter\IeC {\'\i }sticas gerais (Requisitos) de CMSs }{32}{subsubsection.3.2.1.1}
+\contentsline {subsection}{\numberline {3.2.2}Vantagens no uso de CMS para o desenvolvimento web}{33}{subsection.3.2.2}
+\contentsline {subsection}{\numberline {3.2.3}Desvantagens no uso de CMS para o desenvolvimento web}{34}{subsection.3.2.3}
+\contentsline {section}{\numberline {3.3}Uso de CMS na ind\IeC {\'u}stria de Software}{34}{section.3.3}
+\contentsline {section}{\numberline {3.4}Crit\IeC {\'e}rios para a escolha de CMSs e escolha de CMSs candidatos}{35}{section.3.4}
+\contentsline {subsection}{\numberline {3.4.1}Software Livre / Software Propriet\IeC {\'a}rio}{35}{subsection.3.4.1}
+\contentsline {subsection}{\numberline {3.4.2}Popularidade}{37}{subsection.3.4.2}
+\contentsline {section}{\numberline {3.5}Vantagens e Desvantagens dos CMS mais populares}{41}{section.3.5}
+\contentsline {section}{\numberline {3.6}Comparativos j\IeC {\'a} Realizados}{43}{section.3.6}
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {4}\MakeTextUppercase {Qualidade de Software}}{46}{chapter.4}
+\contentsline {section}{\numberline {4.1}Revis\IeC {\~a}o de literatura para o cap\IeC {\'\i }tulo}{46}{section.4.1}
+\contentsline {section}{\numberline {4.2}As Normas SQuaRE}{46}{section.4.2}
+\contentsline {section}{\numberline {4.3}Organiza\IeC {\c c}\IeC {\~a}o das normas Square}{47}{section.4.3}
+\contentsline {section}{\numberline {4.4}Qualidade de Software segundo a SQuaRE}{48}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}O Modelo de Qualidade em Uso da Square}{49}{subsection.4.4.1}
+\contentsline {subsection}{\numberline {4.4.2}O Modelo de Qualidade do Produto segundo a norma Square}{49}{subsection.4.4.2}
+\contentsline {subsection}{\numberline {4.4.3}Compara\IeC {\c c}\IeC {\~a}o entre a SquaRE e a ISO / IEC 9126 }{53}{subsection.4.4.3}
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {5}\MakeTextUppercase {M\IeC {\'e}tricas de Software}}{55}{chapter.5}
+\contentsline {section}{\numberline {5.1}Revis\IeC {\~a}o de literatura para o cap\IeC {\'\i }tulo}{55}{section.5.1}
+\contentsline {section}{\numberline {5.2}Tipos de M\IeC {\'e}tricas de Software}{55}{section.5.2}
+\contentsline {section}{\numberline {5.3}GQM}{58}{section.5.3}
+\contentsline {section}{\numberline {5.4}PSM}{60}{section.5.4}
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {6}\MakeTextUppercase {Aplica\IeC {\c c}\IeC {\~a}o}}{66}{chapter.6}
+\contentsline {section}{\numberline {6.1}Identifica\IeC {\c c}\IeC {\~a}o das caracter\IeC {\'\i }sticas}{66}{section.6.1}
+\contentsline {subsection}{\numberline {6.1.1}Caracter\IeC {\'\i }sticas de CMSs para os mais populares}{66}{subsection.6.1.1}
+\contentsline {subsection}{\numberline {6.1.2}Caracter\IeC {\'\i }sticas de CMSs para os n\IeC {\~a}o populares}{67}{subsection.6.1.2}
+\contentsline {subsection}{\numberline {6.1.3}Rastreabilidade de caracter\IeC {\'\i }sticas}{67}{subsection.6.1.3}
+\contentsline {subsection}{\numberline {6.1.4}Contagem de caracter\IeC {\'\i }sticas e mapeamento com as caracter\IeC {\'\i }sticas SQuaRE}{68}{subsection.6.1.4}
+\contentsline {section}{\numberline {6.2}Aplica\IeC {\c c}\IeC {\~a}o do Primeiro Question\IeC {\'a}rio}{69}{section.6.2}
+\contentsline {subsection}{\numberline {6.2.1}Crit\IeC {\'e}rios para an\IeC {\'a}lise de resultados do primeiro question\IeC {\'a}rio}{69}{subsection.6.2.1}
+\contentsline {subsection}{\numberline {6.2.2}An\IeC {\'a}lise dos resultados das quest\IeC {\~o}es do question\IeC {\'a}rio}{70}{subsection.6.2.2}
+\contentsline {section}{\numberline {6.3}Vis\IeC {\~a}o Geral do M\IeC {\'e}todo}{78}{section.6.3}
+\contentsline {section}{\numberline {6.4}Constru\IeC {\c c}\IeC {\~a}o do M\IeC {\'e}todo - Parte I}{80}{section.6.4}
+\contentsline {subsection}{\numberline {6.4.1}Listagem de caracter\IeC {\'\i }sticas aprovadas pelos especialistas}{80}{subsection.6.4.1}
+\contentsline {subsection}{\numberline {6.4.2}Passo a passo para a escolha do CMS - Parte I}{80}{subsection.6.4.2}
+\contentsline {section}{\numberline {6.5}Constru\IeC {\c c}\IeC {\~a}o do M\IeC {\'e}todo - Parte II}{82}{section.6.5}
+\contentsline {subsection}{\numberline {6.5.1}Listagem de caracter\IeC {\'\i }sticas aprovadas pelos especialistas}{83}{subsection.6.5.1}
+\contentsline {subsection}{\numberline {6.5.2}Passo a passo para a escolha do CMS - Parte II}{85}{subsection.6.5.2}
+\contentsline {subsection}{\numberline {6.5.3}Objetivo de Medi\IeC {\c c}\IeC {\~a}o}{87}{subsection.6.5.3}
+\contentsline {subsection}{\numberline {6.5.4}Quest\IeC {\~o}es}{88}{subsection.6.5.4}
+\contentsline {subsection}{\numberline {6.5.5}M\IeC {\'e}tricas}{89}{subsection.6.5.5}
+\contentsline {section}{\numberline {6.6}An\IeC {\'a}lise de resultados para o segundo question\IeC {\'a}rio}{90}{section.6.6}
+\contentsline {subsection}{\numberline {6.6.1}Procedimentos necess\IeC {\'a}rios para a execu\IeC {\c c}\IeC {\~a}o da An\IeC {\'a}lise de Fatores}{90}{subsection.6.6.1}
+\contentsline {subsection}{\numberline {6.6.2}Resultados obtidos - Valida\IeC {\c c}\IeC {\~a}o da matriz de dados}{91}{subsection.6.6.2}
+\contentsline {subsection}{\numberline {6.6.3}Extra\IeC {\c c}\IeC {\~a}o de fatores}{92}{subsection.6.6.3}
+\contentsline {subsection}{\numberline {6.6.4}Breve estat\IeC {\'\i }stica descritiva para as M\IeC {\'e}tricas mais significantes}{95}{subsection.6.6.4}
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {7}\MakeTextUppercase {Conclus\IeC {\~o}es}}{101}{chapter.7}
+\contentsline {section}{\numberline {7.1}Sugest\IeC {\~o}es de Trabalhos Futuros}{103}{section.7.1}
+\vspace {\cftbeforechapterskip }
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\contentsline {chapter}{\uppercase {Refer\^encias}}{105}{section*.68}
+\renewcommand *{\cftappendixname }{AP\^ENDICE \space }
+\setlength {\cftpartindent }{\cftlastnumwidth } \setlength {\cftpartnumwidth }{2em}
+\cftinsert {A}
+\contentsline {part}{\uppercase {Ap\^endices}}{115}{section*.69}
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\cftinsert {A}
+\contentsline {appendix}{\chapternumberline {A}\MakeTextUppercase {Detalhamento das Express\IeC {\~o}es de Busca elaboradas }}{116}{appendix.A}
+\contentsline {section}{\numberline {A.1}Resultados para os CMS mais populares}{117}{section.A.1}
+\contentsline {section}{\numberline {A.2}Resultados para os CMS n\IeC {\~a}o populares}{117}{section.A.2}
+\contentsline {section}{\numberline {A.3}Crit\IeC {\'e}rios de Exclus\IeC {\~a}o para os artigos selecionados}{118}{section.A.3}
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\cftinsert {A}
+\contentsline {appendix}{\chapternumberline {B}\MakeTextUppercase {Levantamento de Caracter\IeC {\'\i }sticas de CMS - Tabelas}}{119}{appendix.B}
+\contentsline {section}{\numberline {B.1}Contexto de artigos Lidos}{119}{section.B.1}
+\contentsline {subsection}{\numberline {B.1.1}Contexto para artigos envolvendo CMSs mais populares}{119}{subsection.B.1.1}
+\contentsline {subsection}{\numberline {B.1.2}Contexto para artigos envolvendo CMSs n\IeC {\~a}o populares}{123}{subsection.B.1.2}
+\contentsline {section}{\numberline {B.2}Caracter\IeC {\'\i }sticas de CMSs mais populares}{125}{section.B.2}
+\contentsline {section}{\numberline {B.3}Caracter\IeC {\'\i }sticas de CMSs n\IeC {\~a}o populares}{130}{section.B.3}
+\contentsline {section}{\numberline {B.4}Cruzamento de Caracter\IeC {\'\i }sticas de CMS com caracter\IeC {\'\i }sticas SQuaRE}{132}{section.B.4}
+\contentsline {section}{\numberline {B.5}Rastreabilidade de Caracter\IeC {\'\i }sticas - Figuras}{135}{section.B.5}
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\cftinsert {A}
+\contentsline {appendix}{\chapternumberline {C}\MakeTextUppercase {Question\IeC {\'a}rios}}{139}{appendix.C}
+\contentsline {section}{\numberline {C.1}Question\IeC {\'a}rio 1 - Levantamento de Caracter\IeC {\'\i }sticas de CMSs}{139}{section.C.1}
+\contentsline {section}{\numberline {C.2}Question\IeC {\'a}rio 2 - Valida\IeC {\c c}\IeC {\~a}o do M\IeC {\'e}todo Proposto }{143}{section.C.2}
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\cftinsert {A}
+\contentsline {appendix}{\chapternumberline {D}\MakeTextUppercase {GQM - M\IeC {\'e}tricas Definidas}}{148}{appendix.D}
+\contentsline {section}{\numberline {D.1}M\IeC {\'e}tricas - Adequa\IeC {\c c}\IeC {\~a}o Funcional}{148}{section.D.1}
+\contentsline {section}{\numberline {D.2}M\IeC {\'e}tricas - Usabilidade}{148}{section.D.2}
+\contentsline {section}{\numberline {D.3}M\IeC {\'e}tricas - Seguran\IeC {\c c}a}{150}{section.D.3}
+\contentsline {section}{\numberline {D.4}M\IeC {\'e}tricas - Portabilidade}{151}{section.D.4}
+\contentsline {section}{\numberline {D.5}M\IeC {\'e}tricas - Manutenibilidade}{152}{section.D.5}
+\contentsline {section}{\numberline {D.6}M\IeC {\'e}tricas - Efici\IeC {\^e}ncia de Desempenho}{154}{section.D.6}
+\contentsline {section}{\numberline {D.7}M\IeC {\'e}tricas - Confiabilidade}{155}{section.D.7}
+\contentsline {section}{\numberline {D.8}M\IeC {\'e}tricas - Efetividade}{157}{section.D.8}
+\contentsline {section}{\numberline {D.9}M\IeC {\'e}tricas - Cobertura de Contexto}{158}{section.D.9}
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\cftinsert {A}
+\contentsline {appendix}{\chapternumberline {E}\MakeTextUppercase {Suporte para as m\IeC {\'e}tricas definidas}}{159}{appendix.E}
+\contentsline {section}{\numberline {E.1}Completude Funcional}{159}{section.E.1}
+\contentsline {section}{\numberline {E.2}Operacionalidade}{160}{section.E.2}
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\cftinsert {A}
+\contentsline {appendix}{\chapternumberline {F}\MakeTextUppercase {Cargas fatoriais}}{162}{appendix.F}

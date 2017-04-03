@@ -1,0 +1,450 @@
+\chapter[Aplicação] {Aplicação}
+\label{aplicação}
+Neste capítulo será iniciada a construção do framework. Por necessitar de uma reflexão mais profunda a respeito dos seus objetivos de medições e questões associadas optou-se pelo uso do método GQM (\textit{Goal Question Method}).
+
+\section{Objetivo de Medição}
+
+Para delimitar o objetivo de medição será usado o seguinte template definido na tabela \ref{ObjMed}:
+
+\begin{longtable}{|p{160pt}|p{265pt}|}
+ 	\caption{Objetivo de Medição \cite{sollingen}.} \label{ObjMed}\\
+ 	\hline
+ 	 {\raggedright \textbf{Analisar}}
+ 	 & {\raggedright {O CMS em estudo}}\\
+ 	
+ 	\hline
+ 	 {\raggedright \textbf{Para o propósito de}}
+ 	 & {\raggedright   Conhecer }\\
+ 	
+ 	\hline
+ 	 {\raggedright \textbf{Com respeito a}}
+ 	 & {\raggedright Desempenho (Eficiência\footnote{De acordo com a \citeonline{9126}})} \\
+ 	
+ 	\hline
+ 	 {\raggedright \textbf{Do ponto de vista}} 
+ 	 & {\raggedright Do pesquisador 	                 } \\
+
+ 	\hline
+ 	 {\raggedright \textbf{No contexto}}
+ 	 & {\raggedright De aplicação do CMS em funcionamento num determinado site.} \\
+ 	\hline
+\end{longtable}
+
+\section{Questões}
+As questões definidas de acordo com o objetivo de medição foram:
+
+\begin{enumerate}
+
+\item Quanto tempo um CMS demora para realizar a uma tarefa específica?
+\citeonline{patel} em seu trabalho define como tarefas:
+\begin{itemize}
+ \item A adição de texto ao CMS;
+ \item A adição de plugins à página, neste caso eles consideraram um plugin de relógio e um plugin de calendário.
+ \item A adição de uma imagem ao CMS.
+\end{itemize}
+
+Para o trabalho pode-se utilizar estas tarefas que \citeonline{patel} definiram em seus experimentos, assim como podem ser propostas outras tarefas além dessas.
+
+\item Quantas tarefas podem ser realizadas em um determinado CMS a cada unidade de tempo escolhida como referência ?
+%  \item Quanto de memória é utilizado para que determinado CMS possa realizar uma determinada tarefa?   
+%\textcolor{red}{Vamos repensar esta questão (Existe a possibilidade de medirmos a quantidade de memória efetivamente utilizada pelo CMS, ao invés de estimar?)}
+\item Qual o tempo de resposta do CMS quando uma determinada tarefa está sendo executada?  
+
+
+\end{enumerate}
+
+%\textcolor{red}{Poderiam ser algumas tarefas candidatas: Inserir determinado plugin. Inserir imagem. Escrever um texto. São tarefas comuns para quem usa CMS e gerencia sites.}
+
+
+\section{Métricas}
+
+A \citeonline{9126-2} apresenta algumas métricas de desempenho sob a perspectiva externa. A escolha da perspectiva externa deu-se em virtude da avaliação ter um foco de avaliação do produto já pronto e não de seu processo de desenvolvimento ou pedaços de seu processo de desenvolvimento. 
+
+\begin{longtable}{|p{160pt}|p{265pt}|}
+ 	\caption{Métrica Externa - Tempo de Espera.} \label{tipos_metricas}\\
+ 	\hline
+ 	 {\raggedright \textbf{Nome}}
+ 	 & {\raggedright {Tempo de Espera}}\\
+ 	
+ 	\hline
+ 	 {\raggedright \textbf{Propósito da Métrica}}
+ 	 & {\raggedright   Qual a proporção de tempo no qual os usuários esperam por uma resposta do sistema? }\\
+ 	
+ 	\hline
+ 	 {\raggedright \textbf{Método de Aplicação}}
+ 	 & {\raggedright Executar um número de cenários de tarefas que ocorram de forma concorrentes.
+\\
+			 Medir o tempo em que a operação demora para encerrar.
+\\
+			 Manter registro dos tempos.} \\
+ 	
+ 	\hline
+ 	 {\raggedright \textbf{Fórmula}} 
+ 	 & {\raggedright  
+ 	X = Ta/Tb
+	\\
+	Ta =Tempo total de espera.
+	\\
+	Tb = tempo para a realização da tarefa.
+	\\
+			
+ 	                 } \\
+
+ 	\hline
+ 	 {\raggedright \textbf{Interpretação}}
+ 	 & {\raggedright 0<=X
+
+			 Quanto menor melhor.} \\
+ 	\hline
+ 	{\raggedright \textbf{Escala}}
+ 	 & {\raggedright 
+ 	                  Absoluta.
+  	                }\\
+ 	
+ 	\hline
+ 	{\raggedright \textbf{Tipo de medição}}
+ 	 & {\raggedright 
+ 	                 X= tempo/tempo.
+			  
+			  Ta = tempo.
+			  
+			  Tb = tempo.
+ 	              
+ }\\
+ 
+ 	\hline
+ 	{\raggedright \textbf{Variável Independente}}
+ 	 & {\raggedright Tempo total de espera
+ 	 
+ 	 Tempo para realização da tarefa.
+ 	                  
+}\\
+ 	
+ 	\hline
+\end{longtable}
+
+\begin{longtable}{|p{160pt}|p{265pt}|}
+ 	\caption{Métrica Externa  - Tempo de Resposta.} \label{tipos_metricas}\\
+ 	\hline
+ 	 {\raggedright \textbf{Nome}}
+ 	 & {\raggedright {Tempo de Resposta}}\\
+ 	
+ 	\hline
+ 	 {\raggedright \textbf{Propósito da Métrica}}
+ 	 & {\raggedright   Qual o tempo para se completar uma determinada tarefa do sistema? }\\
+ 	
+ 	\hline
+ 	 {\raggedright \textbf{Método de Aplicação}}
+ 	 & {\raggedright Iniciar uma tarefa específica.
+
+			 Medir o tempo que leva para completar a tarefa.
+
+			 Manter registro do tempo.} \\
+ 	
+ 	\hline
+ 	 {\raggedright \textbf{Fórmula}} 
+ 	 & {\raggedright  
+ 	T= (Tempo em que a tarefa demorou para ser completada)
+	
+			
+ 	                 } \\
+
+ 	\hline
+ 	 {\raggedright \textbf{Interpretação}}
+ 	 & {\raggedright 0< T
+
+			 Quanto menor melhor.} \\
+ 	\hline
+ 	{\raggedright \textbf{Escala}}
+ 	 & {\raggedright 
+ 	                  Racional.
+  	                }\\
+ 	
+ 	\hline
+ 	{\raggedright \textbf{Tipo de medição}}
+ 	 & {\raggedright 
+ 	                 T = Tempo de resposta.
+ 	              
+ }\\
+ 
+ 	\hline
+ 	{\raggedright \textbf{Variável Independente}}
+ 	 & {\raggedright T = Tempo de resposta.
+ 	                  
+}\\
+ 	
+ 	\hline
+\end{longtable}
+
+\begin{longtable}{|p{160pt}|p{265pt}|}
+ 	\caption{Métrica Externa  - Tempo Médio de Resposta.} \label{tipos_metricas}\\
+ 	\hline
+ 	 {\raggedright \textbf{Nome}}
+ 	 & {\raggedright {Tempo Médio de Resposta}}\\
+ 	
+ 	\hline
+ 	 {\raggedright \textbf{Propósito da Métrica}}
+ 	 & {\raggedright  Qual o tempo médio de espera do usuário por uma resposta do sistema? }\\
+ 	
+ 	\hline
+ 	 {\raggedright \textbf{Método de Aplicação}}
+ 	 & {\raggedright Iniciar uma tarefa específica. Repetir várias vezes essa tarefa.
+
+			 Medir o tempo que leva para completar a tarefa.
+
+			 Manter registro dos tempos.} \\
+ 	
+ 	\hline
+ 	 {\raggedright \textbf{Fórmula}} 
+ 	 & {\raggedright  
+ 	
+ 	X = T(Médio)/TX (Médio).
+ 	
+ 	T(Médio) = $\Sigma$ Ti/N , (para i = 1 a N)
+ 	
+ 	TX (Médio) = Tempo de resposta necessário.
+ 	
+ 	Ti = Tempo de resposta para i avaliações.
+ 	
+ 	N = Número de avaliações realizadas.
+			
+ 	                 } \\
+
+ 	\hline
+ 	 {\raggedright \textbf{Interpretação}}
+ 	 & {\raggedright 0 <= X
+
+			 Quanto mais proximo de 1, mas não pode ser 1 .} \\
+ 	\hline
+ 	{\raggedright \textbf{Escala}}
+ 	 & {\raggedright 
+ 	                  Absoluto.
+  	                }\\
+ 	
+ 	\hline
+ 	{\raggedright \textbf{Tipo de medição}}
+ 	 & {\raggedright 
+	X = Tempo/Tempo.
+ 	
+ 	T(Médio) = Tempo.
+ 	
+ 	TX (Médio) = Tempo.
+ 	
+ 	Ti = Tempo.
+ 	
+ 	N = Contado.
+ 	              
+ }\\
+ 
+ 	\hline
+ 	{\raggedright \textbf{Variável Independente}}
+ 	 & {\raggedright Tempo de Resposta, Número de Avaliações Realizados
+ 	                  
+}\\
+ 	
+ 	\hline
+\end{longtable}
+
+\begin{longtable}{|p{160pt}|p{265pt}|}
+ 	\caption{Métrica Externa - Tempo de Rendimento} \label{tipos_metricas}\\
+ 	\hline
+ 	 {\raggedright \textbf{Nome}}
+ 	 & {\raggedright {Tempo de Rendimento}}\\
+ 	
+ 	\hline
+ 	 {\raggedright \textbf{Propósito da Métrica}}
+ 	 & {\raggedright  Quantas tarefas podem ser realizadas com sucesso em um determinado período de tempo? }\\
+ 	
+ 	\hline
+ 	 {\raggedright \textbf{Método de Aplicação}}
+ 	 & {\raggedright 
+ 	 
+ 	 Estabelecer um período de tempo aceitável.
+ 	 
+ 	 Iniciar várias tarefas específicas ao mesmo tempo. .
+
+	 Medir o tempo que leva para completar a tarefa.
+
+	Manter registro dos tempos.} \\
+ 	
+ 	\hline
+ 	 {\raggedright \textbf{Fórmula}} 
+ 	 & {\raggedright  
+ 	
+ 	X = A/T.
+ 	
+ 	A = Número de tarefas completadas.
+ 	
+ 	T = Período de tempo observado.
+			
+ 	                 } \\
+
+ 	\hline
+ 	 {\raggedright \textbf{Interpretação}}
+ 	 & {\raggedright 0 < X
+
+			 Quanto maior melhor .} \\
+ 	\hline
+ 	{\raggedright \textbf{Escala}}
+ 	 & {\raggedright 
+ 	                  Racional.
+  	                }\\
+ 	
+ 	\hline
+ 	{\raggedright \textbf{Tipo de medição}}
+ 	 & {\raggedright 
+	A = Contado.
+	
+	T = Tempo.
+	
+	X = Contado/Tempo.
+ 	              
+ }\\
+ 
+ 	\hline
+ 	{\raggedright \textbf{Variável Independente}}
+ 	 & {\raggedright Número de tarefas completadas, Período de tempo observado.
+ 	                  
+}\\
+ 	
+ 	\hline
+\end{longtable}
+
+% \begin{longtable}{|p{160pt}|p{265pt}|}
+%  	\caption{Métrica Externa - Proporção de erros de memória / tempo} \label{tipos_metricas}\\
+%  	\hline
+%  	 {\raggedright \textbf{Nome}}
+%  	 & {\raggedright {Proporção de erros de memória / tempo}}\\
+%  	
+%  	\hline
+%  	 {\raggedright \textbf{Propósito da Métrica}}
+%  	 & {\raggedright  Quantos erros de memória foram encontrados ao longo de um determinado período de tempo especificado de utilização de recursos? }\\
+%  	
+%  	\hline
+%  	 {\raggedright \textbf{Método de Aplicação}}
+%  	 & {\raggedright 
+%  	 Estabelecer umperíodo de tempo para a simulação.
+% 
+%  	 
+% 	 Simular uma condição
+% 	 em que o sistema atinja uma situação de carga máxima.
+% 
+% 	 
+% 	 Executar a aplicação e registrar a quantidade de falhas de memória.
+% 	 
+% 	  	 
+%  	 } \\
+%  	
+%  	\hline
+%  	 {\raggedright \textbf{Fórmula}} 
+%  	 & {\raggedright  
+%  	X = A/T.
+%  	
+%  	A = Número de mensagens de alerta ou falhas de sistema
+%  	
+%  	T = Tempo de observação.
+% 			
+%  	                 } \\
+% 
+%  	\hline
+%  	 {\raggedright \textbf{Interpretação}}
+%  	 & {\raggedright 
+% 			 0 < = X.
+% 			 
+% 			 Quanto menor melhor .} \\
+%  	\hline
+%  	{\raggedright \textbf{Escala}}
+%  	 & {\raggedright 
+%  	                  Racional.
+%   	                }\\
+%  	
+%  	\hline
+%  	{\raggedright \textbf{Tipo de medição}}
+%  	 & {\raggedright 
+% 	A= Contado.
+% 	
+% 	T = Tempo.
+% 	
+% 	X = Contado/Tempo.
+%  	              
+%  }\\
+%  
+%  	\hline
+%  	{\raggedright \textbf{Variável Independente}}
+%  	 & {\raggedright A = Número de mensagens de alerta ou falhas de sistema
+%  	
+%  	T = Tempo de observação.
+%  	                  
+% }\\
+% 	
+%  	\hline
+% \end{longtable}
+
+
+\subsection{ Sumário de métricas }
+
+Com o objetivo de mapear as questões e métricas encontradas com realização do GQM. A imagem \ref{sum_metricas} tem o objetivo de fornecer um modelo para a organização das medições que serão realizadas no TCC 2.
+
+\begin{figure}[htpb!]
+\centering
+\includegraphics[keepaspectratio=true,scale = 1.0]{figuras/sum_metricas.JPG}
+\caption{Sumário de Métricas.}
+\label{sum_metricas}
+\end{figure}
+
+
+
+% \begin{table}[!htpb]
+% \caption{Cronograma das atividades previstas}
+% \label{t_cronograma}
+% \centering
+% 
+% % definindo o tamanho da fonte para small
+% % outros possÃ­veis tamanhos: footnotesize, scriptsize
+% \begin{small} 
+%   
+% % redefinindo o espaÃ§amento das colunas
+% \setlength{\tabcolsep}{3pt} 
+% 
+% % \cline Ã© semelhante ao \hline, porÃ©m Ã© possÃ­vel indicar as colunas que terÃ£o essa a linha horizontal
+% % \multicolumn{10}{c|}{Meses} indica que dez colunas serÃ£o mescladas e a palavra Meses estarÃ¡ centralizada dentro delas.
+% 
+% \begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|}\hline
+%  & \multicolumn{24}{c|}{Objetivo}\\ \cline{2-25}
+%  \multicolumn{5}{|c|}{Questões}\\ \cline{2-25}
+% \raisebox{1.5ex}{CMS} & 01 & 02 & 03 & 04 & 05 & 06 & 07 & 08 & 09 & 10 & 11 & 12 & 13 & 14 & 15 & 16 & 17 & 18 & 19 & 20 & 21 & 22 & 23 & 24 \\ \hline
+% 
+% Joomla & X & X & X & X & X & X & X & X & X & X & X & X & & & & & & & & & & & & \\ \hline
+% WordPress & & X & X & X & X & X & X & X & X & X & X & X & & & & & & & & & & & & \\ \hline
+% Drupal & & X & X & X & X & X & X & X & X & X & X & X & X & X & X & X & X & X & X & X & & & & \\ \hline
+% 4 & & X & X & X & X & X & X & X & X & X & X & X & X & X & X & X & X & X & X & X & & & & \\ \hline
+% 5 & & X & X & X & X & X & X & X & X & X & X & X & X & X & X & X & & & & & & & & \\ \hline
+% 6 & & X & X & X & X & X & X & X & X & X & X & X & X & X & X & X & X & X & X & X & X & & & \\ \hline
+% 7 & & & & X & X & X & X & X & X & X & X & X & X & X & X & X & X & X & X & X & X & X & & \\ \hline
+% 8 & & & & & & X & X & X & X & X & X & X & X & X & X & X & X & X & X & X & X & X & X & X \\ \hline
+% 
+% \end{tabular} 
+% \end{small}
+% 
+% \end{table} 
+% 
+
+\chapter[Conclusões]{Conclusões}
+\label{final}
+
+Após a execução deste trabalho cumpriu-se com o 1ª objetivo específico no capítulo \ref{CMS} onde foram apresentadas a definição do que é um CMS, suas vantangens e desvantagens,  seus objetivos e os critérios de escolha para os CMSs que serão alvo de estudo no TCC2. Esses critérios foram a forma de distribuição do software: Software Livre ou Software proprietário e a popularidade. Além disso, foi explicada a importância de requisitos não funcionais, destacando os requisitos não funcionais de desempenho, o principal alvo de estudo deste TCC.
+
+Para o objetivo específico 2 este trabalho apresentou conceitos da importância da qualidade de software no processo de desenvolvimento. Apresentou conceitos chaves de qualidade de software, tais como qualidade interna, qualidade externa e qualidade em uso, além de destacar a importância da \citeonline{9126} no contexto de qualidade de software. Além de uma definição sobre o que são métricas, seus tipos e escalas. E por fim o capítulo apresentou como o PSM e o GQM ajudam a projetar métricas para a aferir a qualidade de software.
+
+Para o objetivo específico 3 este trabalho o capítulo \ref{aplicação} utilizou os conceitos do GQM para a montagem do framework de métricas baseado também na \citeonline{9126}.
+
+Este trabalho definiu uma investigação consistente para que no TCC 2 as métricas possam ser aplicadas nos CMSs escolhidos a fim de dar um melhor suporte para quem quer um melhor desempenho de seus websites e deseja usar uma solução envolvendo CMS.
+
+Assim sendo, considerando o cumprimento dos objetivos específicos, foi considerado como cumprido o objetivo geral da pesquisa deste TCC, ou seja: \textit{"Estudar CMS de forma a identificar  características de desempenho que possam ser usadas  na definição de critérios de escolha de um determinado CMS
+a serem usados no desenvolvimento de um sistema padrão WEB".}
+
+\section{Considerações Finais}
+
+Levando em consideração as características abordadas neste trabalho. Os mesmos princípios que foram usados para elaborar métricas de desempenho podem ser usados para a elaboração de outras métricas que avaliem outras características não funcionais, tais como usabilidade, manutenibilidade, confiabilidade dentre outras características. Além de também poder levar em consideração a perspectiva interna das métricas de desempenho. Essas observações levariam a diversos trabalhos futuros com objetivos semelhantes.
+
+Para o TCC 2 pretende-se submeter as métricas escolhidas à avaliação de um especialista, para que o mesmo possa julgar se tais métricas são aplicáveis dentro de um contexto de um CMS específico e então atuar como um filtro para que seja considerado apenas o necessário. O especialista também poderá acrescentar métricas que conheça e que possam contribuir para a evolução do trabalho. Após a consolidação das métricas será feita uma pesquisa sobre quais ferramentas podem ser usadas para levantar os dados das métricas, depois um ambiente de execução terá que ser elaborado por fim haverá a coleta de dados e as conclusões finais deste trabalho.  

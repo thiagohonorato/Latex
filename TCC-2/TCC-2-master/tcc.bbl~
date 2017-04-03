@@ -1,0 +1,358 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\setlength{\labelsep}{0pt}\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{v-1.9.2 }
+
+\bibitem[Agrawal e Chari 2007]{Agrawal}
+\abntrefinfo{Agrawal e Chari}{AGRAWAL; CHARI}{2007}
+{AGRAWAL, M.; CHARI, K. Software effort, quality, and cycle time: A study of
+  cmm level 5 projects.
+\emph{Software Engineering, IEEE Transactions on}, v.~33, n.~3, p. 145--156,
+  March 2007.
+ISSN 0098-5589.}
+
+\bibitem[Aguiar et al. 2007]{aguiar2007}
+\abntrefinfo{Aguiar et al.}{AGUIAR et al.}{2007}
+{AGUIAR, T. et al. Anati quanti: Software de an{\'a}lises quantitativas para
+  estudos em anatomia vegetal.
+\emph{Planta daninha}, v.~25, n.~4, p. 649--659, 2007.}
+
+\bibitem[BARCIA 2008]{Barcia}
+\abntrefinfo{BARCIA}{BARCIA}{2008}
+{BARCIA, L. M.~G.
+\emph{A utilização da plataforma joomla! na escola.}
+Disserta\c{c}\~{a}o ((Mestrado em Ciências da Educação)) --- Universidade
+  Católica Portuguesa, 2008.}
+
+\bibitem[Barr{\'e}re, Avelino e Eduardo S/D]{barrere}
+\abntrefinfo{Barr{\'e}re, Avelino e Eduardo}{BARR{\'E}RE; AVELINO;
+  EDUARDO}{S/D}
+{BARR{\'E}RE; AVELINO, I.; EDUARDO, J.~K. Constru{\c{c}}{\~a}o de sites para
+  comunidades virtuais e intranet utilizando cms.
+S/D.}
+
+\bibitem[Basili, Caldiera e Rombach 1994]{Basili}
+\abntrefinfo{Basili, Caldiera e Rombach}{BASILI; CALDIERA; ROMBACH}{1994}
+{BASILI, V.~R.; CALDIERA, G.; ROMBACH, H.~D. The goal question metric approach.
+1994.}
+
+\bibitem[Bortoli 1999]{DeBortoli}
+\abntrefinfo{Bortoli}{BORTOLI}{1999}
+{BORTOLI, L.~A. D. Um m{\'e}todo de trabalho para auxiliar a
+  defini{\c{c}}{\~a}o de requisitos.
+1999.}
+
+\bibitem[Boukar e Muslu 2013]{muslu}
+\abntrefinfo{Boukar e Muslu}{BOUKAR; MUSLU}{2013}
+{BOUKAR, M.; MUSLU, I. Administration and academic staff performance management
+  system using content management system (cms) technologies. In:
+  \emph{Electronics, Computer and Computation (ICECCO), 2013 International
+  Conference on}. [S.l.: s.n.], 2013. p. 151--154.}
+
+\bibitem[Card 2003]{card}
+\abntrefinfo{Card}{CARD}{2003}
+{CARD, D.~N. Practical software measurement. In:  \emph{Software Engineering,
+  2003. Proceedings. 25th International Conference on}. [S.l.: s.n.], 2003. p.
+  738--739.
+ISSN 0270-5257.}
+
+\bibitem[Card e Jones 2003]{card_jones}
+\abntrefinfo{Card e Jones}{CARD; JONES}{2003}
+{CARD, D.~N.; JONES, C. Status report: practical software measurement. In:
+  \emph{Quality Software, 2003. Proceedings. Third International Conference
+  on}. [S.l.: s.n.], 2003. p. 315--320.}
+
+\bibitem[CmsMatrix 2014]{Vig}
+\abntrefinfo{CmsMatrix}{CMSMATRIX}{2014}
+{CMSMATRIX: Vignette web content management (now opentext web experience
+  management. 2014.
+Dispon{\'\i}vel em:
+  \url{http://www.cmsmatrix.org/matrix/cms-matrix/vignette-web-content-management-now-opentext-web-experience-management-}.
+  Acesso em: 03 Nov. 2014.}
+
+\bibitem[Coelho et al. 2011]{coelho2011}
+\abntrefinfo{Coelho et al.}{COELHO et al.}{2011}
+{COELHO, M. A.~P. et al. O uso do cms joomla e suas ferramentas hipertextuais
+  na produ{\c{c}}{\~a}o de sites educativos e de material did{\'a}tico online.
+\emph{Texto Livre: Linguagem e Tecnologia}, v.~4, n.~2, 2011.}
+
+\bibitem[Conallen 2003]{Conallen}
+\abntrefinfo{Conallen}{CONALLEN}{2003}
+{CONALLEN, J. \emph{Desenvolvendo aplicações web}. [S.l.]: --, 2003.}
+
+\bibitem[CoreMedia 2014]{coreMedia}
+\abntrefinfo{CoreMedia}{COREMEDIA}{2014}
+{COREMEDIA: Site. 2014.
+Dispon{\'\i}vel em: \url{http://www.coremedia.com/}. Acesso em: 03 Nov. 2014.}
+
+\bibitem[Costa, Caminha e Lima 2012]{costa}
+\abntrefinfo{Costa, Caminha e Lima}{COSTA; CAMINHA; LIMA}{2012}
+{COSTA, L.~N. da; CAMINHA, H. E.~B.; LIMA, W. J.~F. de. Comparativo de
+  ferramentas de criação e gestão de web sites cms (content management
+  system).
+\emph{Sistemas de Informação \& Gestão de Tecnologia., No 6 (2012)}, 2012.}
+
+\bibitem[Cysneiros 2001]{cysneiros_tese}
+\abntrefinfo{Cysneiros}{CYSNEIROS}{2001}
+{CYSNEIROS, L.~M.
+\emph{Requisitos Não Funcionais: Da Elicitação ao Modelo Conceitual}.
+Tese (Doutorado) --- DEPARTAMENTO DE INFORMÁTICA -PONTIFÍCIA UNIVERSIDADE
+  CATÓLICA DO RIO DE JANEIRO, 2001.}
+
+\bibitem[Cysneiros e Leite 1997]{cysneiros97}
+\abntrefinfo{Cysneiros e Leite}{CYSNEIROS; LEITE}{1997}
+{CYSNEIROS, L.~M.; LEITE, J. Definindo requisitos n{\~a}o funcionais.
+\emph{XI Simp{\'o}sio Brasileiro de Engenharia de Software. Fortaleza, CE},
+  1997.}
+
+\bibitem[Duchessi e Chengalur-Smith 1998]{Duchessi_98}
+\abntrefinfo{Duchessi e Chengalur-Smith}{DUCHESSI; CHENGALUR-SMITH}{1998}
+{DUCHESSI, P.; CHENGALUR-SMITH, I. Client/server benefits, problems, best
+  practices.
+\emph{Commun. ACM}, ACM, New York, NY, USA, v.~41, n.~5, p. 87--94, maio 1998.
+ISSN 0001-0782.
+Dispon{\'\i}vel em: \url{http://doi.acm.org/10.1145/274946.274961}.}
+
+\bibitem[Facebook 2014]{face}
+\abntrefinfo{Facebook}{FACEBOOK}{2014}
+{FACEBOOK: Site. 2014.
+Dispon{\'\i}vel em: \url{https://pt-br.facebook.com/}. Acesso em: 05 Out.
+  2014.}
+
+\bibitem[Fenton e Pflegeer 1997]{Fenton}
+\abntrefinfo{Fenton e Pflegeer}{FENTON; PFLEGEER}{1997}
+{FENTON, N.~E.; PFLEGEER, S.~L. \emph{“Software metrics – A rigorous
+  approach”}. [S.l.]: Publishing Company, 1997.}
+
+\bibitem[Filho 2003]{DePadua_2003}
+\abntrefinfo{Filho}{FILHO}{2003}
+{FILHO, W. de P.~P. Engenharia de software.
+LTC, 2003.}
+
+\bibitem[GitHub 2014]{GitHub}
+\abntrefinfo{GitHub}{GITHUB}{2014}
+{GITHUB: Site. 2014.
+Dispon{\'\i}vel em: \url{https://github.com/}. Acesso em: 02 Set. 2014.}
+
+\bibitem[Hamid e Hasan 2010]{Hamid}
+\abntrefinfo{Hamid e Hasan}{HAMID; HASAN}{2010}
+{HAMID, N.; HASAN, M. Industrial-based object-oriented software quality
+  measurement system and its importance. In:  \emph{Information Technology
+  (ITSim), 2010 International Symposium in}. [S.l.: s.n.], 2010. v.~3, p.
+  1332--1336.
+ISSN 2155-897.}
+
+\bibitem[Hochberger e Meusel 2008]{Meusel_2008}
+\abntrefinfo{Hochberger e Meusel}{HOCHBERGER; MEUSEL}{2008}
+{HOCHBERGER, C.; MEUSEL, C. Infrastructure for web-based administration of
+  embedded systems. In:  \emph{Industrial Embedded Systems, 2008. SIES 2008.
+  International Symposium on}. [S.l.: s.n.], 2008. p. 67--73.}
+
+\bibitem[ISO/IEC-9126-1 2001]{9126}
+\abntrefinfo{ISO/IEC-9126-1}{ISO/IEC-9126-1}{2001}
+{ISO/IEC-9126-1. \emph{ISO/IEC 9126. Software engineering -- Product quality}.
+  [S.l.]: ISO/IEC, 2001.}
+
+\bibitem[Jones 2008]{Jones}
+\abntrefinfo{Jones}{JONES}{2008}
+{JONES, C. \emph{Applied Software Measurement: Global Analysis of Productivity
+  and Quality}. 3rd. ed. [S.l.]: New York:, 2008.}
+
+\bibitem[JornalismoOnline 2014]{CMS_Proprietario}
+\abntrefinfo{JornalismoOnline}{JORNALISMOONLINE}{2014}
+{JORNALISMOONLINE: O que seria sistemas de gerenciador de conteúdos (cms)?
+  2014.
+Dispon{\'\i}vel em:
+  \url{http://jornalismoonlineufsc.blogspot.com.br/2010/08/o-que-seria-sistemas-de-gerenciador-de.html}.
+  Acesso em: 03 Nov. 2014.}
+
+\bibitem[Junior e Antônio 2003]{junior_2003}
+\abntrefinfo{Junior e Antônio}{JUNIOR; ANTôNIO}{2003}
+{JUNIOR, Z.; ANTôNIO, L.
+\emph{Sistemas de informação baseados na tecnologia web: um estudo sobre seu
+  desenvolvimento.}
+Tese (Doutorado) --- Universidade de São Paulo, 2003.}
+
+\bibitem[Kan 2002]{Kan}
+\abntrefinfo{Kan}{KAN}{2002}
+{KAN, S. \emph{Metrics and Models in Software Quality Engineering}. 2nd. ed.
+  [S.l.: s.n.], 2002.}
+
+\bibitem[Karels 2003]{Karels}
+\abntrefinfo{Karels}{KARELS}{2003}
+{KARELS, M.~J. Commercializing open source software.
+\emph{Queue}, ACM, New York, NY, USA, v.~1, n.~5, p. 40:46--40:55, jul. 2003.
+ISSN 1542-7730.
+Dispon{\'\i}vel em: \url{http://doi.acm.org/10.1145/945074.945125}.}
+
+\bibitem[Kosloski 2005]{Koloski}
+\abntrefinfo{Kosloski}{KOSLOSKI}{2005}
+{KOSLOSKI, R. A.~D.
+\emph{Melhoria Contínua de Estimativa de Esforço para o Desenvolvimento de
+  Software: Uma Abordagem sobre Produtividade}.
+Disserta\c{c}\~{a}o (Mestrado) --- UNIVERSIDADE CATÓLICA DE BRASÍLIA, 2005.}
+
+\bibitem[KOTONYA e SOMMERVILLE 1998]{kotonya}
+\abntrefinfo{KOTONYA e SOMMERVILLE}{KOTONYA; SOMMERVILLE}{1998}
+{KOTONYA, G.; SOMMERVILLE, I. \emph{“Requirements Engineering: Process and
+  Techniques”}. [S.l.: s.n.], 1998.}
+
+\bibitem[LEITE 2001]{leite}
+\abntrefinfo{LEITE}{LEITE}{2001}
+{LEITE, J. C. S.~P. \emph{“Gerenciando a Qualidade de Software com Base em
+  Requisitos”. In: Qualidade de Software: Teoria e Prática.} [S.l.: s.n.],
+  2001.}
+
+\bibitem[MAMANI 1999]{mamani}
+\abntrefinfo{MAMANI}{MAMANI}{1999}
+{MAMANI, N.~A.
+\emph{“Integrando requisitos não funcionais aos requisitos baseados em
+  ações concertas.”}.
+Disserta\c{c}\~{a}o (Dissertação de mestrado) --- Departamento de
+  informática, PUC-RIO, Maio 1999.}
+
+\bibitem[MarketingdeConteúdo 2014]{marketing}
+\abntrefinfo{MarketingdeConteúdo}{MARKETINGDECONTEúDO}{2014}
+{MARKETINGDECONTEúDO: Blog corporativo para iniciantes: Como escolher um cms.
+  2014.
+Dispon{\'\i}vel em: \url{http://marketingdeconteudo.com/como-escolher-um-cms/}.
+  Acesso em: 19 Ago. 2014.}
+
+\bibitem[Moller e Paulish 1993]{moller}
+\abntrefinfo{Moller e Paulish}{MOLLER; PAULISH}{1993}
+{MOLLER, K.~H.; PAULISH, D.~J. \emph{“Software Metrics, A Practioners Guide
+  to Improved Product Development”}. [S.l.]: Chapman \& Hall, 1993.}
+
+\bibitem[Moresi 2003]{moresi}
+\abntrefinfo{Moresi}{MORESI}{2003}
+{MORESI, E. \emph{Metodologia da Pesquisa}. 2003. 108~p.}
+
+\bibitem[NBR-ISO/IEC-9126-1 2003]{Nbr_9126}
+\abntrefinfo{NBR-ISO/IEC-9126-1}{NBR-ISO/IEC-9126-1}{2003}
+{NBR-ISO/IEC-9126-1. \emph{NBR ISO/IEC 9126. Engenharia de Software - Qualidade
+  de Produto. Parte 1}. [S.l.]: NBR ISO/IEC, 2003.}
+
+\bibitem[Nixon 2000]{Nixon}
+\abntrefinfo{Nixon}{NIXON}{2000}
+{NIXON, B.~A. Management of performance requirements for information systems.
+\emph{Software Engineering, IEEE Transactions on}, v.~26, n.~12, p. 1122--1146,
+  Dec 2000.
+ISSN 0098-5589.}
+
+\bibitem[OpenSourceCMS 2014]{opensource_cms}
+\abntrefinfo{OpenSourceCMS}{OPENSOURCECMS}{2014}
+{OPENSOURCECMS: Cms market share. 2014.
+Dispon{\'\i}vel em:
+  \url{http://www.opensourcecms.com/general/cms-marketshare.php}. Acesso em: 19
+  Ago. 2014.}
+
+\bibitem[Park, Goethert e Florac 1996]{park}
+\abntrefinfo{Park, Goethert e Florac}{PARK; GOETHERT; FLORAC}{1996}
+{PARK, R.; GOETHERT, W.; FLORAC, W. \emph{“Goal Driven Software Measurement
+  – a Guidebook”}. [S.l.]: Software Engineering Institute, Carnegie Mellon
+  University, 1996.}
+
+\bibitem[Patel, Rathod e Parikh 2011]{patel}
+\abntrefinfo{Patel, Rathod e Parikh}{PATEL; RATHOD; PARIKH}{2011}
+{PATEL, S.; RATHOD, V.; PARIKH, S. Joomla, drupal and wordpress - a statistical
+  comparison of open source cms. In:  \emph{Trendz in Information Sciences and
+  Computing (TISC), 2011 3rd International Conference on}. [S.l.: s.n.], 2011.
+  p. 182--187.}
+
+\bibitem[PERIZZOLO 2005]{perizo_2005}
+\abntrefinfo{PERIZZOLO}{PERIZZOLO}{2005}
+{PERIZZOLO, D.~M.
+Monografia, \emph{Desenvolvimento de um Sistema de Informação Web para
+  Empresas De Factoring}. Blumenau - SC: [s.n.], 2005. 65~f.}
+
+\bibitem[Prahalad e Krishnan 1999]{Prahalad}
+\abntrefinfo{Prahalad e Krishnan}{PRAHALAD; KRISHNAN}{1999}
+{PRAHALAD, C.~K.; KRISHNAN, M. \emph{"The New Meaning of Quality in the
+  Information Age, "}. [S.l.]: Harvard Business Rev., 1999.}
+
+
+
+\bibitem[Reis et al. 2011]{Reis}
+\abntrefinfo{Reis et al.}{REIS et al.}{2011}
+{REIS, J. C.~D. et al. \emph{Uma Prospecção de Plataformas para o
+  Desenvolvimento do Sistema “Todos Nós em Rede”.}
+[S.l.], 2011.}
+
+\bibitem[Salgado e Atoji 2008]{salgado}
+\abntrefinfo{Salgado e Atoji}{SALGADO; ATOJI}{2008}
+{SALGADO, F.~F.; ATOJI, R.~I. Catedral, bazar e software livre.
+\emph{Catedral, Bazar e Software Livre}, v.~20, 2008.}
+
+\bibitem[Santos 2013]{DosSantos}
+\abntrefinfo{Santos}{SANTOS}{2013}
+{SANTOS, E. D. Web mining minera{\c{c}}{\~a}o de dados na web utilizando cms.
+Universidade Jean Piaget de Cabo Verde, 2013.}
+
+\bibitem[Sherpa 2014]{sherpa}
+\abntrefinfo{Sherpa}{SHERPA}{2014}
+{SHERPA: Site. 2014.
+Dispon{\'\i}vel em: \url{http://www.sherpaglobal.com/}. Acesso em: 03 Nov.
+  2014.}
+
+\bibitem[Shu et al. 2013]{shu_2013}
+\abntrefinfo{Shu et al.}{SHU et al.}{2013}
+{SHU, M. et al. Anti-money-laundering system based on mainframe and soa. In:
+  \emph{Computational Intelligence and Communication Networks (CICN), 2013 5th
+  International Conference on}. [S.l.: s.n.], 2013. p. 613--616.}
+
+\bibitem[Singh e Kannojia 2013]{Singh}
+\abntrefinfo{Singh e Kannojia}{SINGH; KANNOJIA}{2013}
+{SINGH, B.; KANNOJIA, S. A review on software quality models. In:
+  \emph{Communication Systems and Network Technologies (CSNT), 2013
+  International Conference on}. [S.l.: s.n.], 2013. p. 801--806.}
+
+\bibitem[Sollingen e Berghout 1999]{sollingen}
+\abntrefinfo{Sollingen e Berghout}{SOLLINGEN; BERGHOUT}{1999}
+{SOLLINGEN, R.~V.; BERGHOUT, E. \emph{The Goal/Question Metric Method, A
+  Practical Guide For Quality Improvement of Software Development}. [S.l.:
+  s.n.], 1999.}
+
+\bibitem[SOMMERVILLE 1992]{sommer92}
+\abntrefinfo{SOMMERVILLE}{SOMMERVILLE}{1992}
+{SOMMERVILLE, I. \emph{“Software Engineering”}. fourth edition. [S.l.:
+  s.n.], 1992.}
+
+\bibitem[Szybalski e Zabierowski 2011]{Vantagens}
+\abntrefinfo{Szybalski e Zabierowski}{SZYBALSKI; ZABIEROWSKI}{2011}
+{SZYBALSKI, M.; ZABIEROWSKI, W. Using web - developer technologies for building
+  an academic service. In:  \emph{CAD Systems in Microelectronics (CADSM), 2011
+  11th International Conference The Experience of Designing and Application
+  of}. [S.l.: s.n.], 2011. p. 301--303.}
+
+\bibitem[Tanenbaum e Woodhull 2006]{Tanenbaum}
+\abntrefinfo{Tanenbaum e Woodhull}{TANENBAUM; WOODHULL}{2006}
+{TANENBAUM, A.~S.; WOODHULL, A. \emph{Sistemas Operacionais: Projetos e
+  Implementação}. [S.l.]: --, 2006.}
+
+\bibitem[Twitter 2014]{twitter}
+\abntrefinfo{Twitter}{TWITTER}{2014}
+{TWITTER: Site. 2014.
+Dispon{\'\i}vel em: \url{https://twitter.com}. Acesso em: 05 Out. 2014.}
+
+\bibitem[VisionWidget 2014]{Vision}
+\abntrefinfo{VisionWidget}{VISIONWIDGET}{2014}
+{VISIONWIDGET: - front-end design impression: 30 cms opensource edition. 2014.
+Dispon{\'\i}vel em: \url{http://visionwidget.com/free-cms-resources.html}.
+  Acesso em: 02 Set. 2014.}
+
+\bibitem[Xiang e Yu 2010]{xiang}
+\abntrefinfo{Xiang e Yu}{XIANG; YU}{2010}
+{XIANG, C.; YU, W. Using content management system joomla! to build a website
+  for research institute needs. In:  \emph{Management and Service Science
+  (MASS), 2010 International Conference on}. [S.l.: s.n.], 2010. p.~1--3.}
+
+\bibitem[Yoshiura 2011]{Yoshi}
+\abntrefinfo{Yoshiura}{YOSHIURA}{2011}
+{YOSHIURA, N. Discussion on business of free software products - through
+  e-jikei network project. In:  \emph{Instrumentation, Communications,
+  Information Technology, and Biomedical Engineering (ICICI-BME), 2011 2nd
+  International Conference on}. [S.l.: s.n.], 2011. p. 19--22.}
+
+\end{thebibliography}

@@ -1,0 +1,1782 @@
+% This file was created with JabRef 2.10.
+% Encoding: UTF8
+
+
+@Book{iso_14598,
+  Title                    = {International Standard. Information Technology – Software product evaluation – Part 1},
+  Author                   = {ISO/IEC-14598-1},
+  Publisher                = {ISO/IEC},
+  Year                     = {1995},
+
+  Owner                    = {Thiago},
+  Timestamp                = {2015.05.29}
+}
+
+@Book{9126,
+  Title                    = {ISO/IEC 9126. Software engineering -- Product quality},
+  Author                   = {ISO/IEC-9126-1},
+  Publisher                = {ISO/IEC},
+  Year                     = {2001}
+}
+
+@Book{9126-2,
+  Title                    = {ISO/IEC 9126. Software engineering -- Product quality},
+  Author                   = {ISO/IEC-9126-2},
+  Publisher                = {ISO/IEC},
+  Year                     = {2001}
+}
+
+@InProceedings{AbuKasim2012,
+  Title                    = {Virtual-learning content management system for problem-based learning ({PBL}) courses},
+  Author                   = {Abu Kasim, N.A. and Gunawan, T.S.},
+  Booktitle                = {2012 {International} {Conference} on {Computer} and {Communication} {Engineering} ({ICCCE})},
+  Year                     = {2012},
+  Month                    = jul,
+  Pages                    = {948--952},
+
+  Abstract                 = {This paper presents the design of Virtual-Learning Content Management System to be used by students and instructors a like using problem-based learning (PBL) as the instructional methodology. V-LCMS is designed and implemented at Mara Professional College Indera Mahkota (MPCIM). It details the rationale for implementing V-LCMS as well as reporting the intended learning outcomes by assessing the students' achievements. The achievement is reported as a case study conducted in an undergraduate level course. The students participated in this V-LCMS case study tests are correlated with their achievement of the course's learning objectives. The paper focuses on the uploading of the notes and assessments easily and quickly, and also easing the interactions between the instructors and the students. In addition, the system also aims to develop a web site using Interactive and Incremental Development (IDD) prototype. To develop this system, the software chosen is Joomla 1.5, Windows XP as an operating system, PHP 5.2.5 as a programming language, MySQL 5.0 as a database and Apache 2.2.8 as a web server. Other advantage of this V-LCMS is it makes it easier for the students to interact with instructors using forum or chat room. The PBL was implemented using the interaction between students and lecturers using both facilities, i.e. forum and chat room. Overall, not only the system facilitates the instructors, but also it facilitates their students in terms of receiving the knowledge imparted.},
+  Doi                      = {10.1109/ICCCE.2012.6271356},
+  File                     = {IEEE Xplore Abstract Record:C\:\\Users\\Thiago\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\2jvv8all.default\\zotero\\storage\\PIE8Q3VR\\icp.html:text/html},
+  Keywords                 = {Apache 2.2.8 web server, assessments uploading, computer aided instruction, content management, content management system, distance learning, educational courses, Educational institutions, Electronic mail, further education, IDD prototype, instructional methodology, instructors, interactive and incremental development, Internet, Interviews, Joomla 1.5 software, Mara Professional College Indera Mahkota, Materials, MPCIM, MySQL, MySQL 5.0 database, notes uploading, PBL courses, PHP, PHP 5.2.5 programming language, Problem-Based Learning, problem-based learning courses, Prototypes, Software, SQL, students, undergraduate level course, user interfaces, virtual-learning content management system, V-LCMS case study tests, Web design, web site development, Windows XP operating system},
+  Owner                    = {Thiago},
+  Timestamp                = {2015.05.05}
+}
+
+@InProceedings{Adhoni2014,
+  Title                    = {An {API} for {Quran} portal using {Drupal} technology},
+  Author                   = {Adhoni, Z.A. and Al Hamad, H.},
+  Booktitle                = {Applications of {Digital} {Information} and {Web} {Technologies} ({ICADIWT}), 2014 {Fifth} {International} {Conference} on the},
+  Year                     = {2014},
+  Month                    = feb,
+  Pages                    = {160--164},
+
+  Abstract                 = {In this paper, we describe the Research and development of a portal using Drupal technology on cloud. The main focus is on designing a portal for Quran Application using Drupal which can be a center of learning resource for various users and can be hosted on cloud. It includes different features which are useful as a knowledge center. Its features can also be used by any internet enable device which can be a deemed as modern application. The quality and assurance of Quran Text is also taken into consideration. It also promotes for research and development of new tools and applications with the provision of API. This paper provides an account of Search API and API.},
+  Doi                      = {10.1109/ICADIWT.2014.6814697},
+  File                     = {IEEE Xplore Abstract Record:C\:\\Users\\Thiago\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\2jvv8all.default\\zotero\\storage\\Q6IHACZ7\\articleDetails.html:text/html;IEEE Xplore Full Text PDF:C\:\\Users\\Thiago\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\2jvv8all.default\\zotero\\storage\\C79ZBV22\\Adhoni e Al Hamad - 2014 - An API for Quran portal using Drupal technology.pdf:application/pdf},
+  Keywords                 = {API, application program interfaces, cloud computing, Computer architecture, content management, Drupal, Drupal technology, Internet, knowledge center, learning (artificial intelligence), Mobile communication, Ontologies, Portals, Qur'an, Quran portal, Quran text, Software},
+  Owner                    = {Thiago},
+  Timestamp                = {2015.05.05}
+}
+
+@Article{Agrawal,
+  Title                    = {Software Effort, Quality, and Cycle Time: A Study of CMM Level 5 Projects},
+  Author                   = {Manish Agrawal and Kaushal Chari},
+  Journal                  = {Software Engineering, IEEE Transactions on},
+  Year                     = {2007},
+
+  Month                    = {March},
+  Number                   = {3},
+  Pages                    = {145-156},
+  Volume                   = {33},
+
+  Doi                      = {10.1109/TSE.2007.29},
+  ISSN                     = {0098-5589},
+  Keywords                 = {Capability Maturity Model;regression analysis;software cost estimation;software development management;software quality;CMM level 5 project;Capability Maturity Model;linear regression model;organization productivity;software cost estimation;software cycle time estimation;software development effort;software development process improvement;software quality;Best practices;Capability maturity model;Coordinate measuring machines;Costs;ISO standards;Object oriented modeling;Productivity;Programming;Six sigma;Software quality;Cost estimation;productivity.;software quality;time estimation}
+}
+
+@Article{aguiar2007,
+  Title                    = {ANATI QUANTI: Software de an{\'a}lises quantitativas para estudos em anatomia vegetal},
+  Author                   = {Aguiar, TV and Sant’anna-Santos, BF and Azevedo, AA and Ferreira, RS},
+  Journal                  = {Planta daninha},
+  Year                     = {2007},
+  Number                   = {4},
+  Pages                    = {649--659},
+  Volume                   = {25}
+}
+
+@InProceedings{Albrecht2009,
+  Title                    = {Learning 2.0 in the {Information} {Systems} {Curriculum}},
+  Author                   = {Albrecht, C. and Matthews, K.},
+  Booktitle                = {42nd {Hawaii} {International} {Conference} on {System} {Sciences}, 2009. {HICSS} '09},
+  Year                     = {2009},
+  Month                    = jan,
+  Pages                    = {1--10},
+
+  Abstract                 = {This paper describes the application of Learning 2.0 ideas in the information systems program at BYU. Using the Drupal content management system, we developed the "island" Web site with organic groups to foster learning and discussion on a variety of student driven topics. The island site complements the formal curriculum by hosting out of class discussions, investigation into topics not included in classes, and student-alumni relationships and mentoring. The site also supports student blogs, recruiter activities and job postings, polls and events, and wiki-based knowledge centers. Learning 2.0 seems to be an effective way of promoting expertise among student learners.},
+  Doi                      = {10.1109/HICSS.2009.289},
+  File                     = {IEEE Xplore Abstract Record:C\:\\Users\\Thiago\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\2jvv8all.default\\zotero\\storage\\DZRIJ6F4\\articleDetails.html:text/html},
+  Keywords                 = {BYU, computer aided instruction, content management, Continuing education, Databases, Drupal content management system, Employee welfare, Feathers, Information services, information systems, information systems program, Internet, island Web site, Learning 2.0, Recruitment, student blogs, Uncertainty, Web sites},
+  Owner                    = {Thiago},
+  Timestamp                = {2015.05.05}
+}
+
+@Article{alves2002,
+  Title                    = {A usabilidade em software educativo: princ{\'\i}pios e t{\'e}cnicas},
+  Author                   = {Alves, Paulo and Pires, Jos{\'e} Adriano},
+  Year                     = {2002}
+}
+
+@InProceedings{Aw2010,
+  Title                    = {Integration of captivate and {JOOMLA}: {Online} demonstration and assessment {eLearning} resources},
+  Author                   = {Aw, Swee Liang and Aye, K. and Ayari, A. and Laban, F.},
+  Booktitle                = {Electronics and {Information} {Engineering} ({ICEIE}), 2010 {International} {Conference} {On}},
+  Year                     = {2010},
+  Month                    = aug,
+  Pages                    = {V1--137--V1--140},
+  Volume                   = {1},
+
+  Abstract                 = {The system uses Adobe Captivate to create and generate the learning and assessments materials in PDF format to allow students to access the learning materials and to do the assessment interactively. Each assessment is based on the demonstration video which covers all the concepts included in the assessment. Joomla platform is employed in this web application to distribute all the video materials online as well as to keep tracking the hits used on these materials by the students. The system also allows the user to do offline assessment. Like other assessment, the system can immediate feedback as to how many questions were answered correctly and what are the correct answers, as well as providing worked solutions indicating how the correct answers could be deduced. The highest quality of typesetting is employed in the system by using the Adobe Captivate software, via the Joomla, to produce a web-based written in PHP. Other software, such as Flash, can be embedded to control the interaction between users and the materials.},
+  Doi                      = {10.1109/ICEIE.2010.5559905},
+  Keywords                 = {Adobe Captivate, Adobe Captivate software, Assessment, Browsers, computer aided instruction, Computers, Databases, educational administrative data processing, e-learning, eLearning resource, Internet, Joomla, Joomla platform, Layout, Learning Materials, Materials, online assessment, online demonstration, PDF format, Portable document format, Software, Web application},
+  Owner                    = {Thiago},
+  Shorttitle               = {Integration of captivate and {JOOMLA}},
+  Timestamp                = {2015.05.05}
+}
+
+@Article{bailey,
+  Title                    = {Practical software and systems measurement.},
+  Author                   = {Elizabeth Bailey and David Card and Joseph Dean and Fred Hall and Cheryl Jones and Beth Layman and John Mcgarry},
+  Journal                  = {DoD and US Army},
+  Year                     = {2003},
+
+  Owner                    = {thiago},
+  Timestamp                = {2014.11.16}
+}
+
+@InProceedings{Balasko2014,
+  Title                    = {Supporting {Agricultural} {Communities} with {Workflows} on {Heterogeneous} {Computing} {Resources}},
+  Author                   = {Balasko, A. and Lovas, R. and Gergely, M. and Manolis, N.},
+  Booktitle                = {2014 6th {International} {Workshop} on {Science} {Gateways} ({IWSG})},
+  Year                     = {2014},
+  Month                    = jun,
+  Pages                    = {18--23},
+
+  Abstract                 = {In this paper we present a solution for agricultural communities to process large metadata record sets registered on distributed data repositories utilizing distributed computational and storage capabilities. Since significant number of the agricultural web-sites are based on Drupal content management system, we offer the user interface as a Drupal module. For sustainability reasons on-demand service deployment facility is enabled for cloud infrastructure.},
+  Doi                      = {10.1109/IWSG.2014.10},
+  File                     = {IEEE Xplore Abstract Record:C\:\\Users\\Thiago\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\2jvv8all.default\\zotero\\storage\\ISAFN5UT\\articleDetails.html:text/html},
+  Keywords                 = {agricultural community support, agricultural Web sites, agriculture, cloud infrastructure, Communities, content management, content management systems, distributed computational capabilities, Distributed databases, distributed data repositories, distributed processing, Drupal content management system, Drupal module, grid computing, heterogeneous computing resources, Logic gates, meta data, metadata record sets, ondemand service deployment, on-demand service deployment, Portals, Registers, storage capabilities, user interface, user interfaces, Web sites, workflow management},
+  Owner                    = {Thiago},
+  Timestamp                = {2015.05.05}
+}
+
+@MastersThesis{Barcia,
+  Title                    = {A utilização da plataforma joomla! na escola.},
+  Author                   = {BARCIA, L. M. G.},
+  School                   = {Universidade Católica Portuguesa},
+  Year                     = {2008},
+  Type                     = {(Mestrado em Ciências da Educação)},
+
+  Owner                    = {thiago},
+  Timestamp                = {2014.11.02}
+}
+
+@Article{barrere,
+  Title                    = {CONSTRU{\c{C}}{\~A}O DE SITES PARA COMUNIDADES VIRTUAIS E INTRANET UTILIZANDO CMS},
+  Author                   = {Barr{\'e}re and Izabel Avelino and Jefferson Kuwata Eduardo},
+  Year                     = {S/D}
+}
+
+@Article{Basili,
+  Title                    = {THE GOAL QUESTION METRIC APPROACH},
+  Author                   = {Victor R. Basili and Gianluigi Caldiera and H. Dieter Rombach},
+  Year                     = {1994},
+
+  Owner                    = {thiago},
+  Timestamp                = {2014.11.08}
+}
+
+@MastersThesis{borges,
+  Title                    = {Um modelo de medição para processos de desenvolvimento de software.},
+  Author                   = {Eduardo Pereira Borges},
+  School                   = {Universidade Federal de Minas Gerais - UFMG. Curso de Pós-graduação em Ciência da Computação},
+  Year                     = {2003},
+
+  Address                  = {Belo Horizonte - MG},
+  Month                    = {Março},
+  Type                     = {Mestrado.},
+
+  Owner                    = {thiago},
+  Timestamp                = {2014.11.16}
+}
+
+@InProceedings{muslu,
+  Title                    = {Administration and academic staff performance management system using content management system (CMS) technologies},
+  Author                   = {Boukar, M.M. and Muslu, I.},
+  Booktitle                = {Electronics, Computer and Computation (ICECCO), 2013 International Conference on},
+  Year                     = {2013},
+  Month                    = {Nov},
+  Pages                    = {151-154},
+
+  Doi                      = {10.1109/ICECCO.2013.6718251},
+  Keywords                 = {content management;educational administrative data processing;knowledge management;CMS technologies;academic staff performance management system;administration performance management system;content management system;enterprise knowledge creation;enterprise knowledge management;interactive dynamic system;university management system;Automation;Companies;Content management;Educational institutions;Information management;Instruments;Content Management System (CMS);Enterprise Content Management System and MVC of Ruby;Knowledge Management System}
+}
+
+@InProceedings{Burgess2014,
+  Title                    = {Automatically classifying and interpreting polar datasets with {Apache} {Tika}},
+  Author                   = {Burgess, A.B. and Mattmann, C.A.},
+  Booktitle                = {2014 {IEEE} 15th {International} {Conference} on {Information} {Reuse} and {Integration} ({IRI})},
+  Year                     = {2014},
+  Month                    = aug,
+  Pages                    = {863--867},
+
+  Abstract                 = {The Arctic and Antarctic are undergoing rapid change attributed to the Earth's changing climate. This change is captured via space and airborne remote sensing, in-situ measurement, and climate modeling. Those observations and simulations record data in myriad formats across a number of pertinent data archives funded by NSF, NASA, NOAA, and other federal agencies. Simply finding data may be hard, but we restrict our focus in this paper to the subject of what to do with the data (and metadata) once it is found - the "complexity" portion of the Big Data challenge. We present our current efforts for dealing with the complexity and heterogeneity of Arctic and Antarctic data - Apache Tika. Apache Tika is an open source framework for metadata exploration, automatic text mining, and information retrieval of 1200 of the most widely used data file formats and 20 rich metadata models to go along with those formats. Our current research efforts are targeted at expanding Apache Tika to parse, extract, and analyze common data formats used in Artie and Antarctic research making them more easily accessible, searchable, and retrievable by all major content management systems (Plone, Drupal, Alfresco, etc.). Furthermore, expanding Tika to handle common Polar data formats will also naturally invite the technology/open source community to deal with Polar use cases, helping to draw attention to and increase understanding of these remote regions.},
+  Doi                      = {10.1109/IRI.2014.7051982},
+  File                     = {IEEE Xplore Abstract Record:C\:\\Users\\Thiago\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\2jvv8all.default\\zotero\\storage\\X6KMBXMT\\articleDetails.html:text/html;IEEE Xplore Full Text PDF:C\:\\Users\\Thiago\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\2jvv8all.default\\zotero\\storage\\V4G8TCWA\\Burgess e Mattmann - 2014 - Automatically classifying and interpreting polar d.pdf:application/pdf},
+  Keywords                 = {airborne remote sensing, Antarctic, Antarctica, Apache Tika, Arctic, Big Data, climate change, climate modeling, content management, content management system, data archives, data complexity, data heterogeneity, data mining, geophysics computing, Ice, information retrieval, in-situ measurement, MATLAB, metadata, metadata exploration, metadata models, MIME, NASA, Open Source, pattern classification, Polar, polar dataset classification, polar dataset interpretation, space remote sensing, text mining, Tika},
+  Owner                    = {Thiago},
+  Timestamp                = {2015.05.05}
+}
+
+@InProceedings{card,
+  Title                    = {Practical software measurement},
+  Author                   = {Card, David N.},
+  Booktitle                = {Software Engineering, 2003. Proceedings. 25th International Conference on},
+  Year                     = {2003},
+  Month                    = {May},
+  Pages                    = {738-739},
+
+  Doi                      = {10.1109/ICSE.2003.1201263},
+  ISSN                     = {0270-5257},
+  Keywords                 = {decision making;project management;software engineering;measurement information model;measurement process model;numerical techniques;practical software measurement;Books;Capability maturity model;Decision making;IEC standards;ISO standards;Performance analysis;Performance evaluation;Project management;Software engineering;Software measurement}
+}
+
+@InProceedings{card_jones,
+  Title                    = {Status report: practical software measurement},
+  Author                   = {Card, David N. and Jones, C.L.},
+  Booktitle                = {Quality Software, 2003. Proceedings. Third International Conference on},
+  Year                     = {2003},
+  Month                    = {Nov},
+  Pages                    = {315-320},
+
+  Doi                      = {10.1109/QSIC.2003.1319116},
+  Keywords                 = {Capability Maturity Model;DP industry;software houses;software metrics;software standards;Capability Maturity Model;PSM;international standard;practical software measurement;process management;software industry;Collaboration;Computer industry;Educational institutions;Government;ISO standards;Industrial relations;Information technology;Productivity;Project management;Software measurement}
+}
+
+@InProceedings{Cheng2012,
+  Title                    = {The {Web} {Development} {Based} on the {Drupal} {System}},
+  Author                   = {Cheng, Xiaoli and Wang, Ziniu},
+  Booktitle                = {2012 {Second} {International} {Conference} on {Business} {Computing} and {Global} {Informatization} ({BCGIN})},
+  Year                     = {2012},
+  Month                    = oct,
+  Pages                    = {778--780},
+
+  Abstract                 = {In this paper, we introduce the concepts and features of Content Management System(CMS) - Drupal and then develope the website for a real project under the WAMP ( WIndows + Apache + Mysql + PHP) development environment. Based on the Content Management System - Drupal, we analyze how CMS integrates and actualizes the whole Website.},
+  Doi                      = {10.1109/BCGIN.2012.208},
+  File                     = {IEEE Xplore Abstract Record:C\:\\Users\\Thiago\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\2jvv8all.default\\zotero\\storage\\KK482DXT\\articleDetails.html:text/html;IEEE Xplore Full Text PDF:C\:\\Users\\Thiago\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\2jvv8all.default\\zotero\\storage\\6ECBDPPS\\Cheng e Wang - 2012 - The Web Development Based on the Drupal System.pdf:application/pdf},
+  Keywords                 = {authoring languages, Cascading style sheets, CMS, Communities, content management, content management system, content management system (CMS), Drupal, drupal system-based Web development, Educational institutions, Internet, Layout, Servers, SQL, the PHP, user interfaces, Videos, WAMP, Web site, Web sites, WIndows-Apache-Mysql-PHP development environment},
+  Owner                    = {Thiago},
+  Timestamp                = {2015.05.05}
+}
+
+@Article{coelho2011,
+  Title                    = {O uso do CMS Joomla e suas ferramentas hipertextuais na produ{\c{c}}{\~a}o de sites educativos e de material did{\'a}tico online},
+  Author                   = {Coelho, Marcos Ant{\^o}nio Pereira and de Miranda, Fabiana Aguiar and Azevedo, Jeferson Cabral and Fettermann, Joyce Vieira and Medeiros, Carlos Henrique de Souza and Ribeiro, Daniella Costantini das Chagas},
+  Journal                  = {Texto Livre: Linguagem e Tecnologia},
+  Year                     = {2011},
+  Number                   = {2},
+  Volume                   = {4}
+}
+
+@Book{Conallen,
+  Title                    = {Desenvolvendo aplicações web},
+  Author                   = {Jin Conallen},
+  Editor                   = {Campus},
+  Publisher                = {--},
+  Year                     = {2003},
+
+  Owner                    = {thiago},
+  Timestamp                = {2014.11.02}
+}
+
+@Article{costa,
+  Title                    = {Comparativo de Ferramentas de Criação e Gestão de Web Sites CMS
+(Content Management System)},
+  Author                   = {Lucas Nogueira da Costa and Hugo Eduardo Benicio Caminha and Wellington José Figueiredo de Lima},
+  Journal                  = {Sistemas de Informação \& Gestão de Tecnologia., No 6 (2012)},
+  Year                     = {2012},
+
+  Keywords                 = {CMS (content management system. E-commerce. E-business.},
+  Owner                    = {thiago},
+  Timestamp                = {2014.11.02}
+}
+
+@Book{Cronbach,
+  Title                    = {Coefficient alpha and the internal structure of tests.},
+  Author                   = {L. Cronbach},
+  Editor                   = {Psychometrika},
+  Year                     = {1951},
+  Number                   = {16, 297-37},
+
+  Owner                    = {Thiago},
+  Timestamp                = {2015.06.18}
+}
+
+@MastersThesis{carneiro_2009,
+  Title                    = {ANÁLISE MULTIVARIADA COMO FERRAMENTA DE GERENCIAMENTO DE FORNECEDORES VISANDO UM RELACIONAMENTO COM VANTAGEM COMPETITIVA},
+  Author                   = {Ivane Carneiro da Cruz and Marcos Aurelio Topa},
+  School                   = {Universidade Federal Do Paraná - Bacharelado em Estatística},
+  Year                     = {2009},
+  Type                     = {Monografia},
+
+  Owner                    = {Thiago},
+  Timestamp                = {2015.06.19}
+}
+
+@InProceedings{Cymbalak2012,
+  Title                    = {Advanced solution for delivering educational multimedia content based on content management system},
+  Author                   = {Cymbalak, D. and Jakab, F. and Michalko, M.},
+  Booktitle                = {2012 {IEEE} 10th {International} {Conference} on {Emerging} {eLearning} {Technologies} {Applications} ({ICETA})},
+  Year                     = {2012},
+  Month                    = nov,
+  Pages                    = {67--72},
+
+  Abstract                 = {The paper deals with the design and implementation of solution for delivering multimedia content in form of educational videos, presentations, spreadsheets or other documents. Based on analysis of the state of art streaming technologies it was created the concept of multimedia web portal based on content management system. The overall solution was implemented together with creating custom components, which are interconnecting the abilities of streaming technologies with web interface. In the near future the resulting web portal is going to provide the service of delivery educational content produced by people related to local university.},
+  Doi                      = {10.1109/ICETA.2012.6418622},
+  File                     = {IEEE Xplore Abstract Record:C\:\\Users\\Thiago\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\2jvv8all.default\\zotero\\storage\\K39J5SN3\\articleDetails.html:text/html;IEEE Xplore Full Text PDF:C\:\\Users\\Thiago\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\2jvv8all.default\\zotero\\storage\\KQQQIK6Q\\Cymbalak et al. - 2012 - Advanced solution for delivering educational multi.pdf:application/pdf},
+  Keywords                 = {Browsers, computer aided instruction, content management, content management system, documents, Drupal, educational multimedia content delivery, educational presentation, educational video, e-learning, Media, Multimedia communication, multimedia systems, multimedia Web portal concept, Portals, Servers, spreadsheets, Streaming, Streaming media, streaming technology, university, Videos, VOD, Web interface},
+  Owner                    = {Thiago},
+  Timestamp                = {2015.05.05}
+}
+
+@PhdThesis{cysneiros_tese,
+  Title                    = {Requisitos Não Funcionais: Da Elicitação ao Modelo Conceitual},
+  Author                   = {Luiz Marcio Cysneiros},
+  School                   = {DEPARTAMENTO DE INFORMÁTICA -PONTIFÍCIA UNIVERSIDADE CATÓLICA DO RIO DE JANEIRO},
+  Year                     = {2001},
+
+  Owner                    = {thiago},
+  Timestamp                = {2014.11.05}
+}
+
+@Article{cysneiros97,
+  Title                    = {Definindo requisitos n{\~a}o funcionais},
+  Author                   = {Cysneiros, Luiz Mareio and Leite, JCSP},
+  Journal                  = {XI Simp{\'o}sio Brasileiro de Engenharia de Software. Fortaleza, CE},
+  Year                     = {1997}
+}
+
+@Article{DAMASIO2012,
+  Title                    = {{Uso da análise fatorial exploratória em psicologia}},
+  Author                   = {Damásio, Bruno Figueiredo},
+  Journal                  = {{Avaliação Psicológica}},
+  Year                     = {2012},
+
+  Month                    = {08},
+  Pages                    = {213 - 228},
+  Volume                   = {11},
+
+  ISSN                     = {1677-0471},
+  Language                 = {pt},
+  Publisher                = {scielopepsic},
+  Url                      = {http://pepsic.bvsalud.org/scielo.php?script=sci_arttext&pid=S1677-04712012000200007&nrm=iso}
+}
+
+@Book{dancey,
+  Title                    = {Estátística sem Matemática para Psicologia - Usando o SPSS para Windows},
+  Author                   = {Christine P. Dancey and John Reidy},
+  Editor                   = {Artmad, Bookman},
+  Publisher                = {tradução Lorí Viali. - Porto Alegre:},
+  Year                     = {2006},
+  Edition                  = {3ª edição},
+
+  Owner                    = {Thiago},
+  Timestamp                = {2015.06.20}
+}
+
+@Article{DeBortoli,
+  Title                    = {Um M{\'e}todo de Trabalho para Auxiliar a Defini{\c{c}}{\~a}o de requisitos},
+  Author                   = {De Bortoli, Lis Angela},
+  Year                     = {1999}
+}
+
+@InProceedings{Distante2010,
+  Title                    = {Extending web content management systems navigation capabilities with semantic navigation maps},
+  Author                   = {Distante, D. and Risi, M. and Scanniello, G.},
+  Booktitle                = {2010 12th {IEEE} {International} {Symposium} on {Web} {Systems} {Evolution} ({WSE})},
+  Year                     = {2010},
+  Month                    = sep,
+  Pages                    = {1--5},
+
+  Abstract                 = {This paper presents an automatic approach built on information retrieval and clustering techniques to enhance the navigation capabilities of modern Web Content Management Systems (WCMSs). The approach uses Latent Semantic Indexing to discover correlations between the contents published through these systems, and a fuzzy clustering algorithm to form groups of related contents. For each page of the developed website, a set of navigation links towards pages showing similar or related content and a measure of such similarity is proposed. An implementation of the approach for the Joomla! Open Source WCMS and the results from a case study on a real world website are also presented.},
+  Doi                      = {10.1109/WSE.2010.6224336},
+  File                     = {IEEE Xplore Abstract Record:C\:\\Users\\Thiago\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\2jvv8all.default\\zotero\\storage\\N5NQKFG2\\abs_all.html:text/html;IEEE Xplore Full Text PDF:C\:\\Users\\Thiago\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\2jvv8all.default\\zotero\\storage\\G48QMI6I\\Distante et al. - 2010 - Extending web content management systems navigatio.pdf:application/pdf},
+  Keywords                 = {Clustering, Joomla!, Latent Semantic Indexing, Navigation Structure, Semantic Navigation Maps, Web content management systems},
+  Owner                    = {Thiago},
+  Timestamp                = {2015.05.05}
+}
+
+@InProceedings{Dorosh2009,
+  Title                    = {Designing of e-commerce system by {CMS} {Joomla} software},
+  Author                   = {Dorosh, O. and Kuchmij, N.},
+  Booktitle                = {10th {International} {Conference} - {The} {Experience} of {Designing} and {Application} of {CAD} {Systems} in {Microelectronics}, 2009. {CADSM} 2009},
+  Year                     = {2009},
+  Month                    = feb,
+  Pages                    = {400--400},
+
+  Abstract                 = {In this paper the methods of electronics shop designing by CMS Joomla software are given.},
+  Keywords                 = {Blogs, CMS Joomla software, Collision mitigation, content management, content management system, Discussion forums, e-comerce, e-commerce system, electronic commerce, Internet, Joomla, Operating systems, Portals, Software, Software packages, Sun},
+  Owner                    = {Thiago},
+  Timestamp                = {2015.05.05}
+}
+
+@Article{DosSantos,
+  Title                    = {Web Mining Minera{\c{c}}{\~a}o de dados na Web utilizando CMS},
+  Author                   = {Dos Santos, Emanuel},
+  Year                     = {2013},
+
+  Publisher                = {Universidade Jean Piaget de Cabo Verde}
+}
+
+@Article{Duchessi_98,
+  Title                    = {Client/Server Benefits, Problems, Best Practices},
+  Author                   = {Duchessi, Peter and Chengalur-Smith, InduShobha},
+  Journal                  = {Commun. ACM},
+  Year                     = {1998},
+
+  Month                    = may,
+  Number                   = {5},
+  Pages                    = {87--94},
+  Volume                   = {41},
+
+  Acmid                    = {274961},
+  Address                  = {New York, NY, USA},
+  Doi                      = {10.1145/274946.274961},
+  ISSN                     = {0001-0782},
+  Issue_date               = {May 1998},
+  Numpages                 = {8},
+  Publisher                = {ACM},
+  Url                      = {http://doi.acm.org/10.1145/274946.274961}
+}
+
+@InProceedings{Ennert2012,
+  Title                    = {Optimization model of management and security of multimedia content using {Drupal} {CMS}},
+  Author                   = {Ennert, M. and Cajkovsky, M. and Adam, N.},
+  Booktitle                = {2012 {IEEE} 10th {International} {Symposium} on {Applied} {Machine} {Intelligence} and {Informatics} ({SAMI})},
+  Year                     = {2012},
+  Month                    = jan,
+  Pages                    = {289--293},
+
+  Abstract                 = {Increase of computing power and network bandwidth has opened new possibilities for using media on internet. The amount of used multimedia has increased automatically several times. Effective management and security of multimedia content is current issue, because it is no rarity to manage and share terabytes of multimedia content on websites nowadays. This paper deals with the proposal of model, which would meet demanding requirements for efficient and safe management of large amounts of media content on the websites. The first step is to analyse existing solutions, compare their features and functions. Nowadays, there are several well-known portal solutions for viewing, sharing, cataloguing and managing of the media content that stand at the forefront of their use thanks to their specific functions and uniqueness. The second step is to analyse the ability to manage content and files and their security in content management system (CMS). The final solution is connection of first and second steps into one unit and creation a model to optimize security and management of multimedia content in CMS Drupal. Results of work are supported by creating a functional prototype of website, which was created during a research phase of this article.},
+  Doi                      = {10.1109/SAMI.2012.6208975},
+  File                     = {IEEE Xplore Abstract Record:C\:\\Users\\Thiago\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\2jvv8all.default\\zotero\\storage\\3NNKEZJW\\articleDetails.html:text/html},
+  Keywords                 = {cataloguing, CMS, computing power, content management, content management system, Drupal, Drupal CMS, functional prototype, Internet, management, Media, media content cataloguing, media content sharing, multimedia, Multimedia communication, multimedia computing, multimedia content management system, multimedia content security, network bandwidth, optimisation, Optimization, optimization model, Portals, portal solutions, Security, security of data, Streaming media, Web sites},
+  Owner                    = {Thiago},
+  Timestamp                = {2015.05.05}
+}
+
+@Book{Fenton,
+  Title                    = {“Software metrics – A rigorous approach”},
+  Author                   = {Norman E. Fenton and Shari L. Pflegeer},
+  Editor                   = {PWS},
+  Publisher                = {Publishing Company},
+  Year                     = {1997},
+
+  Owner                    = {thiago},
+  Timestamp                = {2014.11.07}
+}
+
+@Article{figueiredo2010,
+  Title                    = {Vis{\~a}o al{\'e}m do alcance: uma introdu{\c{c}}{\~a}o {\`a} an{\'a}lise fatorial},
+  Author                   = {Figueiredo Filho, Dalson Brito and Silva J{\'u}nior, Jos{\'e} Alexandre da},
+  Journal                  = {Opini{\~a}o P{\'u}blica},
+  Year                     = {2010},
+  Number                   = {1},
+  Pages                    = {160--185},
+  Volume                   = {16},
+
+  Publisher                = {Universidade Estadual de Campinas}
+}
+
+@InProceedings{gadja,
+  Title                    = {Building computer system for musical school with {CSM} {Plone}},
+  Author                   = {Gajdka, K. and Zabierowski, W. and Napieralski, Andrzej},
+  Booktitle                = {2008 {Proceedings} of {International} {Conference} on {Modern} {Problems} of {Radio} {Engineering}, {Telecommunications} and {Computer} {Science}},
+  Year                     = {2008},
+  Month                    = feb,
+  Pages                    = {582--584},
+
+  Abstract                 = {In this document usage of CMS Plone system for building computing system in musical school was described.},
+  File                     = {IEEE Xplore Abstract Record:/home/thiago/.mozilla/firefox/ap5o0awu.default/zotero/storage/UBTV2XKF/icp.html:text/html},
+  Keywords                 = {building computing system, CMS, computer aided instruction, computing system, content management, content management system, CSM Plone system, music, musical school, Plone},
+  Owner                    = {Thiago},
+  Timestamp                = {2015.05.05}
+}
+
+@InProceedings{Galster2013,
+  Title                    = {Exploring possibilities to analyse microblogs for dependability information in variability-intensive open source software systems},
+  Author                   = {Galster, M. and Tofan, D.},
+  Booktitle                = {2013 {IEEE} {International} {Symposium} on {Software} {Reliability} {Engineering} {Workshops} ({ISSREW})},
+  Year                     = {2013},
+  Month                    = nov,
+  Pages                    = {321--325},
+
+  Abstract                 = {Many open source software systems are variability-intensive because they are frequently adapted to different customer needs or deployment environments. Variability in these systems not only occurs in functionality, but also in quality attributes (e.g., security, reliability, dependability). Furthermore, variability in functionality and variability in quality attributes affect each other. Recently, open source communities have adopted microblogging to document and share software engineering knowledge. Microblogging dissolves boundaries between developers and other stakeholders (e.g., end users). This facilitates the involvement of many different non-technical stakeholders in the software development process. In this paper, we investigate the feasibility and suitability of utilizing microblogs to identify and analyze dependability information about open source software systems. We use the example of the currently most popular microblogging infrastructure (Twitter) and a widely used open source content management system (Drupal). Our results indicate that even though open source communities frequently share information on Twitter, challenges exist for extracting and analyzing dependability information. Furthermore, a better understanding is needed to describe the relation between issues reported by user communities in microblogs, and issues and actions documented by developer communities in change logs and release information.},
+  Doi                      = {10.1109/ISSREW.2013.6688914},
+  File                     = {IEEE Xplore Abstract Record:C\:\\Users\\Thiago\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\2jvv8all.default\\zotero\\storage\\6KDQUG24\\icp.html:text/html},
+  Keywords                 = {Communities, content management, dependability, dependability information, Drupal, Media, microblogging, open source content management system, Open source software, public domain software, quality attribute, reliabiltiy, Security, social networking (online), software development process, software engineering, software engineering knowledge, software quality, software reliability, Twitter, variability, variability-intensive open source software system},
+  Owner                    = {Thiago},
+  Timestamp                = {2015.05.05}
+}
+
+@InProceedings{Giannopoulou2014,
+  Title                    = {A {Semantic} {Web} {Approach} in the {Implementation} of a {Linked} {Data} {Portal} {Using} a {CMS}},
+  Author                   = {Giannopoulou, E. and Mitrou, N. and Chimos, K. and Karvounidis, T. and Douligeris, C.},
+  Booktitle                = {2014 {Tenth} {International} {Conference} on {Signal}-{Image} {Technology} and {Internet}-{Based} {Systems} ({SITIS})},
+  Year                     = {2014},
+  Month                    = nov,
+  Pages                    = {164--171},
+
+  Abstract                 = {In this work, a semantic web framework is proposed. The aim of the framework is to semantically process and link data from different sources. The proposed framework embeds multiple entry channels for different target groups and motivations to re-use, report, comment and share content. The implementation is built on top of a Content Management System. In this approach we are using Drupal but any other CMS can be used alternatively. Even though in our paradigm the sources are mainly from an institution's data, namely National Technical University of Athens (NTUA) digital library, the utilization of the proposed architecture can be directly extended to additional fields.},
+  Doi                      = {10.1109/SITIS.2014.103},
+  File                     = {IEEE Xplore Abstract Record:C\:\\Users\\Thiago\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\2jvv8all.default\\zotero\\storage\\RTRTGZ6H\\articleDetails.html:text/html;IEEE Xplore Full Text PDF:C\:\\Users\\Thiago\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\2jvv8all.default\\zotero\\storage\\BES2ZZDV\\Giannopoulou et al. - 2014 - A Semantic Web Approach in the Implementation of a.pdf:application/pdf},
+  Keywords                 = {CMS, content comment, content management, content management system, content report, content reuse, content sharing, Drupal, framework, link data processing, linked data, linked data portal, National Technical University of Athens digital library, NTUA digital library, Ontologies, Organizations, portal, Portals, Resource description framework, Semantics, Semantic Web, Standards organizations},
+  Owner                    = {Thiago},
+  Timestamp                = {2015.05.05}
+}
+
+@InProceedings{Giouvanakis2013,
+  Title                    = {A game with a purpose for annotating {Greek} folk music in a web content management system},
+  Author                   = {Giouvanakis, E. and Kotropoulos, C. and Theodoridis, A. and Pitas, I.},
+  Booktitle                = {2013 18th {International} {Conference} on {Digital} {Signal} {Processing} ({DSP})},
+  Year                     = {2013},
+  Month                    = jul,
+  Pages                    = {1--6},
+
+  Abstract                 = {A web content management system (Web CMS) has been developed to host a corpus of 405 folk songs for media sharing. It is based on Drupal 7. Exploring various modules, the system offers multiple functionalities, including user registration, layered information about each song in different pages, similar content search, friendship relationships between the registered users, favorite lists, etc. Users can visit song pages, listen to the songs, and provide feedback. In addition to the Web CMS, a game with a purpose (GWAP), called Erasitechnis GWAP, has been designed and deployed on Facebook as an enjoyable way encouraging users to enroll and provide music annotations. Erasitechnis GWAP is a combined approach of existing games with a purpose, which focuses on tagging Greek folk music promoting less frequent tags. By doing so, descriptive tags are collected enabling the creation of a fully annotated dataset, which is exploited to train recommendation or autotagging systems.},
+  Doi                      = {10.1109/ICDSP.2013.6622715},
+  File                     = {IEEE Xplore Abstract Record:C\:\\Users\\Thiago\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\2jvv8all.default\\zotero\\storage\\WJ86XBIC\\icp.html:text/html},
+  Keywords                 = {autotagging system, computational ethnomusicology, computer games, content management, content search, Databases, descriptive tags, Drupal 7, Erasitechnis GWAP, Facebook, folk songs, friendship relationships, Games, games with a purpose, game with a purpose, Greek folk music annotation, Greek folk music tagging, Internet, layered information, media sharing, Multimedia communication, music, music annotations, recommendation system, recommender systems, Tagging, user registration, Vectors, Web CMS, Web content management system, Web content management systems},
+  Owner                    = {Thiago},
+  Timestamp                = {2015.05.05}
+}
+
+@Book{Hair,
+  Title                    = {Multivariate Data Analysis.},
+  Author                   = {Jr. Hair and W. C. Black and B. J Babin, and R. E Anderson and R. L Tatham.},
+  Editor                   = {Pearson Prentice Hall},
+  Publisher                = {Upper Saddle River, NJ},
+  Year                     = {2006},
+  Number                   = {6ª edição.},
+
+  Owner                    = {Thiago},
+  Timestamp                = {2015.06.19}
+}
+
+@InProceedings{hamid,
+  Title                    = {Industrial-based object-oriented software quality measurement system and its importance},
+  Author                   = {Hamid, N.F.I.A. and Hasan, M.K.},
+  Booktitle                = {Information Technology (ITSim), 2010 International Symposium in},
+  Year                     = {2010},
+  Month                    = {June},
+  Pages                    = {1332-1336},
+  Volume                   = {3},
+
+  Doi                      = {10.1109/ITSIM.2010.5561639},
+  ISSN                     = {2155-897},
+  Keywords                 = {DP industry;object-oriented methods;software metrics;software quality;ICT world;computer related company;industrial-based object-oriented software quality measurement system;multimedia super corridor;software industry;Decision support systems;Helium;Software measurement;Software quality;Industrialbased Software;Multimedia Super Corridor;Object-oriente;Software Quality;Software Quality Measurement;Software Quality Measurement System}
+}
+
+@InProceedings{Hanlon2010,
+  Title                    = {My-{Plant}.org: {A} phylogenetically structured social network},
+  Author                   = {Hanlon, M.R. and Mock, S. and Nuthulapati, P. and Gonzales, M.B. and Soltis, P. and Soltis, D. and Majure, L.C. and Payton, A. and Mishler, B. and Tremblay, S. and Madsen, T. and Olmstead, R. and McCourt, R. and Wojciechowski, M. and Merchant, N.},
+  Booktitle                = {Gateway {Computing} {Environments} {Workshop} ({GCE}), 2010},
+  Year                     = {2010},
+  Month                    = nov,
+  Pages                    = {1--8},
+
+  Abstract                 = {My-Plant.org (My-Plant) is a social networking portal for the Plant Sciences community. As part of the iPlant Collaborative, My-Plant is charged with the goal of bringing together scientists, students, educators, and other interested parties by providing a new approach to connecting with others in the plant sciences thereby helping to spark new collaborations and communication among them. Many social networking sites exist where users can form groups and communicate, but the group structure is flat and has no inherent interconnectivity. My-Plant connects users via branches (called clades) of the phylogenetic tree of green plants, thus creating a unique, phylogenetically based social network structure. My-Plant users can join clades at any level of the tree and collaborate with other users interested in these clades. My-Plant is built upon the Drupal open source content management system. This paper discusses My-Plant in detail, its concept and contributions to the iPlant Collaborative, its implementation details, and its efforts to become an information hub for the plant sciences community. In addition, the paper focuses on some of the technology challenges, lessons learned, and future work of My-Plant.},
+  Doi                      = {10.1109/GCE.2010.5676118},
+  File                     = {IEEE Xplore Abstract Record:C\:\\Users\\Thiago\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\2jvv8all.default\\zotero\\storage\\Z8CRIT99\\articleDetails.html:text/html;IEEE Xplore Full Text PDF:C\:\\Users\\Thiago\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\2jvv8all.default\\zotero\\storage\\CJX8E5F3\\Hanlon et al. - 2010 - My-Plant.org A phylogenetically structured social.pdf:application/pdf},
+  Keywords                 = {biology, botany, Collaboration, Communities, Drupal, Drupal open source content management system, Feeds, green plants, Internet, iPlant collaborative, molecular evolution, My-Plant, My-Plant.org, phylogenetically structured social network, phylogenetics, Phylogeny, Plants (biology), plant sciences, plant sciences community, Portals, social networking, social networking (online), social networking portal, social networking sites, Social network services, Web 2.0},
+  Owner                    = {Thiago},
+  Shorttitle               = {My-{Plant}.org},
+  Timestamp                = {2015.05.05}
+}
+
+@InProceedings{Hetka2009,
+  Title                    = {The development of a new branch of the economy: e-commerce. {Practical} use with {Content} {Management} {Systems} {Joomla}! and enlargement {VirtueMart}},
+  Author                   = {Hetka, P. and Zabierowski, W. and Napieralski, A.},
+  Booktitle                = {10th {International} {Conference} - {The} {Experience} of {Designing} and {Application} of {CAD} {Systems} in {Microelectronics}, 2009. {CADSM} 2009},
+  Year                     = {2009},
+  Month                    = feb,
+  Pages                    = {413--419},
+
+  Abstract                 = {Initiating of the new branch of the economy, which is the e-commerce, even in small company is nowadays not so hard. Administrate becomes even more and more easier. Nowadays the quantity of computers with the access to the Internet increases very fast, the same as the numbers of potential customers, who are interest with the virtual market.},
+  File                     = {IEEE Xplore Abstract Record:C\:\\Users\\Thiago\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\2jvv8all.default\\zotero\\storage\\TIURGBEK\\icp.html:text/html},
+  Keywords                 = {Business, Computer science, content management, content management systems, Content Managmet System, e-commerce, Economics, electronic commerce, Finishing, Indexing, Internet, Joomla, Joomla!, Marketing and sales, Microelectronics, online shopping, retailing, Strategy, virtual market, VirtueMart},
+  Owner                    = {Thiago},
+  Shorttitle               = {The development of a new branch of the economy},
+  Timestamp                = {2015.05.05}
+}
+
+@InProceedings{Meusel_2008,
+  Title                    = {Infrastructure for web-based administration of embedded systems},
+  Author                   = {Hochberger, C. and Meusel, C.},
+  Booktitle                = {Industrial Embedded Systems, 2008. SIES 2008. International Symposium on},
+  Year                     = {2008},
+  Month                    = {June},
+  Pages                    = {67-73},
+
+  Doi                      = {10.1109/SIES.2008.4577682},
+  Keywords                 = {Internet;embedded systems;network interfaces;system monitoring;Web based management;Web developer;Web-based administration;document structure;dynamically generated pages;embedded systems;network interfaces;Embedded system;HTML;Java;Network interfaces;Operating systems;Read only memory;Read-write memory;Web pages;Web server;Writing}
+}
+
+@InProceedings{Iliev2013,
+  Title                    = {Realization of electronic textbook by means of {Drupal} {Content} {Management} {System}},
+  Author                   = {Iliev, I.T. and Vasileva, S.Z.},
+  Booktitle                = {2013 {Second} {International} {Conference} on e-{Learning} and e-{Technologies} in {Education} ({ICEEE})},
+  Year                     = {2013},
+  Month                    = sep,
+  Pages                    = {266--272},
+
+  Abstract                 = {The Content management systems (CMS) automate and facilitate the process of adding and modifying the contents of the Web sites, organization, control and publication of a large number of documents and other content, such as images and multimedia resources. This makes the Content Management Systems attractive for specialists in various fields of human activity who want to publish on the Internet, but have little knowledge in computer programming and web-programming in particular. The article considers some opportunities provided by CMS Drupal for designing and making electronic textbooks. It views an example of electronic textbook on Spreadsheets.},
+  Doi                      = {10.1109/ICeLeTE.2013.6644386},
+  File                     = {IEEE Xplore Abstract Record:C\:\\Users\\Thiago\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\2jvv8all.default\\zotero\\storage\\RMGZFR4M\\icp.html:text/html},
+  Keywords                 = {Automation, CMS, content management, content management system, document control, document organization, Drupal content management system, Educational institutions, electronic textbook, image resources, Internet, Maintenance engineering, Materials, modules, multimedia resources, Navigation, publication, spreadsheets, tests, Web sites},
+  Owner                    = {Thiago},
+  Timestamp                = {2015.05.05}
+}
+
+@Misc{Imperva,
+  Title                    = {Cookie Poisoning},
+
+  Author                   = {IMPERVA},
+  Month                    = {May},
+  Year                     = {2015},
+
+  Owner                    = {Thiago},
+  Timestamp                = {2015.06.22},
+  Url                      = {http://www.imperva.com/Resources/Glossary?term=cookie_poisoning},
+  Urlaccessdate            = {13 May. 2015}
+}
+
+@Book{iso_15939,
+  Title                    = {Software Engineering - Software Measurement Process},
+  Author                   = {ISO/IEC-15939},
+  Publisher                = {ISO/IEC},
+  Year                     = {2007},
+
+  Owner                    = {Thiago},
+  Timestamp                = {2015.05.29}
+}
+
+@Book{iso_25000,
+  Title                    = {Software engineering — Software product Quality Requirements and Evaluation (SQuaRE) — Guide to SQuaRE},
+  Author                   = {ISO/IEC-25000},
+  Publisher                = {ISO/IEC},
+  Year                     = {2005},
+
+  Owner                    = {Thiago},
+  Timestamp                = {2015.05.29}
+}
+
+@Book{iso_25010,
+  Title                    = {Systems and software engineering — Systems and software Quality Requirements and Evaluation (SQuaRE) — System and software quality models},
+  Author                   = {ISO/IEC-25010},
+  Publisher                = {ISO/IEC},
+  Year                     = {2011},
+
+  Owner                    = {Thiago},
+  Timestamp                = {2015.05.29}
+}
+
+@Book{iso_25022,
+  Title                    = {Systems and software engineering - Systems and software Quality Requirements and Evaluation (SQuaRE) – Measurement of quality in use},
+  Author                   = {ISO/IEC-25022},
+  Publisher                = {ISO/IEC},
+  Year                     = {2012},
+
+  Owner                    = {Thiago},
+  Timestamp                = {2015.05.29}
+}
+
+@Book{iso_25023,
+  Title                    = {Systems and software engineering – Systems and software Quality Requirements and Evaluation (SQuaRE) – Measurement of system and software product quality},
+  Author                   = {ISO/IEC-25023},
+  Publisher                = {ISO/IEC},
+  Year                     = {2011},
+
+  Owner                    = {Thiago},
+  Timestamp                = {2015.05.29}
+}
+
+@Book{Nbr_9126,
+  Title                    = {NBR ISO/IEC 9126. Engenharia de Software - Qualidade de Produto. Parte 1},
+  Author                   = {NBR-ISO/IEC-9126},
+  Publisher                = {NBR ISO/IEC},
+  Year                     = {2003}
+}
+
+@InProceedings{Jinwei2010,
+  Title                    = {A {Multi}-sites {Scheme} {Based} on {Open} {Source} {CMS}, {Drupal}},
+  Author                   = {Jinwei, Fu and Jianhong, Sun and Haicheng, Xu},
+  Booktitle                = {2010 {Second} {International} {Conference} on {Multimedia} and {Information} {Technology} ({MMIT})},
+  Year                     = {2010},
+  Month                    = apr,
+  Pages                    = {239--241},
+  Volume                   = {2},
+
+  Abstract                 = {In this paper, a multi-sites scheme will be proposed which with many wonderful characters: dynamic, cost-effective, efficient and Single Sign-On. The proposed scheme can be used in universities and government which usually need more than one website to support service. In the multi-sites system, resources will be sharing between every sub-site and the management of every sub-site will be relatively independent. As a solution to update websites group serving method, the proposed scheme will not only save time, but also can save money. This scheme is designed based on the open source content management system, Drupal.},
+  Doi                      = {10.1109/MMIT.2010.68},
+  File                     = {IEEE Xplore Full Text PDF:C\:\\Users\\Thiago\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\2jvv8all.default\\zotero\\storage\\96FJJT3B\\Jinwei et al. - 2010 - A Multi-sites Scheme Based on Open Source CMS, Dru.pdf:application/pdf},
+  Keywords                 = {Collision mitigation, content management, content management system, cost effective, Educational institutions, Electronic mail, Government, Image databases, Information technology, Libraries, multisites scheme, open source CMS, public domain software, Resource management, Sun, Web sites, websites group serving method},
+  Owner                    = {Thiago},
+  Timestamp                = {2015.05.05}
+}
+
+@InProceedings{Jiugen2012,
+  Title                    = {Construction of education application platform based on {Plone} content management system},
+  Author                   = {Jiugen, Yuan and Ruonan, Xing and Qi, Wang},
+  Booktitle                = {2012 7th {International} {Conference} on {Computer} {Science} {Education} ({ICCSE})},
+  Year                     = {2012},
+  Month                    = jul,
+  Pages                    = {513--516},
+
+  __markedentry            = {[Thiago:6]},
+  Abstract                 = {The Zope/Plone technology applied in educational fields, it not only provided an easily used Web2.0 application system, but also benefit for student's study, overall quality development and teacher's self-development. This article firstly defined two concepts: content management system and the Plone, then introduced installation process of Plone, finally introduced how to build educational application platform with Plone. It provided a simple choice to build general teaching platform for expert in education field.},
+  Doi                      = {10.1109/ICCSE.2012.6295126},
+  File                     = {IEEE Xplore Abstract Record:C\:\\Users\\Thiago\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\2jvv8all.default\\zotero\\storage\\J6QWP9P7\\articleDetails.html:text/html;IEEE Xplore Full Text PDF:C\:\\Users\\Thiago\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\2jvv8all.default\\zotero\\storage\\55VZ9E9D\\Jiugen et al. - 2012 - Construction of education application platform bas.pdf:application/pdf},
+  Keywords                 = {Blogs, Browsers, Calendars, computer aided instruction, content management, content management system, distance learning, educational fields, Educational institutions, education application platform, education website, Internet, Open Source, Open source software, plone, plone content management system, Plone installation process, quality development, student study, teacher self-development, teaching, teaching platform, Web2.0 application, Zope-Plone technology},
+  Owner                    = {Thiago},
+  Timestamp                = {2015.05.07}
+}
+
+@Book{Jones,
+  Title                    = {Applied Software Measurement: Global Analysis of Productivity and Quality},
+  Author                   = {C. Jones},
+  Editor                   = {Mc Graw Hill},
+  Publisher                = {New York:},
+  Year                     = {2008},
+  Edition                  = {3rd},
+
+  Owner                    = {thiago},
+  Timestamp                = {2014.11.07}
+}
+
+@Article{jones_2011,
+  Title                    = {{WordPress} as library {CMS}: free and open source technology to enhance your library's web presence.({Dispatches} from the {Field})},
+  Author                   = {Jones, Kyle M. L. and Farrington, Polly-Alida},
+  Journal                  = {American Libraries},
+  Year                     = {2011},
+  Number                   = {5 6},
+  Pages                    = {34},
+  Volume                   = {42},
+
+  ISSN                     = {0002-9769},
+  Keywords                 = {1USA, Company marketing practices, Open source software, Open source software--Usage, Public services (Libraries)--Marketing, Public services (Libraries)--Technology application, Technology application, United States, Web site management software, Web site management software--Usage},
+  Language                 = {English},
+  Owner                    = {Thiago},
+  Shorttitle               = {{WordPress} as library {CMS}},
+  Timestamp                = {2015.05.05}
+}
+
+@PhdThesis{junior_2003,
+  Title                    = {Sistemas de informação baseados na tecnologia web: um estudo sobre seu desenvolvimento.},
+  Author                   = {Zaneti Junior and Luiz Antônio},
+  School                   = {Universidade de São Paulo},
+  Year                     = {2003},
+  Type                     = {Doutorado}
+}
+
+@Book{Kan,
+  Title                    = {Metrics and Models in Software Quality Engineering},
+  Author                   = {S.H. Kan},
+  Editor                   = {Addison Wesley},
+  Year                     = {2002},
+  Edition                  = {2nd},
+
+  Owner                    = {thiago},
+  Timestamp                = {2014.11.07}
+}
+
+@Article{Karels,
+  Title                    = {Commercializing Open Source Software},
+  Author                   = {Karels, Michael J.},
+  Journal                  = {Queue},
+  Year                     = {2003},
+
+  Month                    = jul,
+  Number                   = {5},
+  Pages                    = {40:46--40:55},
+  Volume                   = {1},
+
+  Acmid                    = {945125},
+  Address                  = {New York, NY, USA},
+  Articleno                = {40},
+  Doi                      = {10.1145/945074.945125},
+  ISSN                     = {1542-7730},
+  Issue_date               = {July/August 2003},
+  Numpages                 = {10},
+  Publisher                = {ACM},
+  Url                      = {http://doi.acm.org/10.1145/945074.945125}
+}
+
+@InProceedings{Kiatruangkrai2010,
+  Title                    = {Design and {Development} of {Real}-{Time} {Communication} {Content} {Management} {System} for {E}-{Commerce}},
+  Author                   = {Kiatruangkrai, P. and Phusayangkul, P. and Viniyakul, S. and Prompoon, N. and Kanongchaiyos, P.},
+  Booktitle                = {2010 {Second} {International} {Symposium} on {Data}, {Privacy} and {E}-{Commerce} ({ISDPE})},
+  Year                     = {2010},
+  Month                    = sep,
+  Pages                    = {111--116},
+
+  __markedentry            = {[Thiago:6]},
+  Abstract                 = {E-commerce is very efficient and effective, but it needs programming knowledge to create and manage. Many small organizations do not have human resource for this task and cannot support cost for hiring programmers. Thus, many application providers create content management system applications to enable the e-commerce website to be created and managed through friendly user interface. However, existing content management system applications for e-commerce is lack of real-time communication feature, even it is an important feature for e-commerce. Although e-commerce feature can be manually coded and added, lack of programming knowledge problem occurs. Therefore, this project solve this problem by designing and developing content management system for ecommerce which concentrated on real-time communication feature using instant messaging and short message sending. It covers e-commerce feature and content management system feature. The system is divided into two styles, front office and back office style and seven subsystems. It is developed using HTMP, CSS, and PHP language along with Ajax technique. This system is tested by ten subjects.},
+  Doi                      = {10.1109/ISDPE.2010.24},
+  File                     = {IEEE Xplore Abstract Record:C\:\\Users\\Thiago\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\2jvv8all.default\\zotero\\storage\\DB8248J4\\articleDetails.html:text/html;IEEE Xplore Full Text PDF:C\:\\Users\\Thiago\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\2jvv8all.default\\zotero\\storage\\SK46W8RF\\Kiatruangkrai et al. - 2010 - Design and Development of Real-Time Communication .pdf:application/pdf},
+  Keywords                 = {content management, content management system, Databases, e-commerce website, electronic commerce, hiring programmers, human resource, Instant Message, Programming, programming knowledge, programming knowledge problem, Real-Time Communication, real-time communication content management system, Real time systems, real-time systems, Short Message Service, Software, Testing},
+  Owner                    = {Thiago},
+  Timestamp                = {2015.05.07}
+}
+
+@MastersThesis{Koloski,
+  Title                    = {Melhoria Contínua de Estimativa de Esforço para o Desenvolvimento de Software: Uma Abordagem sobre Produtividade},
+  Author                   = {Ricardo Ajax Dias Kosloski},
+  School                   = {UNIVERSIDADE CATÓLICA DE BRASÍLIA},
+  Year                     = {2005},
+
+  Owner                    = {thiago},
+  Timestamp                = {2014.11.07}
+}
+
+@Book{kotonya,
+  Title                    = {“Requirements Engineering: Process and Techniques”},
+  Author                   = {G. KOTONYA and I. SOMMERVILLE},
+  Editor                   = {Wiley},
+  Year                     = {1998},
+  Volume                   = {1ª Edição},
+
+  Owner                    = {thiago},
+  Timestamp                = {2014.11.04}
+}
+
+@InProceedings{Kumar2014,
+  Title                    = {Security in {Drupal}},
+  Author                   = {Kumar, B.},
+  Booktitle                = {2014 3rd {International} {Conference} on {Reliability}, {Infocom} {Technologies} and {Optimization} ({ICRITO}) ({Trends} and {Future} {Directions})},
+  Year                     = {2014},
+  Month                    = oct,
+  Pages                    = {1--1},
+
+  Abstract                 = {If a person or team is not coding friendly, and want to rapidly design and deploy a web based application with dynamic contents, a free and open source software (FOSS) based content based Content Management System(CMS) is choice of millions. The main advantage in using a CMS is that the contents to can be segregated from the design for the application. The content goes to database and design, in the form of template is stored in CSS. Availability of free design templates makes a CMS more attractive. There are many advantages of using a cms including rapid deployment, lower maintenance cost, flexible architecture, large community support and above and free and open source, which can be customized as per requirements. However these advantages comes at a price. And this price includes susceptibility to security issues. According to Javelin Strategy \& Research, 11.1 million adults were victims of identity theft in 2009, for a total fraud amount of \$54 billion. With security at the forefront of your mind, remember that an open source system is just that...open to everyone. The FOSS based CMS includes vulnerability to file inclusion, Cross site scripting, gain privileges, sql injections, misconfiguration, unsecured storage, invalidated redirects. The presentation discusses these security issues and ways to avoid them.},
+  Doi                      = {10.1109/ICRITO.2014.7014663},
+  File                     = {IEEE Xplore Abstract Record:C\:\\Users\\Thiago\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\2jvv8all.default\\zotero\\storage\\HRUAD7C8\\abs_all.html:text/html;IEEE Xplore Full Text PDF:C\:\\Users\\Thiago\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\2jvv8all.default\\zotero\\storage\\ECMZC7SA\\Kumar - 2014 - Security in Drupal.pdf:application/pdf},
+  Keywords                 = {content management, cross site scripting, CSS, Drupal, file inclusion, FOSS-based CMS, FOSS-based content management system, fraud, free and open source software, free design templates, identity theft, Internet, invalidated redirects, public domain software, security issues, security of data, SQL injections, unsecured storage, Web based application, Web design},
+  Owner                    = {Thiago},
+  Timestamp                = {2015.05.05}
+}
+
+@InProceedings{Larrinaga2011,
+  Title                    = {A case study on the use of community platforms for inter-enterprise innovation},
+  Author                   = {Larrinaga, F. and Santos, I. and Lizarralde, O. and Perez, A.},
+  Booktitle                = {2011 17th {International} {Conference} on {Concurrent} {Enterprising} ({ICE})},
+  Year                     = {2011},
+  Month                    = jun,
+  Pages                    = {1--8},
+
+  __markedentry            = {[Thiago:]},
+  Abstract                 = {This paper is enshrined in a larger research project which main goal is to determine key factors in the design, implementation and use of collaborative environments for the management of inter-enterprise innovation processes based on practical experiences. The paper presents an innovative approach to address the challenge of collaboration and participation in the submission of new ideas in the front end of the innovation process. The paper describes a case study on the adoption of an open source community platform based on Drupal in the context of a set of cooperative companies within Mondragon Corporation. The platform leverages social computing, real-time Web and semantic technologies to support collaboration, basic technology watch and idea management in the early stages of the innovation process. Preliminary field results show that the platform provides a powerful collaborative tool that eases administration work and enhances collaboration among participants.},
+  File                     = {IEEE Xplore Abstract Record:C\:\\Users\\Thiago\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\2jvv8all.default\\zotero\\storage\\2BDBCMKT\\articleDetails.html:text/html;IEEE Xplore Full Text PDF:C\:\\Users\\Thiago\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\2jvv8all.default\\zotero\\storage\\ZCG8M3ZB\\Larrinaga et al. - 2011 - A case study on the use of community platforms for.pdf:application/pdf},
+  Keywords                 = {business data processing, Collaboration, collaborative environment, Collaborative Innovation, Communities, Companies, Context, cooperative companies, design, design engineering, Drupal, groupware, innovation management, Innovation platform, interenterprise innovation process management, Mondragon Corporation, open source community platform, public domain software, Semantic Web, Social and Semantic Web, social computing, social networking (online), Software, Technological innovation},
+  Owner                    = {Thiago},
+  Timestamp                = {2015.05.05}
+}
+
+@InProceedings{Latif2008,
+  Title                    = {Automated notification and document downloading in {E}-learning - development of an agent-based framework utilizing the push-pull technology interaction policy},
+  Author                   = {Latif, N.A. and Hassan, M.F. and Hasan, M.H.},
+  Booktitle                = {International {Symposium} on {Information} {Technology}, 2008. {ITSim} 2008},
+  Year                     = {2008},
+  Month                    = aug,
+  Pages                    = {1--7},
+  Volume                   = {1},
+
+  __markedentry            = {[Thiago:6]},
+  Abstract                 = {This paper describes the processes of document downloading and announcement in the e-learning is automated via a proposed agent-based framework. In the framework, the interaction policy for the involved agents is based on combination technique which combined the push and pull mechanisms. The agentbased framework consists of four agents: search agent, priority agent, notify agent and download agents that are applied in the e-learning domain. To demonstrate the working of these agents within the e-learning domain, three scenarios with different level of complexity involving one course/subject are presented. In general, these agents assist the students to get prompt notifications every time new documents are available in the course registered. Thus, eliminating the students from not knowing that new documents have been uploaded by the lecturers. Moodle, the e-learning domain is chosen since Moodle is an open-source Content Management System that encourages any developers to contribute new enhancement of the existing feature or create the new features for the benefits of Moodle users.},
+  Doi                      = {10.1109/ITSIM.2008.4631569},
+  File                     = {IEEE Xplore Abstract Record:C\:\\Users\\Thiago\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\2jvv8all.default\\zotero\\storage\\USV4IZDR\\articleDetails.html:text/html;IEEE Xplore Full Text PDF:C\:\\Users\\Thiago\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\2jvv8all.default\\zotero\\storage\\3N9ARTTH\\Latif et al. - 2008 - Automated notification and document downloading in.pdf:application/pdf},
+  Owner                    = {Thiago},
+  Timestamp                = {2015.05.07}
+}
+
+@Book{leite,
+  Title                    = {“Gerenciando a Qualidade de Software com Base em Requisitos”. In: Qualidade de Software: Teoria e Prática.},
+  Author                   = {J. C. S. P. LEITE},
+  Editor                   = {Prentice Hall},
+  Year                     = {2001},
+  Number                   = {pp 238-246.},
+  Volume                   = {1},
+
+  Owner                    = {thiago},
+  Timestamp                = {2014.11.04}
+}
+
+@InProceedings{Lina2010,
+  Title                    = {The {Construction} of {Virtual} {Reference} {Advisory} {Platform} {Based} {Plone} {Content} {Management} {System}},
+  Author                   = {Lina, Liu and Guohua, Xia},
+  Booktitle                = {2010 {Second} {International} {Conference} on {Computer} {Engineering} and {Applications} ({ICCEA})},
+  Year                     = {2010},
+  Month                    = mar,
+  Pages                    = {529--532},
+  Volume                   = {2},
+
+  __markedentry            = {[Thiago:6]},
+  Abstract                 = {In this paper, it represents the basic characteristics of virtual reference advisory platform and plone content management system. In addition to how to use plone content management system for virtual reference advisory platform which is as an interactive cross between students and administrators. The content organization and classification, the effective work flow and the users rights are the keys of the virtural platform, meanwhile the using of a third plug-ins can make the platform more perfect. Experiments show that the platform based on plone is easy to use and enhances the efficiency of the library work.},
+  Doi                      = {10.1109/ICCEA.2010.251},
+  File                     = {IEEE Xplore Abstract Record:C\:\\Users\\Thiago\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\2jvv8all.default\\zotero\\storage\\7JVFUM2Z\\articleDetails.html:text/html;IEEE Xplore Full Text PDF:C\:\\Users\\Thiago\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\2jvv8all.default\\zotero\\storage\\SSMF7XQI\\Lina e Guohua - 2010 - The Construction of Virtual Reference Advisory Pla.pdf:application/pdf},
+  Keywords                 = {Application software, Biomedical engineering, Collision mitigation, Computer applications, content classification, content management, content organization, Educational institutions, Electronic mail, Internet, Libraries, library, plone content management system, plone content management system construction, search engines, virtual reference advisory platform},
+  Owner                    = {Thiago},
+  Timestamp                = {2015.05.07}
+}
+
+@InProceedings{Loechel2012,
+  Title                    = {An {Open} {Source} {Approach} for a {Military} {Situational} {Awareness} {System}},
+  Author                   = {Loechel, A.J. and Mihelcic, G. and Pickl, S.},
+  Booktitle                = {2012 45th {Hawaii} {International} {Conference} on {System} {Science} ({HICSS})},
+  Year                     = {2012},
+  Month                    = jan,
+  Pages                    = {1462--1471},
+
+  __markedentry            = {[Thiago:6]},
+  Abstract                 = {This paper discusses the shortfalls of current military command \& control systems with respect to providing situational awareness and to potentially improving and adapting such systems. It describes the architecture and required features of a military situational awareness system. It shows that by using common web map standards, it is possible to combine the strengths of an open source enterprise content management system with additional open source software tools creating a new kind of C2 system. It demonstrates as one possible use case how this military situational awareness system supports reach back networks for military decision support to operations.},
+  Doi                      = {10.1109/HICSS.2012.109},
+  File                     = {IEEE Xplore Abstract Record:C\:\\Users\\Thiago\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\2jvv8all.default\\zotero\\storage\\ZBKA5MZV\\articleDetails.html:text/html;IEEE Xplore Full Text PDF:C\:\\Users\\Thiago\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\2jvv8all.default\\zotero\\storage\\S3VJSF9S\\Loechel et al. - 2012 - An Open Source Approach for a Military Situational.pdf:application/pdf},
+  Keywords                 = {C2, CMS, command and control systems, Command \& Control, content management, Context, Decision Support, DS, Educational institutions, GIS, Internet, Licenses, military command \& control systems, Military communication, Military computing, military decision support, military situational awareness system, open source approach, open source enterprise content management system, open source software tools, OR, public domain software, SA, Situational Awareness, Software, Standards, Web map standards},
+  Owner                    = {Thiago},
+  Timestamp                = {2015.05.07}
+}
+
+@InProceedings{Longo2014,
+  Title                    = {Integrating social web and e-learning to enhance cooperation in the building sector},
+  Author                   = {Longo, F. and Santoro, S. and Esposito, A. and Tarricone, L. and Zappatore, M.},
+  Booktitle                = {2014 {International} {Conference} on {Interactive} {Collaborative} {Learning} ({ICL})},
+  Year                     = {2014},
+  Month                    = dec,
+  Pages                    = {324--329},
+
+  Abstract                 = {This paper presents a social collaborative e-learning platform modeled and designed for the building sector. The proposed platform integrates the most adequate and up-to-date technological components in terms of Content Management System (Joomla!), Learning Management System (Moodle) and Web Conference Software (BigBlueButton). The platform was designed by taking into account requirements coming from building actors, and a validation based on their feedback was performed. The proposed system is open and based on a general purpose framework. It facilitates knowledge aggregation and social cooperation.},
+  Doi                      = {10.1109/ICL.2014.7017793},
+  File                     = {IEEE Xplore Full Text PDF:C\:\\Users\\Thiago\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\2jvv8all.default\\zotero\\storage\\3NE2QNDQ\\Longo et al. - 2014 - Integrating social web and e-learning to enhance c.pdf:application/pdf},
+  Keywords                 = {Abstracts, BigBlueButton, Buildings, building sector, Collaborative work, computer aided instruction, Conferences, content management, content management system, Decision support systems, Design methodology, e-learning, general purpose framework, Internet, Joomla, knowledge aggregation, learning management system, social collaborative e-learning platform, social cooperation, Social Learning, social Web, technological components, Web conference software, Web Conferencing},
+  Owner                    = {Thiago},
+  Timestamp                = {2015.05.05}
+}
+
+@MastersThesis{mamani,
+  Title                    = {“Integrando requisitos não funcionais aos requisitos baseados em ações concertas.”},
+  Author                   = {MAMANI, Nestor A.},
+  School                   = {Departamento de informática, PUC-RIO},
+  Year                     = {1999},
+  Month                    = {Maio},
+  Type                     = {Dissertação de mestrado},
+
+  Owner                    = {thiago},
+  Timestamp                = {2014.11.05}
+}
+
+@InProceedings{Marimuthu2013,
+  Title                    = {Software {Development} for {Cloud}: {An} {Experiential} {Study}},
+  Author                   = {Marimuthu, C. and Sekaran, K.C.},
+  Booktitle                = {2013 {International} {Conference} on {Cloud} {Computing} and {Big} {Data} ({CloudCom}-{Asia})},
+  Year                     = {2013},
+  Month                    = dec,
+  Pages                    = {183--190},
+
+  Abstract                 = {Most of the enterprises are using web application for communicating with their customers, partners, shareholders and others. Additionally the web applications are used to carry out commercial activities and business transactions. As web applications are extensively used, its operating environment plays an important role which determines its efficiency. Nowadays cloud has proved to be one of the best operating environments for deploying web applications because of its features like automatic load balancing, scalability, maintenance and cost. As the demand is increasing for cloud computing, many organizations are looking for cloud based software to reduce their deployment cost and server maintenance overhead. The existing web application like individual/corporate websites, CRM/ERP applications, E-Publishing, E-Government, E-Commerce and E-Learning are slowly migrating to cloud. On the other hand managing the content of such web applications is a tedious task. The Content Management Systems (CMS) has already proved to be a good choice for developing web applications which ensures rapid application development and ease of use. CMS allows even a non-technical user to create, edit, manage and publish the content easily. When CMS is coupled with cloud the resultant application is highly efficient and easily manageable. In this paper we have proposed a new technique to develop cloud based software using content management systems.},
+  Doi                      = {10.1109/CLOUDCOM-ASIA.2013.98},
+  File                     = {IEEE Xplore Abstract Record:C\:\\Users\\Thiago\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\2jvv8all.default\\zotero\\storage\\HJ5H35JW\\icp.html:text/html},
+  Keywords                 = {business transactions, cloud based software, cloud computing, CMS, commercial activities, content management, content management systems, Databases, Drupal, operating environment, organisational aspects, organizational aspects, Organizations, SaaS, server maintenance, Software as a service, software development, software engineering, Web application, Web servers},
+  Owner                    = {Thiago},
+  Shorttitle               = {Software {Development} for {Cloud}},
+  Timestamp                = {2015.05.05}
+}
+
+@Article{maroco2013,
+  Title                    = {Qual a fiabilidade do alfa de Cronbach? Quest{\~o}es antigas e solu{\c{c}}{\~o}es modernas?},
+  Author                   = {Maroco, Jo{\~a}o and Garcia-Marques, Teresa},
+  Journal                  = {Laborat{\'o}rio de Psicologia},
+  Year                     = {2013},
+  Number                   = {1},
+  Pages                    = {65--90},
+  Volume                   = {4}
+}
+
+@Book{mcgarry,
+  Title                    = {Practical Software Measurement – Objective Information for Decision Makers.},
+  Author                   = {MCGARRY, J and CARD, D and JONES, C and LAYMAN, B and CLARK, E and DEAN, J and HALL, F.},
+  Editor                   = {Addison Wesley},
+  Year                     = {2002},
+
+  Owner                    = {thiago},
+  Timestamp                = {2014.11.16}
+}
+
+@InProceedings{Mekpiroon2008,
+  Title                    = {{LearnSquare}: {Thai} open-source {Learning} {Management} {System}},
+  Author                   = {Mekpiroon, O. and Tummarattananont, P. and Pravalpruk, B. and Buasroung, N. and Apitiwongmanit, N.},
+  Booktitle                = {5th {International} {Conference} on {Electrical} {Engineering}/{Electronics}, {Computer}, {Telecommunications} and {Information} {Technology}, 2008. {ECTI}-{CON} 2008},
+  Year                     = {2008},
+  Month                    = may,
+  Pages                    = {185--188},
+  Volume                   = {1},
+
+  __markedentry            = {[Thiago:6]},
+  Abstract                 = {e-Learning system becomes widely used in Thailand educational society. LearnSquare is a Thai open source Learning Management System (LMS). This paper aims to introduce LearnSquare and illustrates its features. LearnSquare is composed of three main functions; content management, system management and user management. Moreover, LearnSquare is compatible with SCORM standard, so the system supports reusable content within this standard. The results from the survey of user satisfaction have shown that about 70 percents of users are very satisfied and most satisfied with the system. Furthermore, LearnSquare successfully supports the expansion of education to rural areas in order to open up opportunity in education for most students.},
+  Doi                      = {10.1109/ECTICON.2008.4600403},
+  File                     = {IEEE Xplore Abstract Record:C\:\\Users\\Thiago\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\2jvv8all.default\\zotero\\storage\\WZ9ZSIDX\\articleDetails.html:text/html;IEEE Xplore Full Text PDF:C\:\\Users\\Thiago\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\2jvv8all.default\\zotero\\storage\\ADE68FVF\\Mekpiroon et al. - 2008 - LearnSquare Thai open-source Learning Management .pdf:application/pdf},
+  Keywords                 = {client-server based, client-server systems, computer aided instruction, content management, Control systems, Courseware, e-Learning system, Electronic learning, HTML, LearnSquare, Least squares approximation, LMS, management education, Open source software, Power system management, public domain software, SCORM standard, system management, Technology management, Thailand educational society, Thai open-source learning management system, user interfaces, user management, user satisfaction},
+  Owner                    = {Thiago},
+  Shorttitle               = {{LearnSquare}},
+  Timestamp                = {2015.05.07}
+}
+
+@Article{deMelo,
+  Title                    = {Requisitos de Ferramentas de Apoio aos Processos de Medi{\c{c}}{\~a}o de Software},
+  Author                   = {de Melo, Marco Aur{\'e}lio Vila{\c{c}}a},
+  Year                     = {S/D}
+}
+
+@Book{moller,
+  Title                    = {“Software Metrics, A Practioners Guide to Improved Product Development”},
+  Author                   = {Karl H. Moller and Daniel J. Paulish},
+  Publisher                = {Chapman \& Hall},
+  Year                     = {1993},
+
+  Owner                    = {thiago},
+  Timestamp                = {2014.11.07}
+}
+
+@Other{moresi,
+  Title                    = {Metodologia da Pesquisa},
+  Author                   = {Eduardo Moresi},
+  Month                    = {Mar},
+  Owner                    = {thiago},
+  Pages                    = {108},
+  School                   = {Universidade Católica de Brasília},
+  Timestamp                = {2014.11.03},
+  Year                     = {2003}
+}
+
+@InProceedings{Nakwaski2010,
+  Title                    = {Content management system for web portal},
+  Author                   = {Nakwaski, M. and Zabierowski, W.},
+  Booktitle                = {2010 {International} {Conference} on {Modern} {Problems} of {Radio} {Engineering}, {Telecommunications} and {Computer} {Science} ({TCSET})},
+  Year                     = {2010},
+  Month                    = feb,
+  Pages                    = {233--235},
+
+  __markedentry            = {[Thiago:6]},
+  Abstract                 = {This paper provides basic information on content management systems, and application developed by the authors.},
+  File                     = {IEEE Xplore Abstract Record:C\:\\Users\\Thiago\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\2jvv8all.default\\zotero\\storage\\S8QQVCQB\\articleDetails.html:text/html;IEEE Xplore Full Text PDF:C\:\\Users\\Thiago\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\2jvv8all.default\\zotero\\storage\\6SDGGVNU\\Nakwaski e Zabierowski - 2010 - Content management system for web portal.pdf:application/pdf},
+  Keywords                 = {Cascading style sheets, Collision mitigation, Computer languages, Content, content management, content management application, content management system, Databases, Graphics, History, Internet, MySQL, PHP, Portals, Web pages, Web portal},
+  Owner                    = {Thiago},
+  Timestamp                = {2015.05.07}
+}
+
+@InProceedings{Nath_Arora,
+  Title                    = {Content management system : Comparative case study},
+  Author                   = {Nath, M. and Arora, A.},
+  Booktitle                = {Software Engineering and Service Sciences (ICSESS), 2010 IEEE International Conference on},
+  Year                     = {2010},
+  Month                    = {July},
+  Pages                    = {624-627},
+
+  Doi                      = {10.1109/ICSESS.2010.5552271},
+  Keywords                 = {Java;content management;public domain software;Java;Web site;content management system;digital asset management;open source CMS;Availability;Content management;Databases;Electronic mail;Java;Plagiarism;Springs;Content;Content Management System;anti plagiarism;digital asset management;features}
+}
+
+@Article{Nielsen,
+  Title                    = {A mathematical model of the finding of usability problems.},
+  Author                   = {Nielsen, J., and Landauer, T. K},
+  Journal                  = {Proceedings ACM/IFIP INTERCHI'93 Conference (Amsterdam, The Netherlands, April 24-29)},
+  Year                     = {1993},
+  Pages                    = {206-213},
+
+  Owner                    = {Thiago},
+  Timestamp                = {2015.06.22}
+}
+
+@Article{nixon,
+  Title                    = {Management of performance requirements for information systems},
+  Author                   = {Nixon, Brian A.},
+  Journal                  = {Software Engineering, IEEE Transactions on},
+  Year                     = {2000},
+
+  Month                    = {Dec},
+  Number                   = {12},
+  Pages                    = {1122-1146},
+  Volume                   = {26},
+
+  Doi                      = {10.1109/32.888627},
+  ISSN                     = {0098-5589},
+  Keywords                 = {educational administrative data processing;information systems;software management;software performance evaluation;software quality;systems analysis;NFR framework;PeRF;Year-2000 compliance;catalogues;customized solutions;decision impact;developer-directed graphical treatment;goal-oriented approach;information systems;layered structures;nonfunctional requirements;performance concepts;performance requirements framework;performance requirements management;requirements engineering;semantic data models;software performance engineering principles;systems development knowledge;tool support;university student record system;Data engineering;Delay;Design engineering;Information systems;Knowledge engineering;Knowledge management;Management information systems;Software performance;Software quality;Software systems}
+}
+
+@Book{Nunnaly,
+  Title                    = {Psychometric theory},
+  Author                   = {J. C. Nunnally},
+  Editor                   = {McGraw-Hill Inc},
+  Publisher                = {New York},
+  Year                     = {1978},
+
+  Owner                    = {Thiago},
+  Timestamp                = {2015.06.18}
+}
+
+@InProceedings{Nurminen2008,
+  Title                    = {Drupal {Content} {Management} {System} on {Mobile} {Phone}},
+  Author                   = {Nurminen, J.K. and Wikman, J. and Kokkinen, H. and Muilu, P. and Gronholm, M.},
+  Booktitle                = {5th {IEEE} {Consumer} {Communications} and {Networking} {Conference}, 2008. {CCNC} 2008},
+  Year                     = {2008},
+  Month                    = jan,
+  Pages                    = {1228--1229},
+
+  Abstract                 = {We will demonstrate how an existing content management system, Drupal, can be used on a personal Web site that is running on a mobile phone. It allows users to easily create and configure a Web site to their mobile devices that is able to take advantage of the wide set of normal functionality of the content management system and the context and data of the mobile phone. We estimate that very easy creation of versatile mobile Web sites has potential to boost the development of innovative mobile applications.},
+  Doi                      = {10.1109/ccnc08.2007.281},
+  File                     = {IEEE Xplore Abstract Record:C\:\\Users\\Thiago\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\2jvv8all.default\\zotero\\storage\\87KRX8P2\\articleDetails.html:text/html;IEEE Xplore Full Text PDF:C\:\\Users\\Thiago\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\2jvv8all.default\\zotero\\storage\\PEV6PZMU\\Nurminen et al. - 2008 - Drupal Content Management System on Mobile Phone.pdf:application/pdf},
+  Keywords                 = {Blogs, content management, Digital audio broadcasting, Drupal content management system, electronic commerce, Internet, mobile computing, mobile handsets, mobile phone, Peer to peer computing, personal Web site, Service oriented architecture, Web server, Web sites},
+  Owner                    = {Thiago},
+  Timestamp                = {2015.05.05}
+}
+
+@InProceedings{Orduna2013,
+  Title                    = {Generic integration of remote laboratories in learning and content management systems through federation protocols},
+  Author                   = {Orduna, P. and Botero Uribe, S. and Hock Isaza, N. and Sancristobal, E. and Emaldi, M. and Pesquera Martin, A. and DeLong, K. and Bailey, P. and Lopez-de-IpiÃ±a, D. and Castro, M. and Garcia-Zubia, J.},
+  Booktitle                = {2013 {IEEE} {Frontiers} in {Education} {Conference}},
+  Year                     = {2013},
+  Month                    = oct,
+  Pages                    = {1372--1378},
+
+  __markedentry            = {[Thiago:]},
+  Abstract                 = {Educational remote laboratories are a software and hardware tool that allows students to remotely access real equipment located in universities as if they were in a hands-on-lab session. Their integration in Content and Learning Management Systems (CMSs or LMSs) has been an active research topic for years, supporting mainly ad hoc solutions. A notable exception has been the use of federation protocols -commonly used for sharing laboratories from one university to other-, for actually sharing laboratories from a remote laboratory system to a C/LMS. This approach opened new doors in the simplification of the process, since it did not require the remote laboratories to make any type of change. The focus of this contribution is to provide a solution to decrease the number of functionalities required for creating an integration by providing a software component that reuses them. As shown in the contribution, this component has been implemented and two remote laboratory management systems (which provide access to multiple remote laboratories) are already supported, and a third one is under development. In the C/LMS side, all the LMSs supporting IMS LTI are supported, and HTTP APIs are provided for being supported by other systems. Indeed, the contribution describes its support in the Joomla CMS and in the Moodle 1.9 and dotLRN LMSs which do not support IMS LTI. The solution, called gateway4labs, is an open source initiative which targets to be used in production.},
+  Doi                      = {10.1109/FIE.2013.6685057},
+  File                     = {IEEE Xplore Abstract Record:C\:\\Users\\Thiago\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\2jvv8all.default\\zotero\\storage\\CZZP3WUT\\articleDetails.html:text/html;IEEE Xplore Full Text PDF:C\:\\Users\\Thiago\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\2jvv8all.default\\zotero\\storage\\QX6JUB9X\\OrduÃ±a et al. - 2013 - Generic integration of remote laboratories in lear.pdf:application/pdf},
+  Keywords                 = {application program interfaces, content management, content management systems, dotLRN LMS, Educational institutions, federation protocols, gateway4labs, hardware tool, HTTP API, IMS LTI, Joomla CMS, Laboratories, learning management systems, Least squares approximations, Logic gates, Moodle 1.9 LMS, open source initiative, Protocols, public domain software, remote laboratories, Robots, software tool, universities},
+  Owner                    = {Thiago},
+  Timestamp                = {2015.05.05}
+}
+
+@InProceedings{Orduna2012,
+  Title                    = {Modelling remote laboratories integrations in e-learning tools through remote laboratories federation protocols},
+  Author                   = {Orduna, P. and Sancristobal, E. and Emaldi, M. and Castro, M. and Lopez-de-Ipina, D. and Garcia-Zubia, J.},
+  Booktitle                = {Frontiers in {Education} {Conference} ({FIE}), 2012},
+  Year                     = {2012},
+  Month                    = oct,
+  Pages                    = {1--6},
+
+  __markedentry            = {[Thiago:]},
+  Abstract                 = {An educational remote laboratory is a software and hardware tool that allows students to remotely access real equipment located in the university as if they were in a hands-on-lab session. Federations of remote laboratories have existed for years: they are based on enabling two universities to exchange remote laboratories directly, without registering students of the latter on the former university. Integration of remote laboratories on Learning Management Systems (LMS) or Content Management Systems (CMS) have also been addressed in the past, enabling institutions to delegate the authentication or authorization of the experiments to the LMS/CMS. However, these integrations are usually achieved in an ad hoc way, integrating each particular laboratory to a LMS/CMS. This contribution studies the use of federation models to integrate remote laboratory management systems in LMS/CMSs, since both approaches (integrating a laboratory on an a external electronic learning tool, and integrating a laboratory on other laboratory) are essentially equivalent. The contribution defines two case studies to evaluate this approach, showing how this integration is achieved on a LMS (Moodle) and on a CMS (Joomla).},
+  Doi                      = {10.1109/FIE.2012.6462220},
+  File                     = {IEEE Xplore Abstract Record:C\:\\Users\\Thiago\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\2jvv8all.default\\zotero\\storage\\VEGDCTZ2\\articleDetails.html:text/html;IEEE Xplore Full Text PDF:C\:\\Users\\Thiago\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\2jvv8all.default\\zotero\\storage\\VAFGHZ9A\\Orduna et al. - 2012 - Modelling remote laboratories integrations in e-le.pdf:application/pdf},
+  Keywords                 = {Authentication, authorization, CMS, computer aided instruction, content management system, Educational institutions, educational remote laboratory, e-learning tool, Electronic learning, hands-on-lab session, Joomla, Laboratories, learning management systems, Least squares approximation, LMS, LMS-CMS, Moodle, Protocols, remote laboratories, remote laboratory federation protocol, remote laboratory integration, university},
+  Owner                    = {Thiago},
+  Timestamp                = {2015.05.05}
+}
+
+@Misc{Owasp,
+  Title                    = {Cross-Site Request Forgery (CSRF)},
+
+  Author                   = {OWASP},
+  Month                    = {May},
+  Year                     = {2015},
+
+  Owner                    = {Thiago},
+  Timestamp                = {2015.06.22},
+  Url                      = {https://www.owasp.org/index.php/Cross-Site_Request_Forgery_%28CSRF%29},
+  Urlaccessdate            = {13 May. 2015}
+}
+
+@Article{DePadua_2003,
+  Title                    = {Engenharia de software},
+  Author                   = {de P{\'a}dua Paula Filho, Wilson},
+  Year                     = {2003},
+
+  Publisher                = {LTC}
+}
+
+@Book{park,
+  Title                    = {“Goal Driven Software Measurement – a Guidebook”},
+  Author                   = {R.E Park and W.B Goethert and W.A. Florac},
+  Editor                   = {CMU/SEI-96-BH-002},
+  Publisher                = {Software Engineering Institute, Carnegie Mellon University},
+  Year                     = {1996},
+
+  Owner                    = {thiago},
+  Timestamp                = {2014.11.07}
+}
+
+@InProceedings{patel,
+  Title                    = {Joomla, Drupal and WordPress - a statistical comparison of open source CMS},
+  Author                   = {Patel, S.K. and Rathod, V.R. and Parikh, S.},
+  Booktitle                = {Trendz in Information Sciences and Computing (TISC), 2011 3rd International Conference on},
+  Year                     = {2011},
+  Month                    = {Dec},
+  Pages                    = {182-187},
+
+  Doi                      = {10.1109/TISC.2011.6169111},
+  Keywords                 = {Web sites;content management;public domain software;statistical analysis;Drupal;JS files;Joomla;PLT;PS;Web site;WordPress;content management principles;live server;open source CMS;open source content management system;page load time;page performance criteria;page performance evaluation;page size;statistical comparison;Blogs;Cascading style sheets;Clocks;Random access memory;Servers;Comparision;Drupal;Joomla;Open Source;Prerformance;WordPress}
+}
+
+@InProceedings{Patel2013,
+  Title                    = {Comparative analysis of web security in open source content management system},
+  Author                   = {Patel, S.K. and Rathod, V.R. and Prajapati, J.B.},
+  Booktitle                = {2013 {International} {Conference} on {Intelligent} {Systems} and {Signal} {Processing} ({ISSP})},
+  Year                     = {2013},
+  Month                    = mar,
+  Pages                    = {344--349},
+
+  Abstract                 = {Internet has become priceless tool that enables corporate world to show their capabilities. While Web applications have gained importance on the Internet, security is the only thing to worry. Business data is very critical that floats on the cloud and that's why Web Application Security is rapidly becoming a growing concern for all enterprises. In this paper we tried to show what is Hacking and its symptoms. In web development Content Management System (CMS) is gaining so much popularity as it uses to make easy editing and publishing process for novice even if he doesn't know web programming. There are over thousand of open source CMS available in the market. When we just talk about content management concept two or three names like Joomla, Drupal and WordPress strike in mind. As these are the one of the best CMSs in the market and their community provides nice basic security still we want to compare these CMS and want to know which CMS provides best security. To do the comparison we have done two case studies. In case 1 we have developed one common page in all CMS and host it then after we have applied different web attacks like SQLi, XSS, CSRF etc. and derived their hacking results. In case 2 we used Acunetix WVS Reporter v6.0 to find out the strength of security in different CMS. Apart from this we also try to find out Broken links in all listed CMSs.},
+  Doi                      = {10.1109/ISSP.2013.6526932},
+  File                     = {IEEE Xplore Abstract Record:C\:\\Users\\Thiago\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\2jvv8all.default\\zotero\\storage\\9W9JC9UQ\\articleDetails.html:text/html;IEEE Xplore Full Text PDF:C\:\\Users\\Thiago\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\2jvv8all.default\\zotero\\storage\\6Z4D9TCI\\Patel et al. - 2013 - Comparative analysis of web security in open sourc.pdf:application/pdf},
+  Keywords                 = {Acunetix WVS Reporter v6.0, business data, business data processing, cloud, CMS, Comparison, computer crime, Computer hacking, content management, corporate world, CSRF, Drupal, enterprise, hacking, Intelligent systems, Internet, Joomla, Open Source, open source CMS, open source content management system, public domain software, Security, SQLi, Web application security, Web attack, Web development content management system, Web programming, Web servers, WordPress, XSS},
+  Owner                    = {Thiago},
+  Timestamp                = {2015.05.05}
+}
+
+@InProceedings{Patnaik2015,
+  Title                    = {Role of {Content} {Management} {Software} ({CMS}) in libraries for information dissemination},
+  Author                   = {Patnaik, R. and Mishra, M.K.},
+  Booktitle                = {2015 4th {International} {Symposium} on {Emerging} {Trends} and {Technologies} in {Libraries} and {Information} {Services} ({ETTLIS})},
+  Year                     = {2015},
+  Month                    = jan,
+  Pages                    = {117--121},
+
+  Abstract                 = {Libraries are repositories of knowledge and the tremendous growth in digital resources has forced library professionals to use various information technology tools to manage and render services to the users. To achieve greater efficiency in the rapidly changing environment, libraries are increasingly looking for new paradigms to deliver services to users on their desktops. Library portals play a crucial role by creating a web environment where users can easily access information. It not only offers services but also enhances scholarly communication and research among the patrons of the library. This paper describes the portal of Space Applications Centre (SAC) Library at ISRO, Ahmedabad, Gujarat, and designed using Joomla: A Content Management System (CMS). An attempt has been made here to explain the various services provided through this portal to the ISRO/DOS users so that they can become effective information seekers and evaluate information efficiently and effectively. It also highlights how it tries to meet user expectations of information on demand as well as in anticipation.},
+  Doi                      = {10.1109/ETTLIS.2015.7048183},
+  File                     = {IEEE Xplore Abstract Record:C\:\\Users\\Thiago\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\2jvv8all.default\\zotero\\storage\\M7MSI9IM\\icp.html:text/html},
+  Keywords                 = {Ahmedabad, CMS, content management, content management software, digital resources, Digital Services, Gujarat, HTML, information access, information dissemination, information technology tools, ISRO, ISRO/DOS users, Joomla, Libraries, library automation, Library Portal, library portals, library professionals, Portals, Servers, Software, Space Applications Centre, Space Applications Centre Library, Web environment},
+  Owner                    = {Thiago},
+  Timestamp                = {2015.05.05}
+}
+
+@Other{perizo_2005,
+  Title                    = {Desenvolvimento de um Sistema de Informação Web para Empresas De Factoring},
+  Address                  = {Blumenau - SC},
+  Author                   = {DOUGLAS MARCIEL PERIZZOLO},
+  Pagename                 = {f.},
+  Pages                    = {65},
+  School                   = {CENTRO DE CIÊNCIAS EXATAS E NATURAIS, UNIVERSIDADE REGIONAL DE BLUMENAU},
+  Type                     = {Monografia},
+  Year                     = {2005}
+}
+
+@InProceedings{Pierro2010,
+  Title                    = {{SQL}-{jQuery} client a tool managing the {DB} backend of the {CMS} software framework through {Web} {Browser}},
+  Author                   = {Pierro, A. and Cavallari, F. and Di Guida, S. and Innocente, V. and Beinaravicius, A.},
+  Booktitle                = {Real {Time} {Conference} ({RT}), 2010 17th {IEEE}-{NPSS}},
+  Year                     = {2010},
+  Month                    = may,
+  Pages                    = {1--4},
+
+  __markedentry            = {[Thiago:6]},
+  Abstract                 = {PJ-SQL-Browser is a free Python-Javascript web based tool. It relies on jQuery and python libraries, and is intended to provide the CMS software framework a real-time handle to the DB backend inside a local web browser. Nowadays, the number of DBs accessing built on Java or .Net is steadingly increasing. However, many of these application have several drawbacks: usually they are not open-source, they provide interface only with a specific kind of database, are platform-dependent and very CPU and memory consuming, so that normal computers can have problems to run them. We developed a template-based free software tool, intended to handle with different DBMS by using a local Web Browser. Such tool makes use of jQuery and python libraries and we hereby prove to be fast, easy to install and to configure. Thanks to JavaScript Interpreter, a powerful Javascript engine implemented in the latest web browsers (Mozilla, Firefox, Safari, Opera, Google Chrome and Internet Explorer), and to the easier JavaScript-HTML interaction enabled by jQuery libraries, such tool performs backend-databases-access and provides all the features embedded in commercial DB clients like DDL statements and allows data exportation to various formats (like XML and JSON), that can be employed eventually exploited by other applications. On top at that the application enables as well updates real time; indeed by using asynchronous Ajax calls to server services, we can keep users updated with the latest information changed on Online Database Condition, ensuring a small latency to retrieve the real-time information. Finally, by using a set of pre-defined functions, users are allowed to create their customized views for a better data visualisation.},
+  Doi                      = {10.1109/RTC.2010.5750372},
+  File                     = {IEEE Xplore Abstract Record:C\:\\Users\\Thiago\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\2jvv8all.default\\zotero\\storage\\3GUTC5NQ\\articleDetails.html:text/html;IEEE Xplore Full Text PDF:C\:\\Users\\Thiago\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\2jvv8all.default\\zotero\\storage\\CC8GS4HM\\Pierro et al. - 2010 - SQL-jQuery client a tool managing the DB backend o.pdf:application/pdf},
+  Keywords                 = {.Net, asynchronous Ajax calls, Browsers, CMS software framework, database management services, data exportation, data visualisation, DB backend, DDL statements, Engines, Firefox, Google Chrome, Internet Explorer, Java, Javascript engine, JavaScript Interpreter, JSON, Libraries, Mozilla, online database condition, online front-ends, Opera, PJ-SQL-browser, Python-Javascript Web based tool, python libraries, query processing, Real time systems, Relational databases, Safari, Servers, software libraries, software tools, SQL, SQL-jQuery, template-based free software tool, Web browser, XML},
+  Owner                    = {Thiago},
+  Timestamp                = {2015.05.07}
+}
+
+@InProceedings{Polic2014,
+  Title                    = {{eAssessment} in {English} for specific purposes},
+  Author                   = {Polic, T. and Tomljanovic, J. and Anic, N.},
+  Booktitle                = {2014 {The} {International} {Conference} on {Education} {Technologies} and {Computers} ({ICETC})},
+  Year                     = {2014},
+  Month                    = sep,
+  Pages                    = {18--23},
+
+  Abstract                 = {The aim of this work, which is a case study, is to present the way eAssessment could be applied in assessing the student knowledge of ESP (English for Specific Purposes) at institutions of higher education (HEI) using Drupal, a free software package that allows anyone to easily publish, manage and organize a wide variety of content on a website, allowing tight control over who can create, view, manage, publish and otherwise interact with the content on the website. The work is based on the example of the Polytechnic of Rijeka, Croatia, Transport Department (Road and Rail Transport and Postal Services), second year part-time students, course The English Language 3, a questionnaire the students have filled out regarding the students' opinion on online knowledge summative assessment, and the statistical analyses on various aspects of their accomplishment both in partial and final written exams. It results that both from the students' and teacher's point of view the online assessment is satisfactory, welcome and recommendable not just in ESP but in other courses as well.},
+  Doi                      = {10.1109/ICETC.2014.6998896},
+  File                     = {IEEE Xplore Abstract Record:C\:\\Users\\Thiago\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\2jvv8all.default\\zotero\\storage\\GIRQS973\\articleDetails.html:text/html;IEEE Xplore Full Text PDF:C\:\\Users\\Thiago\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\2jvv8all.default\\zotero\\storage\\UPPZIZIJ\\Polic et al. - 2014 - eAssessment in English for specific purposes.pdf:application/pdf},
+  Keywords                 = {computer aided instruction, Computers, course, Drupal, eAssessment, Education, educational courses, Educational institutions, English for specific purposes, ESP (English for specific purposes), ESP student knowledge assessment, free software package, further education, HEI, higher education, higher education institutions, linguistics, online knowledge summative assessment, Reliability, Software, statistical analyses, Statistical analysis, Stress, The English Language 3, Vocabulary},
+  Owner                    = {Thiago},
+  Timestamp                = {2015.05.05}
+}
+
+@Book{Prahalad,
+  Title                    = {"The New Meaning of Quality in the Information Age, "},
+  Author                   = {C. K. Prahalad and M.S. Krishnan},
+  Publisher                = {Harvard Business Rev.},
+  Year                     = {1999},
+  Number                   = {pp. 109-118},
+  Volume                   = {Vol. 1999},
+
+  Owner                    = {thiago},
+  Timestamp                = {2014.11.07}
+}
+
+@Book{Pressman,
+  Title                    = {“Software Engineering – A Practitioners Approach”},
+  Author                   = {Roger S Pressman},
+  Editor                   = {McGraw Hill},
+  Year                     = {2001},
+  Edition                  = {Fifth},
+
+  Owner                    = {thiago},
+  Timestamp                = {2014.11.08}
+}
+
+@InProceedings{Priya2012,
+  Title                    = {Mobile interface to content management system based on {HTML}5 and {Drupal}: {A} case study},
+  Author                   = {Priya, T.K.H. and Hima, J. and Divya, K. and Somasundaram, M. and Karthikeyan, S.P.},
+  Booktitle                = {International {Conference} on {Software} {Engineering} and {Mobile} {Application} {Modelling} and {Development} ({ICSEMA} 2012)},
+  Year                     = {2012},
+  Month                    = dec,
+  Pages                    = {1--6},
+
+  Abstract                 = {The paper describes a case study of providing a content management system for maintaining and updating high volume of content in various forms like text, data, audio, video etc and providing a facility for user to access from anywhere using mobile devices. The application requires a cross platform application development environment and the paper describes the experience and challenges in developing the application. This application was developed in collaboration with National Informatics Center (NIC), to explore the feasibility of this approach and technologies for e-Governance applications.},
+  Doi                      = {10.1049/ic.2012.0148},
+  File                     = {IEEE Xplore Abstract Record:C\:\\Users\\Thiago\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\2jvv8all.default\\zotero\\storage\\GW35UTDI\\articleDetails.html:text/html;IEEE Xplore Full Text PDF:C\:\\Users\\Thiago\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\2jvv8all.default\\zotero\\storage\\868FIMDC\\Priya et al. - 2012 - Mobile interface to content management system base.pdf:application/pdf},
+  Keywords                 = {Android mobile platform, application program interfaces, content maintenance, content management, content management system, content update, cross platform application development environment, Drupal, Drupal SDK, e-governance application, electronic governance, government data processing, HTML5, jQuery mobile, mobile computing, mobile interface, National Informatics Center, Native Application and Web View, PhoneGap},
+  Owner                    = {Thiago},
+  Shorttitle               = {Mobile interface to content management system based on {HTML}5 and {Drupal}},
+  Timestamp                = {2015.05.05}
+}
+
+@InProceedings{Ramachandran2009,
+  Title                    = {Talkoot software appliance for collaborative science},
+  Author                   = {Ramachandran, R. and Movva, S. and Conover, H. and Lynnes, C.},
+  Booktitle                = {Geoscience and {Remote} {Sensing} {Symposium},2009 {IEEE} {International},{IGARSS} 2009},
+  Year                     = {2009},
+  Month                    = jul,
+  Pages                    = {V--378--V--381},
+  Volume                   = {5},
+
+  Abstract                 = {On the emerging Ã‚Â¿Social Web,Ã‚Â¿ millions of people offer their knowledge online in a collective knowledge system comprising an active community of motivated members posting problems and solutions in blogs, forums, mailing lists, collaborative portals and other Web 2.0 technologies. These technologies complement formal means of sharing knowledge via conferences and published papers, where it is impossible to share all the research details, and where negative results are rarely included. A small but growing number of scientists and researchers are beginning to harness these Web 2.0 technologies as a transformative way of doing science. With the advent of service oriented architectures, the model of chaining services to create analysis workflows provides the research community unprecedented opportunity to collaborate, sharing their workflows with one another, reproducing and analyzing research results, and leveraging colleagues' expertise to expedite the process of scientific knowledge discovery. A crucial component needed for this unprecedented level of cooperation within the research community is a reusable, extensible and customizable environment for building collaborative Ã‚Â¿open scienceÃ‚Â¿ portals for managing these shared analysis workflows. This paper describes the design and the development of Talkoot, a customizable Ã‚Â¿software applianceÃ‚Â¿ to build collaborative portals for earth science services and analysis workflows.},
+  Doi                      = {10.1109/IGARSS.2009.5417651},
+  File                     = {IEEE Xplore Abstract Record:C\:\\Users\\Thiago\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\2jvv8all.default\\zotero\\storage\\MDS5KJVN\\articleDetails.html:text/html;IEEE Xplore Full Text PDF:C\:\\Users\\Thiago\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\2jvv8all.default\\zotero\\storage\\2TIKG53A\\Ramachandran et al. - 2009 - Talkoot software appliance for collaborative scien.pdf:application/pdf},
+  Keywords                 = {Blogs, Buildings, collaborative open science portals, collaborative portals, collaborative science, Collaborative software, Collaborative work, collective knowledge system, data mining, Drupal, Earth, earth science services, forums, geophysics computing, groupware, Home appliances, Internet, Knowledge based systems, mailing lists, Online Communities/Technical Collaboration, Open Science, Paper technology, Portals, Science 2.0, scientific knowledge discovery, Service oriented architecture, service oriented architectures, shared analysis workflow management, social networking (online), social Web, software architecture, Talkoot, Talkoot software appliance, Web 2.0 technology, workflow management software},
+  Owner                    = {Thiago},
+  Timestamp                = {2015.05.05}
+}
+
+@TechReport{Reis,
+  Title                    = {Uma Prospecção de Plataformas para o Desenvolvimento do Sistema “Todos Nós em Rede”.},
+  Author                   = {Julio Cesar Dos Reis and Roberto Pereira and Heiko H. Hornung and Leonelo D. A. Almeida and Maria Cecília Calani Baranauskas},
+  Institution              = {Universidade Estadual de Campinas - Instituto de Computação},
+  Year                     = {2011},
+
+  Owner                    = {thiago},
+  Timestamp                = {2014.11.05}
+}
+
+@Article{Ferreira_2004,
+  Title                    = {A modernização agropecuária nas microrregiões do Estado de Minas Gerais.},
+  Author                   = {S. FERREIRA, Jr. and A. J. M. S BAPTISTA and J. E. LIMA .},
+  Journal                  = {Revista de Economia e Sociologia Rural, Brasília},
+  Year                     = {2004},
+
+  Owner                    = {Thiago},
+  Timestamp                = {2015.06.19}
+}
+
+@Article{salgado,
+  Title                    = {Catedral, Bazar e Software Livre},
+  Author                   = {Salgado, Filipe Ferraz and Atoji, Rodolpho Iemini},
+  Journal                  = {Catedral, Bazar e Software Livre},
+  Year                     = {2008},
+  Volume                   = {20}
+}
+
+@Article{santos,
+  Title                    = {COPE: Correspondencia Conceitual entre o modelo PSM e a estatística.},
+  Author                   = {Rafael Vargas Santos and Mesquita and Marcelo S Oliveira and Eric B Ferreira. and Sabrina B Vargas and Eros E Moura},
+  Journal                  = {sigmaE},
+  Year                     = {2014},
+  Number                   = {1},
+  Pages                    = {15-20},
+  Volume                   = {3},
+
+  Owner                    = {thiago},
+  Timestamp                = {2014.11.16}
+}
+
+@Article{Carla,
+  Title                    = {A produção de conteúdos no ciberespaço: sistemas de gerenciamento de conteúdos.},
+  Author                   = {Carla Schwingel},
+  Journal                  = {SBPJor – Associação Brasileira de Pesquisadores em Jornalismo. VII Encontro Nacional de Pesquisadores em Jornalismo - USP (Universidade de São Paulo)},
+  Year                     = {2009},
+
+  Month                    = {Novembro},
+
+  Owner                    = {Thiago},
+  Timestamp                = {2015.06.24}
+}
+
+@InProceedings{Serdio2010,
+  Title                    = {Content server for use in {Power} {Electronics} courses},
+  Author                   = {Serodio, C. and Novais, M. and Pinto, J. and Goncalves, N. and Mestre, P.},
+  Booktitle                = {2010 4th {IEEE} {International} {Conference} on {E}-{Learning} in {Industrial} {Electronics} ({ICELIE})},
+  Year                     = {2010},
+  Month                    = nov,
+  Pages                    = {13--18},
+
+  Abstract                 = {Information technologies are a helpful tool in the teacher-student interaction. Teachers can give support to students without the need for an 100\% in person contact, which is needed in the context of Bologna paradigm. For many activities, no schedule match is needed, since students access to resources and send requests to teachers whenever they need. In this paper the work of two Electrical Engineering and Computer Sciences undergraduate students is presented. It consists in the implementation of a web portal to be used as a tool for Power Electronics Lectures. This work is intended to be interdisciplinary, involving not only the requisites evaluation and specification of the site and its creation but also all the process of server installation, and server side software selection, installation and configuration. A Ubuntu Linux Server was set up, on which Apache web server was installed along with all other server software needed to support the site, such as MySQL and PHP, and software needed to remotely access the server, the SSH and FTP servers. The site itself was implemented using Drupal, which is a Content Management System.},
+  Doi                      = {10.1109/ICELIE.2010.5669873},
+  File                     = {IEEE Xplore Abstract Record:C\:\\Users\\Thiago\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\2jvv8all.default\\zotero\\storage\\QGE7AI6X\\articleDetails.html:text/html},
+  Keywords                 = {Apache Web server, Bologna paradigm, computer science education, computer sciences, content management, content management system, content server, Databases, Drupal, educational technology, electrical engineering, electrical engineering education, Electronic mail, file servers, FTP servers, information technologies, Laboratories, Linux, MySQL, PHP, Portals, power electronics, power electronics courses, Software, SSH servers, teacher-student interaction, Ubuntu Linux server, Web portal, Web server},
+  Owner                    = {Thiago},
+  Timestamp                = {2015.05.05}
+}
+
+@InProceedings{shu_2013,
+  Title                    = {Anti-money-laundering System Based on Mainframe and SOA},
+  Author                   = {Mao Shu and Liu Rui and Li Dancheng and Zhu Shuaizhen},
+  Booktitle                = {Computational Intelligence and Communication Networks (CICN), 2013 5th International Conference on},
+  Year                     = {2013},
+  Month                    = {Sept},
+  Pages                    = {613-616},
+
+  Doi                      = {10.1109/CICN.2013.134},
+  Keywords                 = {data handling;financial data processing;mainframes;security of data;service-oriented architecture;SOA architectures;SOA technology;antimoney laundering warning system;magnanimity financial data handling;mainframe;massive data processing capacity;science and technology;security;service bus;superscalar architecture;Business;Computer architecture;Databases;Educational institutions;Security;Service-oriented architecture;Anti-Money-laundering;Mainframe;Service Oriented Architecture}
+}
+
+@Article{Marinho,
+  Title                    = {PESQUISA DE QUALIDADE DE SOFTWARE BRASILEIRO 2009},
+  Author                   = {Diva da Silva Marinho and Euripedes José de Souza},
+  Journal                  = {Brasília: SECRETARIA DE POLÍTICA DE INFORMÁTICA, MINISTÉRIO DA CIÊNCIA E TECNOLOGIA},
+  Year                     = {2010},
+
+  Owner                    = {thiago},
+  Timestamp                = {2014.11.10}
+}
+
+@InProceedings{Singh,
+  Title                    = {A Review on Software Quality Models},
+  Author                   = {Singh, B. and Kannojia, S.P.},
+  Booktitle                = {Communication Systems and Network Technologies (CSNT), 2013 International Conference on},
+  Year                     = {2013},
+  Month                    = {April},
+  Pages                    = {801-806},
+
+  Doi                      = {10.1109/CSNT.2013.171},
+  Keywords                 = {cost reduction;software process improvement;software quality;time to market;industrial sectors;order development;performance uniformity;production costs reduction;production process;software development process models;software product quality;software production;software quality models;software quality process;structure development;time-to-market improvement;Software Product models;Software Quality;Software Quality Models;Software Standards}
+}
+
+@Article{smith,
+  Title                    = {Um guia rápido para GPLv3},
+  Author                   = {Smith, Brett},
+  Journal                  = {Free Software Foundation, Inc. Online: http: // www. gnu. org / licenses / quick-guide-GPLv3. html. Patrocinado},
+  Year                     = {2007},
+  Pages                    = {2008},
+  Volume                   = {4}
+}
+
+@Book{sollingen,
+  Title                    = {The Goal/Question Metric Method, A Practical Guide For Quality Improvement of Software Development},
+  Author                   = {Rini V. Sollingen and Egon Berghout},
+  Editor                   = {McGraw Hill},
+  Year                     = {1999},
+
+  Owner                    = {thiago},
+  Timestamp                = {2014.11.07}
+}
+
+@Book{sommer92,
+  Title                    = {“Software Engineering”},
+  Author                   = {SOMMERVILLE, I.},
+  Editor                   = {Addison-Wesley},
+  Year                     = {1992},
+  Edition                  = {fourth edition},
+
+  Owner                    = {thiago},
+  Timestamp                = {2014.11.05}
+}
+
+@InProceedings{Staccini2007,
+  Title                    = {A {Customized} {Open} {Source} {Content} {Management} {System} to {Support} {Collaborative} {Distance} {Learning}: {The} {J}@{LON} {Platform}},
+  Author                   = {Staccini, P. and Bordonado, C. and Alet, J. and Joubert, M. and Dufour, J.-C. and Fieschi, M.},
+  Booktitle                = {Twentieth {IEEE} {International} {Symposium} on {Computer}-{Based} {Medical} {Systems}, 2007. {CBMS} '07},
+  Year                     = {2007},
+  Month                    = jun,
+  Pages                    = {651--656},
+
+  __markedentry            = {[Thiago:6]},
+  Abstract                 = {Aimed at supporting a distance learning graduate course in "Quality and Risk Management in Healthcare" (ESSQU@D course), a collaborative learning environment has been designed and implemented (J@LON platform). This full Web based authoring tool is based on an object-oriented programming framework (Zope) and implements both native and customized features of a content management product (Plone). The system handles a core component, called a lesson. It allows teachers to aggregate single resources (documents, quiz, glossary term...). It provides students with a consistent and structured view of the content of a lesson. The Web based platform was initially developed to meet specific needs of the medicine campus. It has been extended to support the whole publishing process of pedagogical resources in the university. Its integration in the university information system is partly achieved with single sign on features (CAS authentication). Access to a centralized description of curricula still remains to enhance: it depends on an institutional reviewing of the database according to the policies of License, Master, and Doctorate schema. A multidisciplinary configuration of the platform is available, allowing students and teachers to be involved in several courses handled by a same instance of Zope / Plone.},
+  Doi                      = {10.1109/CBMS.2007.4},
+  File                     = {IEEE Xplore Abstract Record:C\:\\Users\\Thiago\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\2jvv8all.default\\zotero\\storage\\F7I92JDC\\articleDetails.html:text/html;IEEE Xplore Full Text PDF:C\:\\Users\\Thiago\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\2jvv8all.default\\zotero\\storage\\NMI8F5HD\\Staccini et al. - 2007 - A Customized Open Source Content Management System.pdf:application/pdf},
+  Keywords                 = {Aggregates, biomedical education, CAS authentication, Collaboration, collaborative distance learning, Collaborative work, computer aided instruction, content management, curricula, customized open source content management system, medical computing, Medical services, medicine campus, object-oriented programming, Object oriented programming, pedagogical resources, Publishing, risk management, Terminology, university information system, Web-based authoring tool, Web sites},
+  Owner                    = {Thiago},
+  Shorttitle               = {A {Customized} {Open} {Source} {Content} {Management} {System} to {Support} {Collaborative} {Distance} {Learning}},
+  Timestamp                = {2015.05.07}
+}
+
+@InProceedings{Sutheebanjard2010,
+  Title                    = {{QR}-code generator},
+  Author                   = {Sutheebanjard, P. and Premchaiswadi, W.},
+  Booktitle                = {Knowledge {Engineering}, 2010 8th {International} {Conference} on {ICT} and},
+  Year                     = {2010},
+  Month                    = nov,
+  Pages                    = {89--92},
+
+  __markedentry            = {[Thiago:]},
+  Abstract                 = {Quick Response (QR) codes seem to appear everywhere these days. We can see them on posters, magazine ads, websites, product packaging and so on. Using the QR codes is one of the most intriguing ways of digitally connecting consumers to the internet via mobile phones since the mobile phones have become a basic necessity thing of everyone. In this paper, we present a methodology for creating QR codes by which the users enter text into a web browser and get the QR code generated. Drupal module was used in conjunction with the popular libqrencode C library to develop user interface on the web browser and encode data in a QR Code symbol. The experiment was conducted using single and multiple lines of text in both English and Thai languages. The result shows that all QR encoding outputs were successfully and correctly generated.},
+  Doi                      = {10.1109/ICTKE.2010.5692920},
+  File                     = {IEEE Xplore Abstract Record:C\:\\Users\\Thiago\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\2jvv8all.default\\zotero\\storage\\DF6PGDR5\\articleDetails.html:text/html;IEEE Xplore Full Text PDF:C\:\\Users\\Thiago\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\2jvv8all.default\\zotero\\storage\\3E4G4QZP\\Sutheebanjard e Premchaiswadi - 2010 - QR-code generator.pdf:application/pdf},
+  Keywords                 = {Arrays, bar codes, Browsers, Drupal module, Educational institutions, Encoding, Internet, ISO standards, Knowledge engineering, libqrencode C library, magazine ads, mobile handsets, mobile phones, product packaging, program compilers, QR code, QR code generator, Quick Response Code, quick response codes, user interface, Websites},
+  Owner                    = {Thiago},
+  Timestamp                = {2015.05.05}
+}
+
+@InProceedings{Vantagens,
+  Title                    = {Using web - developer technologies for building an academic service},
+  Author                   = {Szybalski, M. and Zabierowski, W.},
+  Booktitle                = {CAD Systems in Microelectronics (CADSM), 2011 11th International Conference The Experience of Designing and Application of},
+  Year                     = {2011},
+  Month                    = {Feb},
+  Pages                    = {301-303},
+
+  Keywords                 = {Internet;SQL;computer aided instruction;relational databases;CMS module;Internet service;PHP technology;Web developer technology;academic service;auction system module;forum module;students houses;Architecture;Buildings;Computer architecture;Databases;Electronic mail;Engines;CMS;MySQL database;PHP;forum}
+}
+
+@Book{Tanenbaum,
+  Title                    = {Sistemas Operacionais: Projetos e Implementação},
+  Author                   = {Andrew S.{} Tanenbaum and Albert Woodhull},
+  Editor                   = {Bookman},
+  Publisher                = {--},
+  Year                     = {2006},
+  Number                   = {985},
+
+  Owner                    = {thiago},
+  Timestamp                = {2014.11.02}
+}
+
+@InProceedings{Tang2012,
+  Title                    = {{NEIMiner}: {A} model driven data mining system for studying environmental impact of nanomaterials},
+  Author                   = {Tang, Kaizhi and Liu, Xiong and Harper, S. and Steevens, J.A. and Xu, R.},
+  Booktitle                = {2012 {IEEE} {International} {Conference} on {Bioinformatics} and {Biomedicine} {Workshops} ({BIBMW})},
+  Year                     = {2012},
+  Month                    = oct,
+  Pages                    = {895--902},
+
+  Abstract                 = {As more engineered nanomaterials (eNM) are developed for a wide range of applications, it is crucial to minimize any unintended environmental impacts resulting from the application of eNM. To realize this vision, industry and policymakers must base risk management decisions on sound scientific information about the environmental fate of eNM, their availability to receptor organisms (e.g., uptake), and any resultant biological effects (e.g. toxicity). To address this critical need, we propose a model driven data mining system, called NEIMiner, for studying nanomaterial environmental impact (NEI). NEIMiner consists of four components: NEI modeling framework data integration, data management and access, and model discovery and composition. The NEI modeling framework defines the scope of NEI modeling and the strategy of integrating NEI models to form a layered, comprehensive predictability. The data integration layer brings together heterogeneous data sources related to NEI via automatic web services and web scraping technologies. The data management and access layer reuses and extends a popular Content Management System (CMS), Drupal, and consists of modules that model the complex data structure for NEI related bibliography and characterization data. The model discovery and composition layer provides an advanced analysis capability for NEI data. Together, these components provide significant value to the process of aggregating and analyzing large-scale distributed NEI data. A prototype of the NEIMiner system is available at http://neiminer.i-a-i.com/.},
+  Doi                      = {10.1109/BIBMW.2012.6470260},
+  File                     = {IEEE Xplore Abstract Record:C\:\\Users\\Thiago\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\2jvv8all.default\\zotero\\storage\\T2M3XIWZ\\icp.html:text/html},
+  Keywords                 = {Analytical models, Atmospheric modeling, automatic Web scraping technologies, automatic Web services technologies, bioinformatics, Biological system modeling, complex data structure, composition layer, content management, content management system, data access, data integration, data integration layer, data management, data mining, Data models, Distributed databases, Drupal, engineered nanomaterials, eNM, environmental fate, heterogeneous data sources, large-scale distributed NEI data, large-scale systems, model driven data mining system, modeling, nanobiotechnology, nanomaterial environmental impact, Nanomaterials, nanostructured materials, NEIMiner system, NEI modeling framework, NEI model integration, NEI related bibliography data, NEI related characterization data, receptor organisms, resultant biological effects, risk management, risk management decisions, sound scientific information, toxicity, toxicology, Web services},
+  Owner                    = {Thiago},
+  Shorttitle               = {{NEIMiner}},
+  Timestamp                = {2015.05.05}
+}
+
+@Article{tarhan,
+  Title                    = {Systematic analyses and comparison of development performance and product quality of Incremental Process and Agile Process},
+  Author                   = {Ayca Tarhan and Seda Gunes Yilmaz},
+  Journal                  = {Elselvier - Information and Software Technology 56 (2014) 477–494},
+  Year                     = {2014},
+
+  Owner                    = {Thiago},
+  Timestamp                = {2015.05.30}
+}
+
+@Article{Vasek2015,
+  Title                    = {Hacking is not random: a case-control study of webserver-compromise risk},
+  Author                   = {Vasek, M. and Wadleigh, J. and Moore, T.},
+  Journal                  = {IEEE Transactions on Dependable and Secure Computing},
+  Year                     = {2015},
+  Number                   = {99},
+  Pages                    = {1--1},
+  Volume                   = {PP},
+
+  __markedentry            = {[Thiago:]},
+  Abstract                 = {We describe a case-control study to identify risk factors that are associated with higher rates of webserver compromise. We inspect a random sample of around 200 000 webservers and automatically identify attributes hypothesized to affect the susceptibility to compromise, notably content management system (CMS) and webserver type. We then cross-list this information with data on webservers hacked to serve phishing pages or redirect to unlicensed online pharmacies. We find that webservers running WordPress and Joomla are more likely to be hacked than those not running any CMS, and that servers running Apache and Nginx are more likely to be hacked than those running Microsoft IIS. We also identify several WordPress plugins and Joomla extensions that associated with compromise. Furthermore, using a series of logistic regressions, we find that a CMSâ€™s market share is positively correlated with website compromise. Surprisingly, we find that webservers running outdated software are less likely to be compromised than those running up-to date software. We present evidence that this is true for core WordPress software (the most popular CMS platform) and many associated plugins. Finally, we examine what happens to webservers following compromise. We find that under 5\% of hacked WordPress websites are subsequently updated, but those that do are recompromised about half as often as those that do not update.},
+  Doi                      = {10.1109/TDSC.2015.2427847},
+  File                     = {IEEE Xplore Abstract Record:C\:\\Users\\Thiago\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\2jvv8all.default\\zotero\\storage\\PQJBUB22\\articleDetails.html:text/html;IEEE Xplore Full Text PDF:C\:\\Users\\Thiago\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\2jvv8all.default\\zotero\\storage\\TSXQNRNR\\Vasek et al. - 2015 - Hacking is not random a case-control study of web.pdf:application/pdf},
+  ISSN                     = {1545-5971},
+  Keywords                 = {case-control study, Content-management systems, cybercrime, security economics, webserver security},
+  Owner                    = {Thiago},
+  Shorttitle               = {Hacking is not random},
+  Timestamp                = {2015.05.05}
+}
+
+@InProceedings{Vasques2011,
+  Title                    = {A hybrid architecture for developing an educational {Content} {Management} {System}},
+  Author                   = {Vasquez-Ramirez, R. and Alor-HernÃ¡ndez, G. and Posada-Gomez, R.},
+  Booktitle                = {2011 21st {International} {Conference} on {Electrical} {Communications} and {Computers} ({CONIELECOMP})},
+  Year                     = {2011},
+  Month                    = feb,
+  Pages                    = {250--255},
+
+  __markedentry            = {[Thiago:6]},
+  Abstract                 = {Educational content is constantly changing due to updates in the education syllabus causing the educational software is not updated and therefore the contribution to the teaching process is limited. A CMS (Content Management System) and LMS (Learning Management System) have features that can be used in a combined way in order to create educational environments that enhance the teaching- learning process in classrooms. This paper presents an architecture for the development of a Web System that for managing and presenting educational content through an interface similar to an educational software allowing to reduce time and effort during the development process of this type of software. Our proposal borrows the main features both CMS and LMS in order to manage and reuse educational content. We present a case study where emphasize the use of our approach.},
+  Doi                      = {10.1109/CONIELECOMP.2011.5749369},
+  File                     = {IEEE Xplore Abstract Record:C\:\\Users\\Thiago\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\2jvv8all.default\\zotero\\storage\\EJ8NJUHP\\articleDetails.html:text/html;IEEE Xplore Full Text PDF:C\:\\Users\\Thiago\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\2jvv8all.default\\zotero\\storage\\S8QWRCDP\\VÃ¡squez-RamÃ­rez et al. - 2011 - A hybrid architecture for developing an educationa.pdf:application/pdf},
+  Keywords                 = {CMS, computer aided instruction, Computer architecture, content management, Databases, Education, educational content management system, educational environments, educational software, education syllabus, hybrid architecture, Hybrid Management System, learning management system, Least squares approximation, LMS, Software, teaching- learning process, Web pages, Web system development},
+  Owner                    = {Thiago},
+  Timestamp                = {2015.05.07}
+}
+
+@Article{Wang2014,
+  Title                    = {Microblogging in {Open} {Source} {Software} {Development}: {The} {Case} of {Drupal} and {Twitter}},
+  Author                   = {Wang, Xiaofeng and Kuzmickaja, I. and Stol, K.-J. and Abrahamsson, P. and Fitzgerald, B.},
+  Journal                  = {IEEE Software},
+  Year                     = {2014},
+
+  Month                    = jul,
+  Number                   = {4},
+  Pages                    = {72--80},
+  Volume                   = {31},
+
+  __markedentry            = {[Thiago:]},
+  Abstract                 = {Microblogging is a popular form of social media that has quickly permeated both enterprise and open source software development communities. However, how exactly open source communities can leverage microblogging isn't yet well understood.},
+  Doi                      = {10.1109/MS.2013.98},
+  File                     = {IEEE Xplore Abstract Record:C\:\\Users\\Thiago\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\2jvv8all.default\\zotero\\storage\\HWRTQ23C\\articleDetails.html:text/html;IEEE Xplore Full Text PDF:C\:\\Users\\Thiago\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\2jvv8all.default\\zotero\\storage\\U9QCFQV9\\Wang et al. - 2014 - Microblogging in Open Source Software Development.pdf:application/pdf},
+  ISSN                     = {0740-7459},
+  Keywords                 = {Blogs, communication, crowdsourcing, Drupal, enterprise, Media, microblogging, open source community, Open source software, open source software development, open source software development community, pervasive computing, public domain software, social media, social networking (online), Social network services, software engineering, Twitter},
+  Owner                    = {Thiago},
+  Shorttitle               = {Microblogging in {Open} {Source} {Software} {Development}},
+  Timestamp                = {2015.05.05}
+}
+
+@InProceedings{xiang,
+  Title                    = {Using Content Management System Joomla! to Build a Website for Research Institute Needs},
+  Author                   = {Cao Xiang and Wenhua Yu},
+  Booktitle                = {Management and Service Science (MASS), 2010 International Conference on},
+  Year                     = {2010},
+  Month                    = {Aug},
+  Pages                    = {1-3},
+
+  Doi                      = {10.1109/ICMSS.2010.5577465},
+  Keywords                 = {Web sites;content management;graphical user interfaces;Joomla system;Web site;content management system;Communities;Content management;Educational institutions;Layout;Rendering (computer graphics);Web sites}
+}
+
+@InProceedings{Xiang2010,
+  Title                    = {Using {Content} {Management} {System} {Joomla}! to {Build} a {Website} for {Research} {Institute} {Needs}},
+  Author                   = {Xiang, Cao and Yu, Wenhua},
+  Booktitle                = {2010 {International} {Conference} on {Management} and {Service} {Science} ({MASS})},
+  Year                     = {2010},
+  Month                    = aug,
+  Pages                    = {1--3},
+
+  Abstract                 = {This paper introduces the important concepts, main features, basic function and common applications of the award-winning content management system (CMS): Joomla!, which enables you to build Web sites and powerful online applications. After that, we will focus on the procedures and techniques on how to customize a unique template that you or your clients wanted.},
+  Doi                      = {10.1109/ICMSS.2010.5577465},
+  File                     = {IEEE Xplore Abstract Record:C\:\\Users\\Thiago\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\2jvv8all.default\\zotero\\storage\\KKXA3VNX\\icp.html:text/html},
+  Keywords                 = {Communities, content management, content management system, Educational institutions, graphical user interfaces, Joomla system, Layout, Rendering (computer graphics), Web site, Web sites},
+  Owner                    = {Thiago},
+  Timestamp                = {2015.05.05}
+}
+
+@InProceedings{Yen2008,
+  Title                    = {A {Web}-based {CMS}/{PDM} {Integration} for {Product} {Design} and {Manufacturing}},
+  Author                   = {Yen, Chia-Chen and Yen, Chiaming and Hsu, Jih-Shih},
+  Booktitle                = {{IEEE} {International} {Conference} on e-{Business} {Engineering}, 2008. {ICEBE} '08},
+  Year                     = {2008},
+  Month                    = oct,
+  Pages                    = {549--553},
+
+  __markedentry            = {[Thiago:6]},
+  Abstract                 = {This paper is a practical application to integrate CMS (content management system) with PDM (product data management) in product design and manufacturing phases. The trends of Internet development and the popularity of World Wide Web have changed the business models of global enterprises, and the importance of CMS has increased dramatically in recent years, but the open source CMS is usually criticized for the lack of applications in manufacturing fields. This study creates a Web-based PDM system with open source CMS providing the Internet computer-aided design environment for the information creating, sharing, and managing in the product design/manufacturing phases. With the flexibility features of open source CMS, the further PDM functions can be installed, modified or developed.},
+  Doi                      = {10.1109/ICEBE.2008.104},
+  File                     = {IEEE Xplore Abstract Record:C\:\\Users\\Thiago\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\2jvv8all.default\\zotero\\storage\\ZQU7TQND\\articleDetails.html:text/html;IEEE Xplore Full Text PDF:C\:\\Users\\Thiago\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\2jvv8all.default\\zotero\\storage\\98W6IE93\\Yen et al. - 2008 - A Web-based CMSPDM Integration for Product Design.pdf:application/pdf},
+  Keywords                 = {Application software, business model, Collision mitigation, computer-aided design environment, computer aided manufacturing, content management, content management system, Design automation, Environmental management, global enterprise, Internet, open source CMS, product data management, Product Data Management (PDM), product design, production engineering computing, product manufacturing, Pulp manufacturing, Virtual manufacturing, Web-based Mechanical Design and Manufacturing, Web sites, World Wide Web},
+  Owner                    = {Thiago},
+  Timestamp                = {2015.05.07}
+}
+
+@InProceedings{Yoshi,
+  Title                    = {Discussion on business of free software products - through E-Jikei Network Project},
+  Author                   = {Yoshiura, N.},
+  Booktitle                = {Instrumentation, Communications, Information Technology, and Biomedical Engineering (ICICI-BME), 2011 2nd International Conference on},
+  Year                     = {2011},
+  Month                    = {Nov},
+  Pages                    = {19-22},
+
+  Doi                      = {10.1109/ICICI-BME.2011.6108582},
+  Keywords                 = {organisational aspects;public domain software;software development management;software engineering;E-Jikei network project;business discussion;free software products;open source software;organizations;software engineering;software products authors;Cameras;Companies;Open source software;Patents;Security;business model;free software;open source software;patent;software business}
+}
+
+@InProceedings{Yusoff2011,
+  Title                    = {The visual wiki for the first step of {KMS} in community college},
+  Author                   = {Yusoff, M.Y.M. and Jaafar, J. and Mahmood, A.K.},
+  Booktitle                = {National {Postgraduate} {Conference} ({NPC}), 2011},
+  Year                     = {2011},
+  Month                    = sep,
+  Pages                    = {1--6},
+
+  __markedentry            = {[Thiago:6]},
+  Abstract                 = {There are various Knowledge Management Systems available currently and designed to support knowledge sharing and learning. This study explores a certain success factors in CMS and how CMS can be a KMS for knowledge transfer and sharing in community college environment. Based on the data from a sample of community college CMS called â€œAmalan Pengurusan Ilmu di Kolej Komunitiâ€�, our analysis indicates that CMS success (in terms of the qualitative analysis) is related to the local community support of knowledge sharing and learning. The researchers found that visual wiki (CMS) is possible to be created and used as simple or first step towards KMS for the community college environment.},
+  Doi                      = {10.1109/NatPC.2011.6136300},
+  File                     = {IEEE Xplore Abstract Record:C\:\\Users\\Thiago\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\2jvv8all.default\\zotero\\storage\\AXTBCNTH\\articleDetails.html:text/html;IEEE Xplore Full Text PDF:C\:\\Users\\Thiago\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\2jvv8all.default\\zotero\\storage\\QKWPD37X\\Yusoff et al. - 2011 - The visual wiki for the first step of KMS in commu.pdf:application/pdf},
+  Keywords                 = {Amalan Pengurusan Ilmu di Kolej Komuniti, Blogs, CMS, Communities, community college, computer aided instruction, content management, content management system, Educational institutions, Internet, KMS, knowledge management, knowledge management systems, knowledge sharing, knowledge transfer, learning support, Prototypes, qualitative analysis, visual wiki, Web 2.0, Web sites},
+  Owner                    = {Thiago},
+  Timestamp                = {2015.05.07}
+}
+
+@Misc{CMS_proprietario,
+  Title                    = {JornalismoOnline},
+  Year                     = {2014},
+
+  Subtitle                 = {O que seria Sistemas de Gerenciador de Conteúdos (CMS)?},
+  Url                      = {http://jornalismoonlineufsc.blogspot.com.br/2010/08/o-que-seria-sistemas-de-gerenciador-de.html},
+  Urlaccessdate            = {03 Nov. 2014}
+}
+
+@Misc{coreMedia,
+  Title                    = {CoreMedia},
+  Year                     = {2014},
+
+  Subtitle                 = {Site},
+  Url                      = {http://www.coremedia.com/},
+  Urlaccessdate            = {03 Nov. 2014}
+}
+
+@Misc{Face,
+  Title                    = {Facebook},
+  Year                     = {2014},
+
+  Subtitle                 = {Site},
+  Url                      = {https://pt-br.facebook.com/},
+  Urlaccessdate            = {05 Out. 2014}
+}
+
+@Misc{GitHub,
+  Title                    = {GitHub},
+  Year                     = {2014},
+
+  Subtitle                 = {Site},
+  Url                      = {https://github.com/},
+  Urlaccessdate            = {02 Set. 2014}
+}
+
+@Misc{marketing,
+  Title                    = {MarketingdeConteúdo},
+  Year                     = {2014},
+
+  Subtitle                 = {Blog corporativo para iniciantes: Como escolher um CMS.},
+  Url                      = {http://marketingdeconteudo.com/como-escolher-um-cms/},
+  Urlaccessdate            = {19 Ago. 2014}
+}
+
+@Misc{opensource_cms,
+  Title                    = {OpenSourceCMS},
+  Year                     = {2014},
+
+  Subtitle                 = {CMS market share.},
+  Url                      = {http://www.opensourcecms.com/general/cms-marketshare.php},
+  Urlaccessdate            = {19 Ago. 2014}
+}
+
+@Misc{sherpa,
+  Title                    = {Sherpa},
+  Year                     = {2014},
+
+  Subtitle                 = {Site},
+  Url                      = {http://www.sherpaglobal.com/},
+  Urlaccessdate            = {03 Nov. 2014}
+}
+
+@Misc{twitter,
+  Title                    = {Twitter},
+  Year                     = {2014},
+
+  Subtitle                 = {Site},
+  Url                      = {https://twitter.com},
+  Urlaccessdate            = {05 Out. 2014}
+}
+
+@Misc{Vig,
+  Title                    = {CmsMatrix},
+  Year                     = {2014},
+
+  Subtitle                 = {Vignette Web Content Management (now OpenText Web Experience Management},
+  Url                      = {http://www.cmsmatrix.org/matrix/cms-matrix/vignette-web-content-management-now-opentext-web-experience-management-},
+  Urlaccessdate            = {03 Nov. 2014}
+}
+
+@Misc{Vision,
+  Title                    = {VisionWidget},
+  Year                     = {2014},
+
+  Subtitle                 = { - Front-End Design Impression: 30 CMS OpenSource Edition.},
+  Url                      = {http://visionwidget.com/free-cms-resources.html},
+  Urlaccessdate            = {02 Set. 2014}
+}
+

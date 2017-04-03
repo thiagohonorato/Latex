@@ -1,0 +1,21 @@
+% Dados pessoais
+\autor{Rafael de Souza Queiroz}
+\curso{Engenharia de Software}
+
+% Dados do trabalho
+\titulo{Sistema Inteligente para Aumento da Confiabilidade nas Informações sobre Transporte Público Coletivo Modal Ônibus do Distrito Federal}
+\data{2014}
+\palavraChaveUm{Transporte Público Coletivo}
+\palavraChaveDois{Sistemas Inteligentes de Transporte}
+
+% Dados da orientacao
+\orientador{Prof. Dr. Fabricio Ataides Braz}
+% \coorientador{(quando houver, Titulação Acadêmica e Nome do Orientador)}
+
+% Dados para a ficha catalográfica
+\cdu{02:141:005.6}
+
+% Dados da aprovação do trabalho
+\dataDaAprovacao{   /   /2014}
+\membroConvidadoUm{Prof. Nilton Correia da Silva}
+\membroConvidadoDois{Profª. Paulo Roberto Miranda Meirelles}

@@ -1,0 +1,640 @@
+\relax 
+\providecommand\BKM@entry[2]{}
+\providecommand*{\memsetcounter}[2]{}
+\providecommand\HyperFirstAtBeginDocument{\AtBeginDocument}
+\HyperFirstAtBeginDocument{\ifx\hyper@anchor\@undefined
+\global\let\oldcontentsline\contentsline
+\gdef\contentsline#1#2#3#4{\oldcontentsline{#1}{#2}{#3}}
+\global\let\oldnewlabel\newlabel
+\gdef\newlabel#1#2{\newlabelxx{#1}#2}
+\gdef\newlabelxx#1#2#3#4#5#6{\oldnewlabel{#1}{{#2}{#3}}}
+\AtEndDocument{\ifx\hyper@anchor\@undefined
+\let\contentsline\oldcontentsline
+\let\newlabel\oldnewlabel
+\fi}
+\fi}
+\global\let\hyper@last\relax 
+\gdef\HyperFirstAtBeginDocument#1{#1}
+\providecommand\HyField@AuxAddToFields[1]{}
+\catcode`:\active
+\catcode`;\active
+\catcode`!\active
+\catcode`?\active
+\catcode`"\active
+\catcode`<\active
+\catcode`>\active
+\@nameuse{es@quoting}
+\catcode`"\active
+\citation{abnt-url-package=url}
+\@writefile{toc}{\changetocdepth  {4}}
+\reset@newl@bel
+\select@language{brazil}
+\@writefile{toc}{\select@language{brazil}}
+\@writefile{lof}{\select@language{brazil}}
+\@writefile{lot}{\select@language{brazil}}
+\BKM@entry{id=1,dest={6368617074657262312E30},srcline={15}}{466F6C686120646520726F73746F}
+\BKM@entry{id=2,dest={6368617074657262322E30},srcline={2}}{466F6C6861206465206170726F76615C3334375C3334336F}
+\BKM@entry{id=3,dest={6368617074657262342E30},srcline={2}}{41677261646563696D656E746F73}
+\BKM@entry{id=4,dest={6368617074657262352E30},srcline={2}}{526573756D6F}
+\BKM@entry{id=5,dest={6368617074657262362E30},srcline={1}}{4162737472616374}
+\BKM@entry{id=6,dest={6C6F662E30},srcline={1}}{4C6973746120646520696C75737472615C3334375C3336356573}
+\citation{mamani}
+\citation{sommer92}
+\@writefile{brf}{\backcite{mamani}{{11}{(document)}{Doc-Start}}}
+\@writefile{brf}{\backcite{sommer92}{{11}{(document)}{Doc-Start}}}
+\BKM@entry{id=7,dest={6C6F742E30},srcline={4}}{4C6973746120646520746162656C6173}
+\citation{costa}
+\citation{Reis}
+\citation{patel}
+\citation{patel}
+\@writefile{brf}{\backcite{costa}{{13}{(document)}{Doc-Start}}}
+\@writefile{brf}{\backcite{Reis}{{13}{(document)}{Doc-Start}}}
+\@writefile{brf}{\backcite{patel}{{13}{(document)}{Doc-Start}}}
+\@writefile{brf}{\backcite{patel}{{13}{(document)}{Doc-Start}}}
+\BKM@entry{id=8,dest={6368617074657262382E30},srcline={1}}{4C69737461206465206162726576696174757261732065207369676C6173}
+\BKM@entry{id=9,dest={746F632E30},srcline={1}}{53756D5C33343172696F}
+\BKM@entry{id=10,dest={636861707465722E31},srcline={1}}{496E74726F64755C3334375C3334336F}
+\BKM@entry{id=11,dest={73656374696F6E2E312E31},srcline={7}}{4D6F746976615C3334375C3334336F2065206A757374696669636174697661}
+\BKM@entry{id=12,dest={73756273656374696F6E2E312E312E31},srcline={15}}{506C617461666F726D6173206465204772616E646520506F727465}
+\citation{shu_2013}
+\citation{Tanenbaum}
+\@writefile{toc}{\contentsline {chapter}{\chapternumberline {1}Introdu\IeC {\c c}\IeC {\~a}o}{19}{chapter.1}}
+\@writefile{toc}{\contentsline {section}{\numberline {1.1}Motiva\IeC {\c c}\IeC {\~a}o e justificativa}{19}{section.1.1}}
+\newlabel{Contex}{{\M@TitleReference {1.1}{Motiva\IeC {\c c}\IeC {\~a}o e justificativa}}{19}{Motivação e justificativa\relax }{section.1.1}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {1.1.1}Plataformas de Grande Porte}{19}{subsection.1.1.1}}
+\newlabel{Contex}{{\M@TitleReference {1.1.1}{Plataformas de Grande Porte}}{19}{Plataformas de Grande Porte\relax }{subsection.1.1.1}{}}
+\@writefile{brf}{\backcite{shu_2013}{{19}{1.1.1}{subsection.1.1.1}}}
+\@writefile{brf}{\backcite{Tanenbaum}{{19}{1.1.1}{subsection.1.1.1}}}
+\BKM@entry{id=13,dest={73756273656374696F6E2E312E312E32},srcline={22}}{446573656E766F6C76696D656E746F20436C69656E7465205365727669646F72}
+\citation{Tanenbaum}
+\citation{Tanenbaum}
+\citation{Tanenbaum}
+\citation{Duchessi_98}
+\BKM@entry{id=14,dest={73756273656374696F6E2E312E312E33},srcline={40}}{446573656E766F6C76696D656E746F20576562}
+\citation{junior_2003}
+\@writefile{toc}{\contentsline {subsection}{\numberline {1.1.2}Desenvolvimento Cliente Servidor}{20}{subsection.1.1.2}}
+\newlabel{Contex}{{\M@TitleReference {1.1.2}{Desenvolvimento Cliente Servidor}}{20}{Desenvolvimento Cliente Servidor\relax }{subsection.1.1.2}{}}
+\@writefile{brf}{\backcite{Tanenbaum}{{20}{1.1.2}{subsection.1.1.2}}}
+\@writefile{brf}{\backcite{Tanenbaum}{{20}{1.1.2}{subsection.1.1.2}}}
+\@writefile{brf}{\backcite{Tanenbaum}{{20}{1.1.2}{subsection.1.1.2}}}
+\@writefile{brf}{\backcite{Duchessi_98}{{20}{1.1.2}{subsection.1.1.2}}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {1.1.3}Desenvolvimento Web}{20}{subsection.1.1.3}}
+\newlabel{Contex}{{\M@TitleReference {1.1.3}{Desenvolvimento Web}}{20}{Desenvolvimento Web\relax }{subsection.1.1.3}{}}
+\@writefile{brf}{\backcite{junior_2003}{{20}{1.1.3}{subsection.1.1.3}}}
+\citation{Meusel_2008}
+\citation{Conallen}
+\citation{Conallen}
+\citation{perizo_2005}
+\citation{perizo_2005}
+\citation{Conallen}
+\citation{Conallen}
+\citation{perizo_2005}
+\citation{perizo_2005}
+\BKM@entry{id=15,dest={73656374696F6E2E312E32},srcline={52}}{54656D61}
+\citation{coelho2011}
+\citation{Barcia}
+\citation{barrere}
+\@writefile{brf}{\backcite{Meusel_2008}{{21}{1.1.3}{subsection.1.1.3}}}
+\@writefile{brf}{\backcite{Conallen}{{21}{1.1.3}{subsection.1.1.3}}}
+\@writefile{brf}{\backcite{Conallen}{{21}{1.1.3}{subsection.1.1.3}}}
+\@writefile{brf}{\backcite{perizo_2005}{{21}{1.1.3}{subsection.1.1.3}}}
+\@writefile{brf}{\backcite{perizo_2005}{{21}{1.1.3}{subsection.1.1.3}}}
+\@writefile{brf}{\backcite{Conallen}{{21}{1.1.3}{subsection.1.1.3}}}
+\@writefile{brf}{\backcite{Conallen}{{21}{1.1.3}{subsection.1.1.3}}}
+\@writefile{brf}{\backcite{perizo_2005}{{21}{1.1.3}{subsection.1.1.3}}}
+\@writefile{brf}{\backcite{perizo_2005}{{21}{1.1.3}{subsection.1.1.3}}}
+\@writefile{toc}{\contentsline {section}{\numberline {1.2}Tema}{21}{section.1.2}}
+\newlabel{Tema}{{\M@TitleReference {1.2}{Tema}}{21}{Tema\relax }{section.1.2}{}}
+\@writefile{brf}{\backcite{coelho2011}{{21}{1.2}{section.1.2}}}
+\@writefile{brf}{\backcite{Barcia}{{21}{1.2}{section.1.2}}}
+\@writefile{brf}{\backcite{barrere}{{21}{1.2}{section.1.2}}}
+\BKM@entry{id=16,dest={636861707465722E32},srcline={60}}{446566696E695C3334375C3336356573}
+\BKM@entry{id=17,dest={73656374696F6E2E322E31},srcline={64}}{50726F626C656D612041626F726461646F2044656E74726F20646F2054656D61}
+\citation{DePadua_2003}
+\citation{DePadua_2003}
+\citation{DePadua_2003}
+\citation{9126}
+\@writefile{toc}{\contentsline {chapter}{\chapternumberline {2}Defini\IeC {\c c}\IeC {\~o}es}{23}{chapter.2}}
+\@writefile{toc}{\contentsline {section}{\numberline {2.1}Problema Abordado Dentro do Tema}{23}{section.2.1}}
+\newlabel{probl}{{\M@TitleReference {2.1}{Problema Abordado Dentro do Tema}}{23}{Problema Abordado Dentro do Tema\relax }{section.2.1}{}}
+\@writefile{brf}{\backcite{DePadua_2003}{{23}{2.1}{section.2.1}}}
+\@writefile{brf}{\backcite{DePadua_2003}{{23}{2.1}{section.2.1}}}
+\@writefile{brf}{\backcite{DePadua_2003}{{23}{2.1}{section.2.1}}}
+\@writefile{brf}{\backcite{9126}{{23}{2.1}{section.2.1}}}
+\BKM@entry{id=18,dest={73756273656374696F6E2E322E312E31},srcline={87}}{4465636C6172615C3334375C3334336F20646F2050726F626C656D61}
+\BKM@entry{id=19,dest={73656374696F6E2E322E32},srcline={91}}{4F626A657469766F73}
+\BKM@entry{id=20,dest={73756273656374696F6E2E322E322E31},srcline={95}}{4F626A657469766F20476572616C}
+\BKM@entry{id=21,dest={73756273656374696F6E2E322E322E32},srcline={99}}{4F626A657469766F732045737065635C3335356669636F73}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.1.1}Declara\IeC {\c c}\IeC {\~a}o do Problema}{24}{subsection.2.1.1}}
+\newlabel{Declara\IeC {\c c}\IeC {\~a}o do Problema}{{\M@TitleReference {2.1.1}{Declara\IeC {\c c}\IeC {\~a}o do Problema}}{24}{Declaração do Problema\relax }{subsection.2.1.1}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {2.2}Objetivos}{24}{section.2.2}}
+\newlabel{objEspp1}{{\M@TitleReference {2.2}{Objetivos}}{24}{Objetivos\relax }{section.2.2}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.2.1}Objetivo Geral}{24}{subsection.2.2.1}}
+\newlabel{Objetivo Geral}{{\M@TitleReference {2.2.1}{Objetivo Geral}}{24}{Objetivo Geral\relax }{subsection.2.2.1}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.2.2}Objetivos Espec\IeC {\'\i }ficos}{24}{subsection.2.2.2}}
+\newlabel{objEspp2}{{\M@TitleReference {2.2.2}{Objetivos Espec\IeC {\'\i }ficos}}{24}{Objetivos Específicos\relax }{subsection.2.2.2}{}}
+\BKM@entry{id=22,dest={73656374696F6E2E322E33},srcline={123}}{4D65746F646F6C6F676961206465205065737175697361}
+\citation{moresi}
+\BKM@entry{id=23,dest={73656374696F6E2E322E34},srcline={134}}{506C616E656A616D656E746F}
+\BKM@entry{id=24,dest={73656374696F6E2E322E35},srcline={145}}{4F7267616E697A615C3334375C3334336F206461205065737175697361}
+\@writefile{toc}{\contentsline {section}{\numberline {2.3}Metodologia de Pesquisa}{25}{section.2.3}}
+\newlabel{Metodologia}{{\M@TitleReference {2.3}{Metodologia de Pesquisa}}{25}{Metodologia de Pesquisa\relax }{section.2.3}{}}
+\@writefile{brf}{\backcite{moresi}{{25}{2.3}{section.2.3}}}
+\@writefile{toc}{\contentsline {section}{\numberline {2.4}Planejamento}{25}{section.2.4}}
+\newlabel{Cronograma e Execu\IeC {\c c}\IeC {\~a}o}{{\M@TitleReference {2.4}{Planejamento}}{25}{Planejamento\relax }{section.2.4}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {1}{\ignorespaces Estrutura Anal\IeC {\'\i }tica do Projeto de TCC.}}{26}{figure.2.1}}
+\newlabel{EAP}{{\M@TitleReference {1}{Estrutura Anal\IeC {\'\i }tica do Projeto de TCC.}}{26}{Estrutura Analítica do Projeto de TCC}{figure.2.1}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {2.5}Organiza\IeC {\c c}\IeC {\~a}o da Pesquisa}{26}{section.2.5}}
+\BKM@entry{id=25,dest={636861707465722E33},srcline={1}}{434D53}
+\BKM@entry{id=26,dest={73656374696F6E2E332E31},srcline={5}}{4F20717565205C33353120756D20434D533F}
+\citation{xiang}
+\citation{barrere}
+\citation{muslu}
+\BKM@entry{id=27,dest={73756273656374696F6E2E332E312E31},srcline={13}}{56616E746167656E73206E6F2075736F20646520434D532070617261206F20646573656E766F6C76696D656E746F20776562}
+\citation{barrere}
+\citation{costa}
+\citation{Vantagens}
+\citation{DosSantos}
+\@writefile{toc}{\contentsline {chapter}{\chapternumberline {3}CMS}{27}{chapter.3}}
+\newlabel{CMS}{{\M@TitleReference {3}{CMS}}{27}{CMS\relax }{chapter.3}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {3.1}O que \IeC {\'e} um CMS?}{27}{section.3.1}}
+\@writefile{brf}{\backcite{xiang}{{27}{3.1}{section.3.1}}}
+\@writefile{brf}{\backcite{barrere}{{27}{3.1}{section.3.1}}}
+\@writefile{brf}{\backcite{muslu}{{27}{3.1}{section.3.1}}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.1.1}Vantagens no uso de CMS para o desenvolvimento web}{27}{subsection.3.1.1}}
+\@writefile{brf}{\backcite{barrere}{{27}{3.1.1}{subsection.3.1.1}}}
+\@writefile{brf}{\backcite{costa}{{27}{3.1.1}{subsection.3.1.1}}}
+\@writefile{brf}{\backcite{Vantagens}{{27}{3.1.1}{subsection.3.1.1}}}
+\@writefile{brf}{\backcite{DosSantos}{{27}{3.1.1}{subsection.3.1.1}}}
+\BKM@entry{id=28,dest={73756273656374696F6E2E332E312E32},srcline={28}}{44657376616E746167656E73206E6F2075736F20646520434D532070617261206F20646573656E766F6C76696D656E746F20776562}
+\citation{barrere}
+\citation{DosSantos}
+\BKM@entry{id=29,dest={73656374696F6E2E332E32},srcline={39}}{55736F20646520434D53206E6120696E645C333732737472696120646520536F667477617265}
+\citation{barrere}
+\citation{DosSantos}
+\BKM@entry{id=30,dest={73656374696F6E2E332E33},srcline={66}}{437269745C33353172696F7320706172612061206573636F6C686120646520434D53732070617261206F2074726162616C686F20612073657220646573656E766F6C7669646F}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.1.2}Desvantagens no uso de CMS para o desenvolvimento web}{28}{subsection.3.1.2}}
+\@writefile{brf}{\backcite{barrere}{{28}{3.1.2}{subsection.3.1.2}}}
+\@writefile{brf}{\backcite{DosSantos}{{28}{3.1.2}{subsection.3.1.2}}}
+\@writefile{toc}{\contentsline {section}{\numberline {3.2}Uso de CMS na ind\IeC {\'u}stria de Software}{28}{section.3.2}}
+\newlabel{uso_CMS}{{\M@TitleReference {3.2}{Uso de CMS na ind\IeC {\'u}stria de Software}}{28}{Uso de CMS na indústria de Software\relax }{section.3.2}{}}
+\@writefile{brf}{\backcite{barrere}{{28}{3.2}{section.3.2}}}
+\@writefile{brf}{\backcite{DosSantos}{{28}{3.2}{section.3.2}}}
+\@writefile{lot}{\contentsline {table}{\numberline {1}{\ignorespaces O Uso de CMS na Ind\IeC {\'u}stria}}{28}{table.3.1}}
+\newlabel{Uso_CMS}{{\M@TitleReference {1}{O Uso de CMS na Ind\IeC {\'u}stria}}{28}{O Uso de CMS na Indústria\relax }{table.3.1}{}}
+\citation{Vision}
+\citation{Vision}
+\BKM@entry{id=31,dest={73756273656374696F6E2E332E332E31},srcline={73}}{536F667477617265204C69767265202F20536F6674776172652050726F70726965745C33343172696F}
+\citation{Yoshi}
+\citation{aguiar2007}
+\citation{aguiar2007}
+\citation{opensource_cms}
+\citation{Vision}
+\citation{marketing}
+\citation{Vig}
+\citation{coreMedia}
+\citation{sherpa}
+\citation{CMS_Proprietario}
+\gdef \LT@i {\LT@entry 
+    {1}{129.11774pt}\LT@entry 
+    {1}{98.42143pt}\LT@entry 
+    {1}{139.99794pt}}
+\@writefile{toc}{\contentsline {section}{\numberline {3.3}Crit\IeC {\'e}rios para a escolha de CMSs para o trabalho a ser desenvolvido}{29}{section.3.3}}
+\@writefile{brf}{\backcite{Vision}{{29}{3.3}{section.3.3}}}
+\@writefile{brf}{\backcite{Vision}{{29}{3.3}{section.3.3}}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.3.1}Software Livre / Software Propriet\IeC {\'a}rio}{29}{subsection.3.3.1}}
+\newlabel{free_software}{{\M@TitleReference {3.3.1}{Software Livre / Software Propriet\IeC {\'a}rio}}{29}{Software Livre / Software Proprietário\relax }{subsection.3.3.1}{}}
+\@writefile{brf}{\backcite{Yoshi}{{29}{3.3.1}{subsection.3.3.1}}}
+\@writefile{brf}{\backcite{aguiar2007}{{29}{3.3.1}{subsection.3.3.1}}}
+\@writefile{brf}{\backcite{aguiar2007}{{29}{3.3.1}{subsection.3.3.1}}}
+\@writefile{brf}{\backcite{opensource_cms}{{29}{3.3.1}{subsection.3.3.1}}}
+\@writefile{brf}{\backcite{Vision}{{29}{3.3.1}{subsection.3.3.1}}}
+\@writefile{brf}{\backcite{marketing}{{29}{3.3.1}{subsection.3.3.1}}}
+\@writefile{brf}{\backcite{Vig}{{29}{3.3.1}{subsection.3.3.1}}}
+\@writefile{brf}{\backcite{coreMedia}{{29}{3.3.1}{subsection.3.3.1}}}
+\@writefile{brf}{\backcite{sherpa}{{29}{3.3.1}{subsection.3.3.1}}}
+\@writefile{brf}{\backcite{CMS_Proprietario}{{29}{3.3.1}{subsection.3.3.1}}}
+\@writefile{lot}{\contentsline {table}{\numberline {2}{Mapeamento de CMSs em Software Livre e Software Propriet\IeC {\'a}rio}}{29}{table.3.2}}
+\newlabel{tipos_CMS}{{\M@TitleReference {2}{Software Livre / Software Propriet\IeC {\'a}rio}}{29}{Mapeamento de CMSs em Software Livre e Software Proprietário\relax }{table.3.2}{}}
+\citation{Karels}
+\citation{Karels}
+\BKM@entry{id=32,dest={73756273656374696F6E2E332E332E32},srcline={121}}{506F70756C61726964616465}
+\citation{salgado}
+\@writefile{brf}{\backcite{Karels}{{30}{3.3.1}{table.3.2}}}
+\@writefile{brf}{\backcite{Karels}{{30}{3.3.1}{table.3.2}}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.3.2}Popularidade}{30}{subsection.3.3.2}}
+\@writefile{brf}{\backcite{salgado}{{30}{3.3.2}{subsection.3.3.2}}}
+\citation{GitHub}
+\citation{face}
+\citation{twitter}
+\citation{face}
+\citation{twitter}
+\citation{GitHub}
+\citation{marketing}
+\citation{marketing}
+\citation{marketing}
+\citation{marketing}
+\@writefile{brf}{\backcite{GitHub}{{31}{3.3.2}{subsection.3.3.2}}}
+\@writefile{brf}{\backcite{face}{{31}{3.3.2}{subsection.3.3.2}}}
+\@writefile{brf}{\backcite{twitter}{{31}{3.3.2}{subsection.3.3.2}}}
+\@writefile{brf}{\backcite{face}{{31}{3.3.2}{subsection.3.3.2}}}
+\@writefile{brf}{\backcite{twitter}{{31}{3.3.2}{subsection.3.3.2}}}
+\@writefile{brf}{\backcite{GitHub}{{31}{3.3.2}{subsection.3.3.2}}}
+\@writefile{lot}{\contentsline {table}{\numberline {3}{\ignorespaces Popularidade dos CMSs Mapeados}}{31}{table.3.3}}
+\newlabel{Popularidade}{{\M@TitleReference {3}{Popularidade dos CMSs Mapeados}}{31}{Popularidade dos CMSs Mapeados\relax }{table.3.3}{}}
+\@writefile{brf}{\backcite{marketing}{{31}{3.3.2}{table.3.3}}}
+\@writefile{brf}{\backcite{marketing}{{31}{3.3.2}{table.3.3}}}
+\@writefile{brf}{\backcite{marketing}{{31}{3.3.2}{table.3.3}}}
+\citation{marketing}
+\citation{opensource_cms}
+\@writefile{brf}{\backcite{marketing}{{32}{3.3.2}{table.3.3}}}
+\@writefile{brf}{\backcite{marketing}{{32}{3.3.2}{table.3.3}}}
+\@writefile{brf}{\backcite{opensource_cms}{{32}{3.3.2}{table.3.3}}}
+\@writefile{lof}{\contentsline {figure}{\numberline {2}{\ignorespaces Popularidade pelo n\IeC {\'u}mero de commits no git hub.}}{32}{figure.3.2}}
+\newlabel{pop_001}{{\M@TitleReference {2}{Popularidade pelo n\IeC {\'u}mero de commits no git hub.}}{32}{Popularidade pelo número de commits no git hub}{figure.3.2}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3}{\ignorespaces Percentual de popularidade pelo n\IeC {\'u}mero de commits no git hub.}}{32}{figure.3.3}}
+\newlabel{pop_002}{{\M@TitleReference {3}{Percentual de popularidade pelo n\IeC {\'u}mero de commits no git hub.}}{32}{Percentual de popularidade pelo número de commits no git hub}{figure.3.3}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4}{\ignorespaces Popularidade de acordo com a rede social Facebook.}}{33}{figure.3.4}}
+\newlabel{pop_003}{{\M@TitleReference {4}{Popularidade de acordo com a rede social Facebook.}}{33}{Popularidade de acordo com a rede social Facebook}{figure.3.4}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {5}{\ignorespaces Percentual de popularidade de acordo com a rede social Facebook.}}{33}{figure.3.5}}
+\newlabel{pop_004}{{\M@TitleReference {5}{Percentual de popularidade de acordo com a rede social Facebook.}}{33}{Percentual de popularidade de acordo com a rede social Facebook}{figure.3.5}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {6}{\ignorespaces Popularidade de acordo com a rede social Twitter.}}{33}{figure.3.6}}
+\newlabel{pop_005}{{\M@TitleReference {6}{Popularidade de acordo com a rede social Twitter.}}{33}{Popularidade de acordo com a rede social Twitter}{figure.3.6}{}}
+\BKM@entry{id=33,dest={73656374696F6E2E332E34},srcline={217}}{56616E746167656E7320652044657376616E746167656E7320646F7320434D53206573636F6C6869646F73}
+\citation{Reis}
+\citation{Reis}
+\citation{Reis}
+\citation{costa}
+\citation{Reis}
+\citation{costa}
+\citation{Reis}
+\citation{costa}
+\citation{Reis}
+\@writefile{lof}{\contentsline {figure}{\numberline {7}{\ignorespaces Percentual de popularidade de acordo com a rede social Twitter.}}{34}{figure.3.7}}
+\newlabel{pop_006}{{\M@TitleReference {7}{Percentual de popularidade de acordo com a rede social Twitter.}}{34}{Percentual de popularidade de acordo com a rede social Twitter}{figure.3.7}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {3.4}Vantagens e Desvantagens dos CMS escolhidos}{34}{section.3.4}}
+\newlabel{Cms_vantagens}{{\M@TitleReference {3.4}{Vantagens e Desvantagens dos CMS escolhidos}}{34}{Vantagens e Desvantagens dos CMS escolhidos\relax }{section.3.4}{}}
+\@writefile{brf}{\backcite{Reis}{{34}{1}{Item.10}}}
+\@writefile{brf}{\backcite{Reis}{{34}{2}{Item.11}}}
+\@writefile{brf}{\backcite{Reis}{{34}{3}{Item.12}}}
+\@writefile{brf}{\backcite{costa}{{34}{3.4}{Item.12}}}
+\@writefile{brf}{\backcite{Reis}{{34}{3.4}{Item.12}}}
+\gdef \LT@ii {\LT@entry 
+    {1}{77.79999pt}\LT@entry 
+    {1}{152.4pt}\LT@entry 
+    {1}{232.4pt}}
+\BKM@entry{id=34,dest={73656374696F6E2E332E35},srcline={326}}{434D5373206520737561732063617261637465725C333535737469636173}
+\BKM@entry{id=35,dest={73756273656374696F6E2E332E352E31},srcline={328}}{5669735C3334336F2064652052657175697369746F7320656D20456E67656E686172696120646520536F667477617265}
+\citation{DePadua_2003}
+\@writefile{brf}{\backcite{costa}{{35}{4}{table.3.4}}}
+\@writefile{brf}{\backcite{Reis}{{35}{4}{table.3.4}}}
+\@writefile{lot}{\contentsline {table}{\numberline {4}{Vantagens e Desvantagens dos CMSs, segundo \citeonline  {costa},\citeonline  {Reis}}}{35}{table.3.4}}
+\newlabel{Vantagens}{{\M@TitleReference {4}{Vantagens e Desvantagens dos CMS escolhidos}}{35}{Vantagens e Desvantagens dos CMSs, segundo \citeonline {costa},\citeonline {Reis}\relax }{table.3.4}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {3.5}CMSs e suas caracter\IeC {\'\i }sticas}{35}{section.3.5}}
+\citation{leite}
+\citation{kotonya}
+\BKM@entry{id=36,dest={73756273656374696F6E2E332E352E32},srcline={338}}{52657175697369746F732046756E63696F6E616973}
+\citation{DeBortoli}
+\citation{cysneiros_tese}
+\BKM@entry{id=37,dest={73756273656374696F6E2E332E352E33},srcline={344}}{52657175697369746F73204E5C3334336F2046756E63696F6E616973}
+\citation{cysneiros97}
+\citation{DeBortoli}
+\BKM@entry{id=38,dest={73756273756273656374696F6E2E332E352E332E31},srcline={349}}{436C61737369666963615C3334375C3334336F20646F732052657175697369746F73206E5C3334336F2066756E63696F6E616973}
+\citation{mamani}
+\citation{mamani}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.5.1}Vis\IeC {\~a}o de Requisitos em Engenharia de Software}{36}{subsection.3.5.1}}
+\@writefile{brf}{\backcite{DePadua_2003}{{36}{3.5.1}{subsection.3.5.1}}}
+\@writefile{brf}{\backcite{leite}{{36}{3.5.1}{subsection.3.5.1}}}
+\@writefile{brf}{\backcite{kotonya}{{36}{3.5.1}{subsection.3.5.1}}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.5.2}Requisitos Funcionais}{36}{subsection.3.5.2}}
+\@writefile{brf}{\backcite{DeBortoli}{{36}{3.5.2}{subsection.3.5.2}}}
+\@writefile{brf}{\backcite{cysneiros_tese}{{36}{3.5.2}{subsection.3.5.2}}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.5.3}Requisitos N\IeC {\~a}o Funcionais}{36}{subsection.3.5.3}}
+\@writefile{brf}{\backcite{cysneiros97}{{36}{3.5.3}{subsection.3.5.3}}}
+\@writefile{brf}{\backcite{DeBortoli}{{36}{3.5.3}{subsection.3.5.3}}}
+\citation{sommer92}
+\citation{sommer92}
+\citation{sommer92}
+\BKM@entry{id=39,dest={73756273756273656374696F6E2E332E352E332E32},srcline={370}}{52657175697369746F73204E5C3334336F2046756E63696F6E61697320646520446573656D70656E686F}
+\citation{Nixon}
+\citation{DePadua_2003}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {3.5.3.1}Classifica\IeC {\c c}\IeC {\~a}o dos Requisitos n\IeC {\~a}o funcionais}{37}{subsubsection.3.5.3.1}}
+\@writefile{lof}{\contentsline {figure}{\numberline {8}{\ignorespaces Classifica\IeC {\c c}\IeC {\~a}o de Requisitos N\IeC {\~a}o Funcionais de \cite  {mamani}}}{37}{figure.3.8}}
+\@writefile{brf}{\backcite{mamani}{{37}{8}{figure.3.8}}}
+\newlabel{RNF}{{\M@TitleReference {8}{Classifica\IeC {\c c}\IeC {\~a}o de Requisitos N\IeC {\~a}o Funcionais de \cite  {mamani}}}{37}{Classificação de Requisitos Não Funcionais de \cite {mamani}\relax }{figure.3.8}{}}
+\@writefile{brf}{\backcite{sommer92}{{37}{3.5.3.1}{figure.3.8}}}
+\@writefile{lof}{\contentsline {figure}{\numberline {9}{\ignorespaces Classifica\IeC {\c c}\IeC {\~a}o de Requisitos n\IeC {\~a}o Funcionais por \citeonline  {sommer92}.}}{37}{figure.3.9}}
+\@writefile{brf}{\backcite{sommer92}{{37}{9}{figure.3.9}}}
+\newlabel{RNF1}{{\M@TitleReference {9}{Classifica\IeC {\c c}\IeC {\~a}o de Requisitos n\IeC {\~a}o Funcionais por \citeonline  {sommer92}.}}{37}{Classificação de Requisitos não Funcionais por \citeonline {sommer92}}{figure.3.9}{}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {3.5.3.2}Requisitos N\IeC {\~a}o Funcionais de Desempenho}{37}{subsubsection.3.5.3.2}}
+\newlabel{requisitos_nao_funcionais}{{\M@TitleReference {3.5.3.2}{Requisitos N\IeC {\~a}o Funcionais de Desempenho}}{37}{Requisitos Não Funcionais de Desempenho\relax }{subsubsection.3.5.3.2}{}}
+\@writefile{brf}{\backcite{Nixon}{{37}{3.5.3.2}{subsubsection.3.5.3.2}}}
+\citation{DePadua_2003}
+\citation{patel}
+\citation{patel}
+\citation{patel}
+\citation{patel}
+\gdef \LT@iii {\LT@entry 
+    {1}{152.79999pt}\LT@entry 
+    {1}{312.4pt}}
+\@writefile{brf}{\backcite{DePadua_2003}{{38}{3.5.3.2}{subsubsection.3.5.3.2}}}
+\@writefile{brf}{\backcite{DePadua_2003}{{38}{3.5.3.2}{subsubsection.3.5.3.2}}}
+\@writefile{brf}{\backcite{patel}{{38}{3.5.3.2}{subsubsection.3.5.3.2}}}
+\@writefile{brf}{\backcite{patel}{{38}{3.5.3.2}{subsubsection.3.5.3.2}}}
+\@writefile{brf}{\backcite{patel}{{38}{5}{table.3.5}}}
+\@writefile{lot}{\contentsline {table}{\numberline {5}{Caracter\IeC {\'\i }sticas avaliadas pelo experimento de \citeonline  {patel}}}{38}{table.3.5}}
+\newlabel{patel}{{\M@TitleReference {5}{Requisitos N\IeC {\~a}o Funcionais de Desempenho}}{38}{Características avaliadas pelo experimento de \citeonline {patel}\relax }{table.3.5}{}}
+\citation{patel}
+\citation{patel}
+\citation{patel}
+\citation{patel}
+\citation{patel}
+\citation{patel}
+\@writefile{brf}{\backcite{patel}{{39}{3.5.3.2}{table.3.5}}}
+\@writefile{brf}{\backcite{patel}{{39}{3.5.3.2}{table.3.5}}}
+\@writefile{lot}{\contentsline {table}{\numberline {6}{\ignorespaces Rank gerado a partir do experimento de \citeonline  {patel}.}}{39}{table.3.6}}
+\@writefile{brf}{\backcite{patel}{{39}{6}{table.3.6}}}
+\newlabel{tabela_patelc}{{\M@TitleReference {6}{Rank gerado a partir do experimento de \citeonline  {patel}.}}{39}{Rank gerado a partir do experimento de \citeonline {patel}}{table.3.6}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {10}{\ignorespaces Rank de melhor desempenho nos testes feitos por Patel}}{39}{figure.3.10}}
+\newlabel{Rank}{{\M@TitleReference {10}{Rank de melhor desempenho nos testes feitos por Patel}}{39}{Rank de melhor desempenho nos testes feitos por Patel\relax }{figure.3.10}{}}
+\@writefile{brf}{\backcite{patel}{{39}{3.5.3.2}{figure.3.10}}}
+\citation{9126}
+\@writefile{brf}{\backcite{patel}{{40}{3.5.3.2}{figure.3.10}}}
+\@writefile{brf}{\backcite{9126}{{40}{3.5.3.2}{figure.3.10}}}
+\BKM@entry{id=40,dest={636861707465722E34},srcline={456}}{5175616C696461646520646520536F6674776172652065204D5C333531747269636173}
+\BKM@entry{id=41,dest={73656374696F6E2E342E31},srcline={465}}{4F20717565205C333531207175616C696461646520646520736F6674776172653F}
+\@writefile{toc}{\contentsline {chapter}{\chapternumberline {4}Qualidade de Software e M\IeC {\'e}tricas}{41}{chapter.4}}
+\newlabel{Qualidade_de_Software}{{\M@TitleReference {4}{Qualidade de Software e M\IeC {\'e}tricas}}{41}{Qualidade de Software e Métricas\relax }{chapter.4}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {4.1}O que \IeC {\'e} qualidade de software?}{41}{section.4.1}}
+\BKM@entry{id=42,dest={73656374696F6E2E342E32},srcline={484}}{5469706F73206465205175616C696461646520646520536F667477617265}
+\BKM@entry{id=43,dest={73756273656374696F6E2E342E322E31},srcline={490}}{5175616C69646164652045787465726E61}
+\BKM@entry{id=44,dest={73756273656374696F6E2E342E322E32},srcline={498}}{5175616C696461646520496E7465726E61}
+\@writefile{toc}{\contentsline {section}{\numberline {4.2}Tipos de Qualidade de Software}{42}{section.4.2}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.2.1}Qualidade Externa}{42}{subsection.4.2.1}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.2.2}Qualidade Interna}{42}{subsection.4.2.2}}
+\BKM@entry{id=45,dest={73756273656374696F6E2E342E322E33},srcline={525}}{5175616C696461646520456D2055736F}
+\BKM@entry{id=46,dest={73656374696F6E2E342E33},srcline={549}}{4D5C33353174726963617320646520536F667477617265}
+\@writefile{lof}{\contentsline {figure}{\numberline {11}{\ignorespaces Divis\IeC {\~a}o em caracter\IeC {\'\i }sticas da Qualidade Interna/ Externa (NBR ISO/IEC 9126-1)}}{44}{figure.4.11}}
+\newlabel{Qualidade}{{\M@TitleReference {11}{Divis\IeC {\~a}o em caracter\IeC {\'\i }sticas da Qualidade Interna/ Externa (NBR ISO/IEC 9126-1)}}{44}{Divisão em características da Qualidade Interna/ Externa (NBR ISO/IEC 9126-1)\relax }{figure.4.11}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.2.3}Qualidade Em Uso}{44}{subsection.4.2.3}}
+\@writefile{lof}{\contentsline {figure}{\numberline {12}{\ignorespaces Divis\IeC {\~a}o em caracter\IeC {\'\i }sticas da qualidade em uso (NBR ISO/IEC 9126-1)}}{44}{figure.4.12}}
+\newlabel{Qualidade_Uso}{{\M@TitleReference {12}{Divis\IeC {\~a}o em caracter\IeC {\'\i }sticas da qualidade em uso (NBR ISO/IEC 9126-1)}}{44}{Divisão em características da qualidade em uso (NBR ISO/IEC 9126-1)\relax }{figure.4.12}{}}
+\gdef \LT@iv {\LT@entry 
+    {1}{82.79999pt}\LT@entry 
+    {1}{232.4pt}\LT@entry 
+    {1}{147.4pt}}
+\@writefile{toc}{\contentsline {section}{\numberline {4.3}M\IeC {\'e}tricas de Software}{45}{section.4.3}}
+\@writefile{lot}{\contentsline {table}{\numberline {7}{Tipos de m\IeC {\'e}tricas de Software.}}{45}{table.4.7}}
+\newlabel{tipos_metricas}{{\M@TitleReference {7}{M\IeC {\'e}tricas de Software}}{45}{Tipos de métricas de Software}{table.4.7}{}}
+\BKM@entry{id=47,dest={73756273656374696F6E2E342E332E31},srcline={621}}{47514D205C28476F616C2C205175657374696F6E2C204D65747269635C29}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.3.1}GQM (Goal, Question, Metric)}{46}{subsection.4.3.1}}
+\newlabel{GQM}{{\M@TitleReference {4.3.1}{GQM (Goal, Question, Metric)}}{46}{GQM (Goal, Question, Metric)\relax }{subsection.4.3.1}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {13}{\ignorespaces Fases do GQM}}{47}{figure.4.13}}
+\newlabel{Fases_GQM}{{\M@TitleReference {13}{Fases do GQM}}{47}{Fases do GQM\relax }{figure.4.13}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {14}{\ignorespaces N\IeC {\'\i }veis do GQM}}{47}{figure.4.14}}
+\newlabel{Niveis_GQM}{{\M@TitleReference {14}{N\IeC {\'\i }veis do GQM}}{47}{Níveis do GQM\relax }{figure.4.14}{}}
+\BKM@entry{id=48,dest={73756273656374696F6E2E342E332E32},srcline={680}}{50534D}
+\@writefile{lof}{\contentsline {figure}{\numberline {15}{\ignorespaces Estrutura do GQM (Basili, Gianluigi e Dieter, 1994)}}{48}{figure.4.15}}
+\newlabel{Estrutura_GQM}{{\M@TitleReference {15}{Estrutura do GQM (Basili, Gianluigi e Dieter, 1994)}}{48}{Estrutura do GQM (Basili, Gianluigi e Dieter, 1994)\relax }{figure.4.15}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.3.2}PSM}{48}{subsection.4.3.2}}
+\gdef \LT@v {\LT@entry 
+    {1}{112.79999pt}\LT@entry 
+    {1}{232.4pt}\LT@entry 
+    {1}{117.4pt}}
+\@writefile{lot}{\contentsline {table}{\numberline {8}{Detalhamento das necessidades da informa\IeC {\c c}\IeC {\~a}o do PSM.}}{49}{table.4.8}}
+\newlabel{tipos_metricas}{{\M@TitleReference {8}{PSM}}{49}{Detalhamento das necessidades da informação do PSM}{table.4.8}{}}
+\gdef \LT@vi {\LT@entry 
+    {1}{232.79999pt}\LT@entry 
+    {1}{217.4pt}}
+\@writefile{lot}{\contentsline {table}{\numberline {9}{Conceitos Mensur\IeC {\'a}veis do PSM.}}{50}{table.4.9}}
+\newlabel{tipos_metricas}{{\M@TitleReference {9}{PSM}}{50}{Conceitos Mensuráveis do PSM}{table.4.9}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {16}{\ignorespaces Construtor de M\IeC {\'e}tricas (McGARRY, 2002; BORGES, 2003) }}{52}{figure.4.16}}
+\newlabel{PSM}{{\M@TitleReference {16}{Construtor de M\IeC {\'e}tricas (McGARRY, 2002; BORGES, 2003) }}{52}{Construtor de Métricas (McGARRY, 2002; BORGES, 2003) \relax }{figure.4.16}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {17}{\ignorespaces Modelo de Informa\IeC {\c c}\IeC {\~a}o do PSM (CARD e JONES, 2003)) }}{52}{figure.4.17}}
+\newlabel{Modelo_PSM}{{\M@TitleReference {17}{Modelo de Informa\IeC {\c c}\IeC {\~a}o do PSM (CARD e JONES, 2003)) }}{52}{Modelo de Informação do PSM (CARD e JONES, 2003)) \relax }{figure.4.17}{}}
+\BKM@entry{id=49,dest={636861707465722E35},srcline={1}}{41706C6963615C3334375C3334336F}
+\BKM@entry{id=50,dest={73656374696F6E2E352E31},srcline={5}}{4F626A657469766F206465204D6564695C3334375C3334336F}
+\citation{9126}
+\gdef \LT@vii {\LT@entry 
+    {1}{172.79999pt}\LT@entry 
+    {1}{277.4pt}}
+\BKM@entry{id=51,dest={73656374696F6E2E352E32},srcline={33}}{51756573745C3336356573}
+\citation{patel}
+\citation{patel}
+\@writefile{toc}{\contentsline {chapter}{\chapternumberline {5}Aplica\IeC {\c c}\IeC {\~a}o}{55}{chapter.5}}
+\newlabel{aplica\IeC {\c c}\IeC {\~a}o}{{\M@TitleReference {5}{Aplica\IeC {\c c}\IeC {\~a}o}}{55}{Aplicação\relax }{chapter.5}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {5.1}Objetivo de Medi\IeC {\c c}\IeC {\~a}o}{55}{section.5.1}}
+\@writefile{lot}{\contentsline {table}{\numberline {10}{Objetivo de Medi\IeC {\c c}\IeC {\~a}o.}}{55}{table.5.10}}
+\newlabel{ObjMed}{{\M@TitleReference {10}{Objetivo de Medi\IeC {\c c}\IeC {\~a}o}}{55}{Objetivo de Medição}{table.5.10}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {5.2}Quest\IeC {\~o}es}{55}{section.5.2}}
+\@writefile{brf}{\backcite{patel}{{55}{1}{Item.25}}}
+\@writefile{brf}{\backcite{patel}{{55}{1}{Item.25}}}
+\@writefile{brf}{\backcite{9126}{{55}{1}{table.5.10}}}
+\BKM@entry{id=52,dest={73656374696F6E2E352E33},srcline={59}}{4D5C333531747269636173}
+\gdef \LT@viii {\LT@entry 
+    {1}{172.79999pt}\LT@entry 
+    {1}{277.4pt}}
+\gdef \LT@ix {\LT@entry 
+    {1}{172.79999pt}\LT@entry 
+    {1}{277.4pt}}
+\@writefile{toc}{\contentsline {section}{\numberline {5.3}M\IeC {\'e}tricas}{56}{section.5.3}}
+\@writefile{lot}{\contentsline {table}{\numberline {11}{M\IeC {\'e}trica Externa 001 - Tempo de Espera.}}{56}{table.5.11}}
+\newlabel{tipos_metricas}{{\M@TitleReference {11}{M\IeC {\'e}tricas}}{56}{Métrica Externa 001 - Tempo de Espera}{table.5.11}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {12}{M\IeC {\'e}trica Externa 002 - Tempo de Resposta.}}{56}{table.5.12}}
+\newlabel{tipos_metricas}{{\M@TitleReference {12}{M\IeC {\'e}tricas}}{56}{Métrica Externa 002 - Tempo de Resposta}{table.5.12}{}}
+\gdef \LT@x {\LT@entry 
+    {1}{172.79999pt}\LT@entry 
+    {1}{277.4pt}}
+\@writefile{lot}{\contentsline {table}{\numberline {13}{M\IeC {\'e}trica Externa 003 - Tempo M\IeC {\'e}dio de Resposta.}}{57}{table.5.13}}
+\newlabel{tipos_metricas}{{\M@TitleReference {13}{M\IeC {\'e}tricas}}{57}{Métrica Externa 003 - Tempo Médio de Resposta}{table.5.13}{}}
+\gdef \LT@xi {\LT@entry 
+    {1}{172.79999pt}\LT@entry 
+    {1}{277.4pt}}
+\gdef \LT@xii {\LT@entry 
+    {1}{172.79999pt}\LT@entry 
+    {1}{277.4pt}}
+\@writefile{lot}{\contentsline {table}{\numberline {14}{M\IeC {\'e}trica Externa 004.}}{58}{table.5.14}}
+\newlabel{tipos_metricas}{{\M@TitleReference {14}{M\IeC {\'e}tricas}}{58}{Métrica Externa 004}{table.5.14}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {15}{M\IeC {\'e}trica Externa 005}}{58}{table.5.15}}
+\newlabel{tipos_metricas}{{\M@TitleReference {15}{M\IeC {\'e}tricas}}{58}{Métrica Externa 005\relax }{table.5.15}{}}
+\BKM@entry{id=53,dest={636861707465722E36},srcline={379}}{436F6E7369646572615C3334375C33363565732046696E616973}
+\bibdata{abntex2-options,bibliografia}
+\@writefile{toc}{\contentsline {chapter}{\chapternumberline {6}Considera\IeC {\c c}\IeC {\~o}es Finais}{61}{chapter.6}}
+\newlabel{final}{{\M@TitleReference {6}{Considera\IeC {\c c}\IeC {\~o}es Finais}}{61}{Considerações Finais\relax }{chapter.6}{}}
+\@writefile{toc}{\vspace  {\cftbeforepartskip }}
+\BKM@entry{id=54,dest={73656374696F6E2A2E3131},srcline={3}}{52656665725C3335326E63696173}
+\bibcite{aguiar2007}{Aguiar et al. 2007}
+\bibciteEXPL{aguiar2007}{Aguiar et al.}
+\bibciteIMPL{aguiar2007}{AGUIAR et al.}
+\bibciteYEAR{aguiar2007}{2007}
+\bibcite{Barcia}{BARCIA 2008}
+\bibciteEXPL{Barcia}{BARCIA}
+\bibciteIMPL{Barcia}{BARCIA}
+\bibciteYEAR{Barcia}{2008}
+\bibcite{barrere}{Barr{\'e}re, Avelino e Eduardo S/D}
+\bibciteEXPL{barrere}{Barr{\'e}re, Avelino e Eduardo}
+\bibciteIMPL{barrere}{BARR{\'E}RE; AVELINO; EDUARDO}
+\bibciteYEAR{barrere}{S/D}
+\bibcite{DeBortoli}{Bortoli 1999}
+\bibciteEXPL{DeBortoli}{Bortoli}
+\bibciteIMPL{DeBortoli}{BORTOLI}
+\bibciteYEAR{DeBortoli}{1999}
+\bibcite{muslu}{Boukar e Muslu 2013}
+\bibciteEXPL{muslu}{Boukar e Muslu}
+\bibciteIMPL{muslu}{BOUKAR; MUSLU}
+\bibciteYEAR{muslu}{2013}
+\bibcite{Vig}{CMS Matrix 2014}
+\bibciteEXPL{Vig}{CMS\dots  }
+\bibciteIMPL{Vig}{CMS\dots  }
+\bibciteYEAR{Vig}{2014}
+\bibcite{coelho2011}{Coelho et al. 2011}
+\bibciteEXPL{coelho2011}{Coelho et al.}
+\bibciteIMPL{coelho2011}{COELHO et al.}
+\bibciteYEAR{coelho2011}{2011}
+\bibcite{Conallen}{Conallen 2003}
+\bibciteEXPL{Conallen}{Conallen}
+\bibciteIMPL{Conallen}{CONALLEN}
+\bibciteYEAR{Conallen}{2003}
+\bibcite{coreMedia}{CoreMedia 2014}
+\bibciteEXPL{coreMedia}{CoreMedia}
+\bibciteIMPL{coreMedia}{COREMEDIA}
+\bibciteYEAR{coreMedia}{2014}
+\bibcite{costa}{Costa, Caminha e Lima 2012}
+\bibciteEXPL{costa}{Costa, Caminha e Lima}
+\bibciteIMPL{costa}{COSTA; CAMINHA; LIMA}
+\bibciteYEAR{costa}{2012}
+\bibcite{cysneiros_tese}{Cysneiros 2001}
+\bibciteEXPL{cysneiros_tese}{Cysneiros}
+\bibciteIMPL{cysneiros_tese}{CYSNEIROS}
+\bibciteYEAR{cysneiros_tese}{2001}
+\bibcite{cysneiros97}{Cysneiros e Leite 1997}
+\bibciteEXPL{cysneiros97}{Cysneiros e Leite}
+\bibciteIMPL{cysneiros97}{CYSNEIROS; LEITE}
+\bibciteYEAR{cysneiros97}{1997}
+\bibcite{Duchessi_98}{Duchessi e Chengalur-Smith 1998}
+\bibciteEXPL{Duchessi_98}{Duchessi e Chengalur-Smith}
+\bibciteIMPL{Duchessi_98}{DUCHESSI; CHENGALUR-SMITH}
+\bibciteYEAR{Duchessi_98}{1998}
+\bibcite{face}{Facebook 2014}
+\bibciteEXPL{face}{Facebook}
+\bibciteIMPL{face}{FACEBOOK}
+\bibciteYEAR{face}{2014}
+\@writefile{toc}{\contentsline {chapter}{Refer\^encias}{63}{section*.11}}
+\bibcite{DePadua_2003}{Filho 2003}
+\bibciteEXPL{DePadua_2003}{Filho}
+\bibciteIMPL{DePadua_2003}{FILHO}
+\bibciteYEAR{DePadua_2003}{2003}
+\bibcite{GitHub}{GitHub 2014}
+\bibciteEXPL{GitHub}{GitHub}
+\bibciteIMPL{GitHub}{GITHUB}
+\bibciteYEAR{GitHub}{2014}
+\bibcite{Meusel_2008}{Hochberger e Meusel 2008}
+\bibciteEXPL{Meusel_2008}{Hochberger e Meusel}
+\bibciteIMPL{Meusel_2008}{HOCHBERGER; MEUSEL}
+\bibciteYEAR{Meusel_2008}{2008}
+\bibcite{9126}{ISO/IEC 2001}
+\bibciteEXPL{9126}{ISO/IEC}
+\bibciteIMPL{9126}{ISO/IEC}
+\bibciteYEAR{9126}{2001}
+\bibcite{CMS_Proprietario}{Jornalismo Online 2014}
+\bibciteEXPL{CMS_Proprietario}{Jornalismo\dots  }
+\bibciteIMPL{CMS_Proprietario}{JORNALISMO\dots  }
+\bibciteYEAR{CMS_Proprietario}{2014}
+\bibcite{junior_2003}{Junior e Ant\IeC {\^o}nio 2003}
+\bibciteEXPL{junior_2003}{Junior e Ant\IeC {\^o}nio}
+\bibciteIMPL{junior_2003}{JUNIOR; ANT\IeC {\^o}NIO}
+\bibciteYEAR{junior_2003}{2003}
+\bibcite{Karels}{Karels 2003}
+\bibciteEXPL{Karels}{Karels}
+\bibciteIMPL{Karels}{KARELS}
+\bibciteYEAR{Karels}{2003}
+\bibcite{kotonya}{KOTONYA e SOMMERVILLE 1998}
+\bibciteEXPL{kotonya}{KOTONYA e SOMMERVILLE}
+\bibciteIMPL{kotonya}{KOTONYA; SOMMERVILLE}
+\bibciteYEAR{kotonya}{1998}
+\bibcite{leite}{LEITE 2001}
+\bibciteEXPL{leite}{LEITE}
+\bibciteIMPL{leite}{LEITE}
+\bibciteYEAR{leite}{2001}
+\bibcite{mamani}{MAMANI 1999}
+\bibciteEXPL{mamani}{MAMANI}
+\bibciteIMPL{mamani}{MAMANI}
+\bibciteYEAR{mamani}{1999}
+\bibcite{marketing}{MARKETING DE CONTE\IeC {\'U}DO 2014}
+\bibciteEXPL{marketing}{MARKETING\dots  }
+\bibciteIMPL{marketing}{MARKETING\dots  }
+\bibciteYEAR{marketing}{2014}
+\bibcite{moresi}{Moresi 2003}
+\bibciteEXPL{moresi}{Moresi}
+\bibciteIMPL{moresi}{MORESI}
+\bibciteYEAR{moresi}{2003}
+\bibcite{Nixon}{Nixon 2000}
+\bibciteEXPL{Nixon}{Nixon}
+\bibciteIMPL{Nixon}{NIXON}
+\bibciteYEAR{Nixon}{2000}
+\bibcite{opensource_cms}{OPENSOURCE CMS 2014}
+\bibciteEXPL{opensource_cms}{OPENSOURCE\dots  }
+\bibciteIMPL{opensource_cms}{OPENSOURCE\dots  }
+\bibciteYEAR{opensource_cms}{2014}
+\bibcite{patel}{Patel, Rathod e Parikh 2011}
+\bibciteEXPL{patel}{Patel, Rathod e Parikh}
+\bibciteIMPL{patel}{PATEL; RATHOD; PARIKH}
+\bibciteYEAR{patel}{2011}
+\bibcite{perizo_2005}{PERIZZOLO 2005}
+\bibciteEXPL{perizo_2005}{PERIZZOLO}
+\bibciteIMPL{perizo_2005}{PERIZZOLO}
+\bibciteYEAR{perizo_2005}{2005}
+\bibcite{Reis}{Reis et al. 2011}
+\bibciteEXPL{Reis}{Reis et al.}
+\bibciteIMPL{Reis}{REIS et al.}
+\bibciteYEAR{Reis}{2011}
+\bibcite{salgado}{Salgado e Atoji 2008}
+\bibciteEXPL{salgado}{Salgado e Atoji}
+\bibciteIMPL{salgado}{SALGADO; ATOJI}
+\bibciteYEAR{salgado}{2008}
+\bibcite{DosSantos}{Santos 2013}
+\bibciteEXPL{DosSantos}{Santos}
+\bibciteIMPL{DosSantos}{SANTOS}
+\bibciteYEAR{DosSantos}{2013}
+\bibcite{sherpa}{Sherpa 2014}
+\bibciteEXPL{sherpa}{Sherpa}
+\bibciteIMPL{sherpa}{SHERPA}
+\bibciteYEAR{sherpa}{2014}
+\bibcite{shu_2013}{Shu et al. 2013}
+\bibciteEXPL{shu_2013}{Shu et al.}
+\bibciteIMPL{shu_2013}{SHU et al.}
+\bibciteYEAR{shu_2013}{2013}
+\bibcite{sommer92}{SOMMERVILLE 1992}
+\bibciteEXPL{sommer92}{SOMMERVILLE}
+\bibciteIMPL{sommer92}{SOMMERVILLE}
+\bibciteYEAR{sommer92}{1992}
+\bibcite{Vantagens}{Szybalski e Zabierowski 2011}
+\bibciteEXPL{Vantagens}{Szybalski e Zabierowski}
+\bibciteIMPL{Vantagens}{SZYBALSKI; ZABIEROWSKI}
+\bibciteYEAR{Vantagens}{2011}
+\bibcite{Tanenbaum}{Tanenbaum e Woodhull 2006}
+\bibciteEXPL{Tanenbaum}{Tanenbaum e Woodhull}
+\bibciteIMPL{Tanenbaum}{TANENBAUM; WOODHULL}
+\bibciteYEAR{Tanenbaum}{2006}
+\bibcite{twitter}{Twitter 2014}
+\bibciteEXPL{twitter}{Twitter}
+\bibciteIMPL{twitter}{TWITTER}
+\bibciteYEAR{twitter}{2014}
+\bibcite{Vision}{Vision Widget - Front-End Design Impression 2014}
+\bibciteEXPL{Vision}{Vision\dots  }
+\bibciteIMPL{Vision}{VISION\dots  }
+\bibciteYEAR{Vision}{2014}
+\bibcite{xiang}{Xiang e Yu 2010}
+\bibciteEXPL{xiang}{Xiang e Yu}
+\bibciteIMPL{xiang}{XIANG; YU}
+\bibciteYEAR{xiang}{2010}
+\bibcite{Yoshi}{Yoshiura 2011}
+\bibciteEXPL{Yoshi}{Yoshiura}
+\bibciteIMPL{Yoshi}{YOSHIURA}
+\bibciteYEAR{Yoshi}{2011}
+\newlabel{LastPage}{{}{65}{}{page.65}{}}
+\xdef\lastpage@lastpage{65}
+\xdef\lastpage@lastpageHy{65}
+\bibstyle{abntex2-alf}
+\memsetcounter{lastsheet}{67}
+\memsetcounter{lastpage}{65}
